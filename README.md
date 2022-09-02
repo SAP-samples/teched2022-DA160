@@ -32,7 +32,7 @@ Be aware that some of the exercises are based on each other, therefore flagged a
 
 1. **Getting Started**
 	* [Get your guided experience trial system of SAP Data Warehouse Cloud (mandatory)](exercises/ex00/README.md)
-	* [Sample Business Scenario & Data Model Overview (optional)](exercises/ex00/README.md#sample)
+	* [Sample Business Scenario & Data Model Overview (optional)](exercises/ex00/README.md#sample-business-scenario--data-model-overview)
 
 2. **SAP Data Warehouse Cloud**
 	* [Exercise 01: First Log On (optional)](exercises/ex01/README.md)
