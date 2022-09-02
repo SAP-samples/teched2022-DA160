@@ -2,11 +2,9 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2022 session called ***DA160 - Explore SAP Data Warehouse Cloud from A to Z***.  
 
 ## Overview
-
-This repository contains the material for the SAP TechEd 2022 session called ***DA160 - Explore SAP Data Warehouse Cloud from A to Z***.  
 
 This hands-on workshop will give you the opportunity to build a scenario with exercises for SAP Data Warehouse Cloud and SAP Analytics Cloud.
 Find out how the SAP Data Warehouse Cloud solution helps the line-of-business user get the job done. Discover flexible connection features, and learn how you can access data from different sources. Create an extendable business semantic model in an agile way, and connect analytics and visualization components in the context of a data warehouse.
@@ -56,11 +54,6 @@ Be aware that some of the exercises are based on each other, therefore flagged a
 	* Exercise 13: Revenue by Geography (requires Exercise 08 to be completed)
 	* Exercise 14: Best Salesperson (requires Exercise 11 to be completed)
 
----- OLD ----
-
-Get an overview of the workshop steps in the [ANA369-Overview](exercises/ANA369_Overview.pdf) document.
-
-To start the exercises follow the workshop step-by-step guide [ANA369-Exercise](exercises/ANA369_Excercise.pdf).
     
 Have fun :smiley:
 
