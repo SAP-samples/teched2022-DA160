@@ -7,7 +7,7 @@ First you need to get your guided experience trial system of SAP Data Warehouse 
 1.	Click here.
 <br>![](images/00_00_0010.png)
 
-## Sample Business Scenario & Data Model Overview  {#sample}
+## Sample Business Scenario & Data Model Overview 
 
 The sample data set for the session represents retail transactions from a number of outlet stores located in the United States. The transaction details include the store, the sold product, and the sales manager. In addition, the information on revenue, cost, discount, and profit is available for each transaction. 
 
