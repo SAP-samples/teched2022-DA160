@@ -57,6 +57,7 @@ Be aware that some of the exercises are based on each other, therefore flagged a
     
 Have fun :smiley:
 
+Have fun :smiley:
 
 **IMPORTANT**
 
