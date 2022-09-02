@@ -45,5 +45,6 @@
 
 ## Summary
 
->>>> Now that you have ... 
+-> Now that you have ... 
+
 Continue to - [Exercise 02: Create Your first Space (mandatory)](../ex02/README.md)
