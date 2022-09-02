@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# DA160 - Explore SAP Data Warehouse Cloud from A to Z
 
 ## Description
 
@@ -6,28 +6,64 @@ This repository contains the material for the SAP TechEd 2022 session called Ses
 
 ## Overview
 
-This session introduces attendees to...
+This repository contains the material for the SAP TechEd 2022 session called ***DA160 - Explore SAP Data Warehouse Cloud from A to Z***.  
 
-## Requirements
+This hands-on workshop will give you the opportunity to build a scenario with exercises for SAP Data Warehouse Cloud and SAP Analytics Cloud.
+Find out how the SAP Data Warehouse Cloud solution helps the line-of-business user get the job done. Discover flexible connection features, and learn how you can access data from different sources. Create an extendable business semantic model in an agile way, and connect analytics and visualization components in the context of a data warehouse.
 
-The requirements to follow the exercises in this repository are...
+## Pre-Requisites
+
+Google Chrome, access to this GitHub repository and access to a guided experience trial system of SAP Data Warehouse Cloud.
+You will also need a set of files for these exercises. 
+
+Download the ZIP-file from the GitHub site:
+https://github.com/SAP-samples/teched2022-DA160 >>> ADJUST NAME & File
+
+Once downloaded to your local machine, please unzip the file into a separate folder, as you will need it for the exercises.
+
+## Disclaimer
+
+* Your screen shots may look different than those in the exercises; they may contain additional content, depending on what other attendees have entered.
+* Some user interface elements may differ from the screenshot used in the exercise.
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+Be aware that some of the exercises are based on each other, therefore flagged as **mandatory**. Other parts can work based on prebuilt parts to save you some time, marked as **optional**. This gives you the flexibility to decide which exercises you would like to focus on.
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+1. **Getting Started**
+	* [Get your guided experience trial system of SAP Data Warehouse Cloud (mandatory)](exercises/ex00/README.md)
+	* [Sample Business Scenario & Data Model Overview (optional)](exercises/ex00/README.md#sample)
 
-  
-**OR** Link to the Tutorial Navigator for example...
+2. **SAP Data Warehouse Cloud**
+	* [Exercise 01: First Log On (optional)](exercises/ex01/README.md)
+	* Exercise 02: Create Your first Space (mandatory)
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
+3. **SAP Data Warehouse Cloud – Data Builder**
+	* Exercise 03: Prepare Your Data (optional)
+	* Exercise 04: Creating the Entity Relationship Model (optional)
+	* Exercise 05: Importing Tables (mandatory)
+	* Exercise 06: Uploading Data (mandatory)
+	* Exercise 07: Creating the Dimension (mandatory)
+	* Exercise 08: Creating the View (mandatory)
+	
+4. **SAP Data Warehouse Cloud – Business Layer**
+	* Exercises 09: Business Layer - Dimension
+	* Exercises 10: Business Layer – Analytical Dataset
+	* Exercises 11: Business Layer – Consumption Layer
+	
+5.  **SAP Analytics Cloud**
+	* Exercise 12: Year over Year Comparison (requires Exercise 08 to be completed)
+	* Exercise 13: Revenue by Geography (requires Exercise 08 to be completed)
+	* Exercise 14: Best Salesperson (requires Exercise 11 to be completed)
+
+---- OLD ----
+
+Get an overview of the workshop steps in the [ANA369-Overview](exercises/ANA369_Overview.pdf) document.
+
+To start the exercises follow the workshop step-by-step guide [ANA369-Exercise](exercises/ANA369_Excercise.pdf).
+    
+Have fun :smiley:
+
 
 **IMPORTANT**
 
