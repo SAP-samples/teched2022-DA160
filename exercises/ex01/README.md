@@ -1,42 +1,49 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 01: First Log On 
 
-In this exercise, we will create...
+1. Open Google Chrome and log on to your SAP Data Warehouse Cloud system.  
+2. In the top left of the start screen you will find the menu options.  
+<br>![](images/00_00_0010.png)
 
-## Exercise 2.1 Sub Exercise 1 Description
+3. By clicking on the menu in the top left (the hamburger icon), you can expand the menu to also show the menu text.  
+<br>![](images/00_00_0010.png)
 
-After completing these steps you will have created...
+4. The bottom part of the menu shows the administrative functions.  
+<br>![](images/00_00_0010.png)
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
+5. Now let’s clarify the different areas:  
+<br>![](images/00_00_0010.png)
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
+| Menu Item                | Description                             |
+|:-------------------------|:----------------------------------------|
+| Repository Explorer      | Browse and create objects in repository |
+| Data Marketplace         | Purchase data products from providers and download them directly into your space (deactivated on the guided experience trial) |
+| Business Builder         | Create business entities, fact models, and consumption models to present your data to analytics clients |
+| Data Builder             | Create or import tables and views, and create data flows and entity-relationship diagrams |
+| Data Access Control      | Create criteria-based privileges to filter the data accessible in views and business layer objects |
+| Data Integration Monitor | Monitor remote tables, persisted views, and data flows |
+| Connections              | Create connections to source systems to allow accessing and importing data into SAP Data Warehouse Cloud |
+
+6. Now let’s take a look at the menu items from the Administrative section:  
+<br>![](images/00_00_0010.png)
+
+
+| Menu Item                | Description                             |
+|:-----------------|:----------------------------------------|
+| Space Management | Spaces are a fundamental concept of SAP Data Warehouse Cloud and we will clarify the Spaces concept later on in this section. |
+| Content Network  | The Content Network on the one hand provides you access to Sample content and Business Content from SAP and from SAP’s partner network and on the other hand the Content Network is the area where you would export / import your own content for content lifecycle purposes.  |
+| Security         | This is the area where you create Users and Roles and also monitor traced activities of your system. |
+| System           | This is the area where you configure your Data Provisioning Agents to gain access to your on-premise data sources, as well as the IP Whitelisting entries for the same purpose. |
 
 
 
-## Exercise 2.2 Sub Exercise 2 Description
+17. When you now navigate to the top right corner, please click on the 	  icon to launch the Help dialog. 
+<br>![](images/00_00_0010.png)
+   
+18. In the Help dialog you have multiple options from some Quick Start help to reach out to our support team.   
+<br>![](images/00_00_0010.png)
 
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
 
 ## Summary
 
-You've now ...
-
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Now that you have ... 
+Continue to - [Exercise 1 - Exercise 1 Description](../ex02/README.md)

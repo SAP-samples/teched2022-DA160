@@ -36,4 +36,4 @@ The exercises will walk you through the steps using SAP Data Warehouse Cloud and
 
 Now that you have a guided experience trial system available and got a good understanding of the business scenario, we can start into the hands-on part.
 
-Continue with [Exercise 01: First Log On (optional)](../ex1/README.md)
+Continue with [Exercise 01: First Log On (optional)](../ex01/README.md)
