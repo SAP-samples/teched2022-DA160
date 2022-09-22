@@ -14,9 +14,7 @@ Find out how the SAP Data Warehouse Cloud solution helps the line-of-business us
 Google Chrome, access to this GitHub repository and access to a guided experience trial system of SAP Data Warehouse Cloud.
 You will also need a set of files for these exercises. 
 
-Download the ZIP-file from the GitHub site:
-https://github.com/SAP-samples/teched2022-DA160/blob/main/DA160_Resources.zip 
-[DA160_Resources.zip](DA160_Resources.zip)
+Download the ZIP-file from the GitHub site: [DA160_Resources.zip](DA160_Resources.zip)
 
 Once downloaded to your local machine, please unzip the file into a separate folder, as you will need it for the exercises.
 
