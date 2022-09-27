@@ -8,7 +8,7 @@
 <br>![](images/00_00_0012.png)
 
 4. The bottom part of the menu shows the administrative functions.  
-<br>![](images/00_00_0010.png)
+<br>![](images/00_00_0013.png)
 
 5. Now let’s clarify the different areas:  
 <br>![](images/00_00_0010.png)
