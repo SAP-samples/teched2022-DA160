@@ -2,7 +2,7 @@
 
 1. Open Google Chrome and log on to your SAP Data Warehouse Cloud system.  
 2. In the top left of the start screen you will find the menu options.  
-<br>![](images/00_00_0010.png)
+<br>![](images/00_00_0011.png)
 
 3. By clicking on the menu in the top left (the hamburger icon), you can expand the menu to also show the menu text.  
 <br>![](images/00_00_0010.png)
