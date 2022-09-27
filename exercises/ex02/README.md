@@ -1,4 +1,4 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 2 - Exercise 02: For Your First Space
 
 In this exercise, we will create...
 
