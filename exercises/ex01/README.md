@@ -11,7 +11,6 @@
 <br>![](images/00_00_0013.png)
 
 5. Now let’s clarify the different areas:  
-<br>![](images/00_00_0010.png)
 
 | <h2>Category: </h2>               | <h2>Description: </h2>                             |
 |:-------------------------|:----------------------------------------|
@@ -45,6 +44,6 @@
 
 ## Summary
 
--> Now that you have learned blablabla ... 
+-> Now that you have learned how to set up your account lets move forward to creating your first space. 
 
 Continue to - [Exercise 02: Create Your first Space (mandatory)](../ex02/README.md)
