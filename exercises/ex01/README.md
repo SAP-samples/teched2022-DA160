@@ -13,7 +13,7 @@
 5. Now let’s clarify the different areas:  
 <br>![](images/00_00_0010.png)
 
-| Menu Item                | Description                             |
+| <h2>Category: </h2>               | <h2>Description: </h2>                             |
 |:-------------------------|:----------------------------------------|
 | Repository Explorer      | Browse and create objects in repository |
 | Data Marketplace         | Purchase data products from providers and download them directly into your space (deactivated on the guided experience trial) |
@@ -27,7 +27,7 @@
 <br>![](images/00_00_0010.png)
 
 
-| Menu Item                | Description                             |
+| Category:                  | Description:                              |
 |:-----------------|:----------------------------------------|
 | Space Management | Spaces are a fundamental concept of SAP Data Warehouse Cloud and we will clarify the Spaces concept later on in this section. |
 | Content Network  | The Content Network on the one hand provides you access to Sample content and Business Content from SAP and from SAP’s partner network and on the other hand the Content Network is the area where you would export / import your own content for content lifecycle purposes.  |
