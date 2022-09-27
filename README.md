@@ -33,11 +33,11 @@ Be aware that some of the exercises are based on each other, therefore flagged a
 
 2. **SAP Data Warehouse Cloud**
 	* [Exercise 01: First Log On (optional)](exercises/ex01/README.md)
-	* Exercise 02: Create Your first Space (mandatory)
+	* [Exercise 02: Get to know your own Space (optional) -> work in progress](exercises/ex02/README.md)
 
 3. **SAP Data Warehouse Cloud – Data Builder**
-	* Exercise 03: Prepare Your Data (optional)
-	* Exercise 04: Creating the Entity Relationship Model (optional)
+	* [Exercise 03: Prepare Your Data (optional)](exercises/ex03/README.md) 
+	* Exercise 04: Creating the Entity Relationship Model (optional) 
 	* Exercise 05: Importing Tables (mandatory)
 	* Exercise 06: Uploading Data (mandatory)
 	* Exercise 07: Creating the Dimension (mandatory)
@@ -54,8 +54,6 @@ Be aware that some of the exercises are based on each other, therefore flagged a
 	* Exercise 14: Best Salesperson (requires Exercise 11 to be completed)
 
     
-Have fun :smiley:
-
 Have fun :smiley:
 
 **IMPORTANT**
