@@ -1,8 +1,9 @@
 # Exercise 01: First Log On 
 
-1. Open Google Chrome and log on to your SAP Data Warehouse Cloud system.  
+1. Open Google Chrome and log on to your SAP Data Warehouse Cloud system.
+<br>![](images/00_00_0015.png)
 2. In the top left of the start screen you will find the menu options.  
-<br>![](images/00_00_0011.png)
+<br>![](images/00_00_0016.png)
 
 3. By clicking on the menu in the top left (the hamburger icon), you can expand the menu to also show the menu text.  
 <br>![](images/00_00_0012.png)
@@ -23,7 +24,6 @@
 | Connections              | Create connections to source systems to allow accessing and importing data into SAP Data Warehouse Cloud |
 
 6. Now let’s take a look at the menu items from the Administrative section:  
-<br>![](images/00_00_0010.png)
 
 
 | Menu Items:               | Description:                              |
@@ -39,7 +39,7 @@
 <br>![](images/00_00_0010.png)
    
 18. In the Help dialog you have multiple options from some Quick Start help to reach out to our support team.   
-<br>![](images/00_00_0010.png)
+
 
 
 ## Summary
