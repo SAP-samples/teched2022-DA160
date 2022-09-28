@@ -5,7 +5,7 @@ Warehouse Cloud all data related workflows start with theselection of a Space, s
 Space as our first step.
 
 1. In the menu on the left-hand side, select the option Space Management.
-<br>![](/exercises/ex2/images/02_01_0010.png)
+<br>![](images/00_00_0021.png)
 
 2.	Insert this line of code.
 ```abap
