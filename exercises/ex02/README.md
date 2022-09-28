@@ -12,6 +12,17 @@ ability to create a new Space.
 <br>![](images/00_00_0022.png)
 
 3. Use the “+” symbol to start the process to create a new Space (top right corner)
+<br>![](images/00_00_0023.png)
+
+4. Enter a Space Name – for our example use the following details:
+<li>Space Name: ANA161_XX</li>
+<li>Space ID: ANA161_XX</li>
+<br>Please replace the “XX” with your assigned User Number<p>
+
+5.  The Space ID will be suggested based on your Space Name, but you have the option to change it as well.
+6. Click Create
+<br>![](images/00_00_0024.png)
+
 
 
 
