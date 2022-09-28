@@ -36,7 +36,7 @@
 
 
 17. When you now navigate to the top right corner, please click on the icon to launch the Help dialog. 
-<br>![](images/00_00_0010.png)
+<br>![](images/00_00_0017.png)
    
 18. In the Help dialog you have multiple options from some Quick Start help to reach out to our support team.   
 
