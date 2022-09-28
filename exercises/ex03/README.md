@@ -41,8 +41,7 @@ In the next steps we will start to create the tables in SAP Data Warehouse Cloud
 7. We also can provide already as part of the table, some business description and Tags, which then will be
 used as part of the Business Catalogue.
 8. Enter the following details for the Business Purpose:
-- Description - This is the table for the Sales Transactions
-- Tags - Sales transaction, Revenue, transactions
+|<ul><li>Description - This is the table for the Sales Transactions</li><li>Tags - Sales transaction, Revenue, transactions</li><li>|
 
 
 
