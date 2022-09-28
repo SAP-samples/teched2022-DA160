@@ -34,6 +34,14 @@ requests to the system and the assigned priority will then help to decide which 
 8. Ensure that you configure the Storage Assignment as shown here with 1 GB for Disk and 1 GB for inmemory.
 <br>![](images/00_00_0025.png)
 
+9. Now use the “Add” option in the Members area to assign your user to the Space.
+ANA161 - Explore SAP Data Warehouse Cloud from A to Z
+<br>![](images/00_00_0026.png)
+
+10. Select the user matching your assigned user from the list of available users.
+11. Click Add.
+12. In the top right, click Save
+
 
 
 
