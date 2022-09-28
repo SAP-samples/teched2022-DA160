@@ -11,6 +11,21 @@ Space as our first step.
 ability to create a new Space.
 <br>![](images/00_00_0022.png)
 
+3. Use the “+” symbol to start the process to create a new Space (top right corner)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```abap
 response->set_text( |Hello ABAP World! | ). 
 ```
