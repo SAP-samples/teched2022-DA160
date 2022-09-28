@@ -6,15 +6,15 @@ When you launch the Data Builder from the menu, you will be presented with this 
 <br>![](images/00_00_0031.png)
 
 So, let’s now look at the different asset types:
--Table: Here you basically define a new table from scratch, and you configure each field of the table and
+- Table: Here you basically define a new table from scratch, and you configure each field of the table and
 you do have the ability then to upload data to this table later on.</p>
--Graphical View: In the Graphical View you can leverage Tables and Views to the create new Views
+- Graphical View: In the Graphical View you can leverage Tables and Views to the create new Views
 using a visual interface.</p>
--SQL View: In the SQL View you can leverage Tables and Views to the create new Views by using SQL
+- SQL View: In the SQL View you can leverage Tables and Views to the create new Views by using SQL
 directly.</p>
--Entity Relationship Model: Here you define the relationships between Tables or Views, which then are
+- Entity Relationship Model: Here you define the relationships between Tables or Views, which then are
 being leveraged when you create a new View based on the Tables or Views.</p>
--Data Flow: Here you can define data transformations and leverage the option to load data from a source
+- Data Flow: Here you can define data transformations and leverage the option to load data from a source
 system into SAP Data Warehouse Cloud.</p>
 
 In this section we will start creating the tables for our sample models and then upload the raw data to those
