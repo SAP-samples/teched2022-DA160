@@ -43,6 +43,9 @@ used as part of the Business Catalogue.
 8. Enter the following details for the Business Purpose:
 |<ul><li>Description - This is the table for the Sales Transactions</li><li>Tags - Sales transaction, Revenue, transactions</li><li>|
 
+Tags</p>
+:bulb: **Tip:** Please note, that when entering the Tags, you have to enter each tag individually for now and you can’t enter
+multiple tags separated by comma right now.
 
 
 
