@@ -15,13 +15,25 @@ ability to create a new Space.
 <br>![](images/00_00_0023.png)
 
 4. Enter a Space Name – for our example use the following details:
-<li>Space Name: ANA161_XX</li>
-<li>Space ID: ANA161_XX</li>
+- Space Name: ANA161_XX</li>
+- Space ID: ANA161_XX</li>
 <br>Please replace the “XX” with your assigned User Number<p>
 
 5.  The Space ID will be suggested based on your Space Name, but you have the option to change it as well.
 6. Click Create
 <br>![](images/00_00_0024.png)
+
+7. You are now being presented with the properties of your new Space and you have the ability to configure the
+following options:
+- You can add Users to the Space.
+- As part of the Storage Assignment you can decide, how much storage space overall you will allocate to
+the Space and how much of the assigned storage space you will assign to the In-Memory allocation.
+- You can assign the Space Priority, which will become relevant when multiple Spaces are sending
+requests to the system and the assigned priority will then help to decide which request takes priority.
+
+8. Ensure that you configure the Storage Assignment as shown here with 1 GB for Disk and 1 GB for inmemory.
+<br>![](images/00_00_0025.png)
+
 
 
 
