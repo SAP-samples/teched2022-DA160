@@ -7,7 +7,10 @@ Space as our first step.
 1. In the menu on the left-hand side, select the option Space Management.
 <br>![](images/00_00_0021.png)
 
-2.	Insert this line of code.
+2. After you selected the menu item, you will be presented with a list of existing Spaces and you have the
+ability to create a new Space.
+<br>![](images/00_00_0022.png)
+
 ```abap
 response->set_text( |Hello ABAP World! | ). 
 ```
