@@ -1,6 +1,9 @@
 # Exercise 2 - Exercise 02: Get to know your own Space
-
-In this exercise, we will create...
+In this exercise, we will create your own Space. Spaces as part of the SAP Data Warehouse Cloud solution are virtual team environments where your
+administrator has the ability to assign users and roles, as well as additional resources, such as connections to data sources, and allocated space In SAP Data 
+Warehouse Cloud all data related workflows start with theselection of a Space, so you can see the Space is a fundamental concept and therefore we need to setup our
+Space as our first step.
+...
 
 ## Exercise 2.1 Sub Exercise 1 Description
 
@@ -37,6 +40,7 @@ READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
 
 ## Summary
 
-You've now ...
+You just created your first Space in SAP Data Warehouse Cloud and you can now start your next step and
+create your first Table and Model.
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
