@@ -3,13 +3,8 @@ In this exercise, we will create your own Space. Spaces as part of the SAP Data 
 administrator has the ability to assign users and roles, as well as additional resources, such as connections to data sources, and allocated space In SAP Data 
 Warehouse Cloud all data related workflows start with theselection of a Space, so you can see the Space is a fundamental concept and therefore we need to setup our
 Space as our first step.
-...
 
-## Exercise 2.1 Sub Exercise 1 Description
-
-After completing these steps you will have created...
-
-1. Click here.
+1. In the menu on the left-hand side, select the option Space Management.
 <br>![](/exercises/ex2/images/02_01_0010.png)
 
 2.	Insert this line of code.
