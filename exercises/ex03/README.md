@@ -1,6 +1,9 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 3 - Data Layer - Prepare Your Data
 
-In this exercise, we will create...
+Before we are going to start with our first exercise in creating a table and creating our first model, lets clarify the
+different asset types that you can create in SAP Data Warehouse Cloud.
+When you launch the Data Builder from the menu, you will be presented with this screen:
+
 
 ## Exercise 2.1 Sub Exercise 1 Description
 
