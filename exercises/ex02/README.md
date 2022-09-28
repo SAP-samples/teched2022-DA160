@@ -37,10 +37,6 @@ ability to create a new Space.
 
 
 
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
-
 
 
 ## Exercise 2.2 Sub Exercise 2 Description
