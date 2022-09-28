@@ -35,48 +35,28 @@ requests to the system and the assigned priority will then help to decide which 
 <br>![](images/00_00_0025.png)
 
 9. Now use the “Add” option in the Members area to assign your user to the Space.
-ANA161 - Explore SAP Data Warehouse Cloud from A to Z
+ANA161-Explore SAP Data Warehouse Cloud from A to Z
 <br>![](images/00_00_0026.png)
 
 10. Select the user matching your assigned user from the list of available users.
 11. Click Add.
 12. In the top right, click Save
+<br>![](images/00_00_0027.png)
 
+13. Click on “+ Create time Tables and Dimensions”.
+<br>![](images/00_00_0028.png)
 
+14. For the From Year enter 2019.
+15. For the To Year enter 2022.
+16. For all other elements leave the default values.
+17. Click Create.
+This will create a set of Date / Time Tables which we will use as part of our model to create a date hierarchy
+(Year, Quarter, Month, Day).
+18. In the top right, click Save
+<br>![](images/00_00_0029.png)
 
+19. In the top right, click Deploy.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Exercise 2.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
 
 ## Summary
 
