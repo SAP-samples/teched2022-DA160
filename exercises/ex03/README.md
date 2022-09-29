@@ -61,11 +61,59 @@ Data Type:</p>
 :bulb: **Tip:** Please note, that you can change the Data Type simply by clicking on the item in the Data Type column.
 
 13. After you entered the details for the first column, please enter the following additional columns:
+  
+| Business Name:      | Technical Name:                       | Data Type:          |
+|:--------------------|:--------------------------------------|:--------------------|
+| Transaction ID      | Transaction_ID                        | Integer64           |
+| Transaction Date    | Transaction_Date                      | Date                | 
+| Store ID            | Store_ID                              | String (6)          | 
+| Product ID          | Product_ID                            | String (4)          | 
+| Sales Manager ID    | Sales_Manager_ID                      | String (4)          | 
+| Profit              | Profit                                | Decimal(15,2)       | 
+| Discount            | Discount                              | Decimal(15,2)       | 
+| Revenue             | Revenue                               | Decimal(15,2)       | 
+| Cost                | Cost                                  | Decimal(15,2)       |   
+  
+14. After you entered all columns for the table, ensure you enable the Key Column option for the column
+Transaction ID.
+<br>![](images/00_00_0034png) UPLOAD 
+  
+15. Now use the Save option in the General menu.
+<br>![](images/00_00_0035ng) UPLOAD 
+  
+16. On the first time you save the table, you will be asked to confirm the name and technical name.
+17. Click Save.
+18. After you saved the changes, you also have to deploy the table, so that we can later on upload data to the
+table.
+19. Use the Deploy option from the General menu  
+<br>![](images/00_00_0036g) UPLOAD   
+  
+20. We configured, saved, and deployed our first table.
+21. Now use the Back option in top menu or as alternative you can click on your Space name to navigate back
+to the list of tables. 
+<br>![](images/00_00_0037) UPLOAD   
 
-
-
-
-
+22. You are back at the home screen of the Data Builder and you should see your table in the list of objects.
+23. Use the option New Table.
+24. Enter the following details:<br><ul><li>Business Name - Store</li><li>Technical Name - Store</li><li>Type - Dimension<br>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 ## Summary
 
 You've now ...
