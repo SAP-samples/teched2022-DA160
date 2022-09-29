@@ -34,18 +34,31 @@ In the next steps we will start to create the tables in SAP Data Warehouse Cloud
 4. Select the option New Table</p>
 <br>![](images/00_00_0032.png)
 5. You are being presented with the details to create a new table.
-6. Enter the following details:
-- Business Name - Sales Transactions</p>
-- Technical Name - Sales_Transactions</p>
-- Type - Relational Dataset</p>
+6. Enter the following details:<br><ul><li>Business Name - Sales Transactions</li><li>Technical Name - Sales Transactions</li><li>Type - Relational Dataset
+<br>
+
 7. We also can provide already as part of the table, some business description and Tags, which then will be
 used as part of the Business Catalogue.
-8. Enter the following details for the Business Purpose:
-|<ul><li>Description - This is the table for the Sales Transactions</li><li>Tags - Sales transaction, Revenue, transactions</li><li>|
 
-Tags</p>
+8. Enter the following details for the Business Purpose:<br><ul><li>Description - This is the table for the Sales Transactions</li><li>Tags - Sales transaction, Revenue, transactions<br>
+
+Tags:</p>
 :bulb: **Tip:** Please note, that when entering the Tags, you have to enter each tag individually for now and you can’t enter
 multiple tags separated by comma right now.
+
+9. Scroll down to the area Columns (you can also use the tabs in the page header for navigation). Here you
+define now the structure of the table by adding the individual columns.
+<br>![](images/00_00_0032.png)
+
+10. Use the “+” sign in the top right corner of the Columns area to start the process of creating your first table
+column
+<br>![](images/00_00_0033.png)
+
+11. You now need to enter a Business Name, a Technical Name, and you need to configure the Data Type
+12. For the first column, enter the following details:<br><ul><li>Business - Name Transaction ID</li><li>Technical Name - Transaction_ID</li><li>Data Type - Integer64<br>
+
+
+
 
 
 
