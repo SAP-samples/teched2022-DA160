@@ -57,8 +57,10 @@ column
 11. You now need to enter a Business Name, a Technical Name, and you need to configure the Data Type
 12. For the first column, enter the following details:<br><ul><li>Business - Name Transaction ID</li><li>Technical Name - Transaction_ID</li><li>Data Type - Integer64<br>
 
+Data Type:</p>
+:bulb: **Tip:** Please note, that you can change the Data Type simply by clicking on the item in the Data Type column.
 
-
+13. After you entered the details for the first column, please enter the following additional columns:
 
 
 
