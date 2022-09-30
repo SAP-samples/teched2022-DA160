@@ -1,6 +1,6 @@
 # Exercise 6 - Uploading Data
 
-In this exercise, we will create...
+In this exercise, we will create...NEED TO FILL IN 
 
 The files for this exercise are part of the ZIP file you downloaded in the beginning.
 We will now upload the CSV files into the corresponding tables.
@@ -35,6 +35,6 @@ Please upload the data for the following tables:
 
 ## Summary
 
-You've now ...
+You've now ...NEED TO FILL IN
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
