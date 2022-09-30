@@ -3,159 +3,90 @@
 In this exercise, we will createthe Entity Relationship Model. But before we start the exercise, lets clarify what an Entity Relationship model is
 and why we are creating it.
 
+An Entity Relationship Model provides a variety of benefits:
+- Definition of entity-relationship models<p>
+- Design physical or remote database models<p>
+- Re-use existing entities (table, view) from Data Builder<p>
+- Add new entities on-the-fly<p>
+- In-editor real time data preview<p>
+- Model Import / Export<p>
+
+Basically, the Entity Relationship Model is not a view that you would consume in SAP Analytics Cloud, but
+instead it represents the relationship between the tables or views, and it helps you to define the relationship
+once, so that when you create a new view, that you do not have to define those relationships each time
+
+In the next steps we will create the new Entity Relationship Model.
+
+1. Log On to your SAP Data Warehouse Cloud tenant.
+2. Select the menu option Data Builder on the left-hand side
+<br>![](images/00_00_0041.png) UPLOAD
+
+3. Select the option New Entity - Relationship Model.
+4. On the left-hand side you are presented with the local Tables and Views from your Repository and you also
+have the option to bring in Tables from any remote Sources that you have configured.
+5. Ensure to select the option Repository, so that we see the local Tables.
+6. Open the list of Tables.
+<br>![](images/00_00_0042.png) UPLOAD
+
+7. Here you should see the tables that we created previously.
+8. Now drag and drop the table Sales Transactions to the canvas.
+<br>![](images/00_00_0043.png) UPLOAD
+
+9. When you select the Sales Transactions table on the canvas, you are presented with additional options, that
+allow you to add a new column, create a new View, create a new table, create a join, open the table in the
+editor, and to preview the data.
+10. Now drag and drop the table Store to the canvas next to the table Sales Transactions.
+11. Select the table Sales Transaction.
+12. Click on the symbol to Create a new Association.
+<br>![](images/00_00_0044.png) UPLOAD
+
+13. Click on the arrow symbol and drag the icon over to the table Store. You are creating a new Association
+between the table Sales Transactions and the table Store.
+<br>![](images/00_00_0045.png) UPLOAD
+
+14. In the Properties panel on the right-hand side click on the Expand icon.
+<br>![](images/00_00_0046.png) UPLOAD
+
+15. Ensure that the join between the table Sales Transactions and Store is based on column Store ID
+(STORE_ID). The system suggests this based on matching columns, but you can also add / remove these
+joins manually
+<br>![](images/00_00_0047.png) UPLOAD
+
+16. Click on the Expand icon in the top right corner again to reduce the size of the panel.
+17. Now drag the table Product onto the canvas.
+18. Select the table Sales Transactions on the canvas.
+19. Select the arrow and drag and drop the arrow to table Products to create a new Association between the table Sales Transactions and table Product.
+<br>![](images/00_00_0048.png) UPLOAD
+
+20. Ensure that the join between the Sales Transactions table and table Product is based on the Product ID (Product ID) column.
+21. Now drag the table Sales Manager onto the canvas.
+22. Create a new Association between table Sales Transactions and table Sales Manager.
+23. Ensure that the join between the Sales Transactions table and the Sales Manager table is based on the Sales Manager ID (Sales Manager ID) column.
+24. On the left hand side in the Repository panel, open the list of Views
+<br>![](images/00_00_0048.png) UPLOAD
+
+25. Now drag the View Time Dimension – Day to the canvas.
+26. Select the table Sales Transactions on the canvas.
+27. Select the arrow and drag and drop the arrow to the view Time Dimension - Day to create a new Association between the table Sales Transactions and the view Time Dimension - Day.
+28. In the panel on the right-hand side now, create a join between the Transaction Date column and the Date column.
+<br>![](images/00_00_0049.png) UPLOAD
+
+29. You can use the option to arrange all tables in the toolbar.
+<br>![](images/00_00_0411.png) UPLOAD
+
+30. Your Entity Relationship Model should look like the image shown below
+<br>![](images/00_00_0412.png) UPLOAD
+
+31. Save the changes to your Entity Relationship model by using the Save option in the General menu.
+32. Enter the following details:<br><ul><li>Business Name - My First Entity Model</li><li>Technical Name - My_First_Entity_Model<br>
+<br>
+
+33. Click Save.
+34. Deploy the model.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Exercise 2.1 Sub Exercise 1 Description
-
-After completing these steps you will have created...
-
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
-
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
-
-
-
-## Exercise 2.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
 
 ## Summary
 
-You've now ...
+You've now created the Entity Relationship Model and will make use of it in the next steps when we create the Views.
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
