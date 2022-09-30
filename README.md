@@ -37,21 +37,21 @@ Be aware that some of the exercises are based on each other, therefore flagged a
 
 3. **SAP Data Warehouse Cloud – Data Builder**
 	* [Exercise 03: Prepare Your Data (optional)](exercises/ex03/README.md) - WORK IN PROGRESS
-	* Exercise 04: Creating the Entity Relationship Model (optional) - WORK IN PROGRESS
-	* Exercise 05: Importing Tables (mandatory) - OPEN
-	* Exercise 06: Uploading Data (mandatory) - OPEN
-	* Exercise 07: Creating the Dimension (mandatory) - OPEN
-	* Exercise 08: Creating the View (mandatory) - OPEN
+	* [Exercise 04: Creating the Entity Relationship Model (optional)](exercises/ex04/README.md) - WORK IN PROGRESS
+	* [Exercise 05: Importing Tables (mandatory)](exercises/ex05/README.md) - OPEN
+	* [Exercise 06: Uploading Data (mandatory)](exercises/ex06/README.md) - OPEN
+	* [Exercise 07: Creating the Dimension (mandatory)](exercises/ex07/README.md) - OPEN
+	* [Exercise 08: Creating the View (mandatory)](exercises/ex08/README.md) - OPEN
 	
 4. **SAP Data Warehouse Cloud – Business Layer**
-	* Exercises 09: Business Layer - Dimension - OPEN
-	* Exercises 10: Business Layer – Analytical Dataset - OPEN
-	* Exercises 11: Business Layer – Consumption Layer - OPEN
+	* [Exercises 09: Business Layer - Dimension - OPEN](exercises/ex09/README.md)
+	* [Exercises 10: Business Layer – Analytical Dataset - OPEN](exercises/ex10/README.md)
+	* [Exercises 11: Business Layer – Consumption Layer - OPEN](exercises/ex11/README.md)
 	
 5.  **SAP Analytics Cloud**
-	* Exercise 12: Year over Year Comparison (requires Exercise 08 to be completed) - OPEN
-	* Exercise 13: Revenue by Geography (requires Exercise 08 to be completed) - OPEN
-	* Exercise 14: Best Salesperson (requires Exercise 11 to be completed) - OPEN
+	* [Exercise 12: Year over Year Comparison (requires Exercise 08 to be completed)](exercises/ex12/README.md) - OPEN
+	* [Exercise 13: Revenue by Geography (requires Exercise 08 to be completed)](exercises/ex13/README.md) - OPEN
+	* [Exercise 14: Best Salesperson (requires Exercise 11 to be completed)](exercises/ex14/README.md) - OPEN
 
     
 Have fun :smiley:
