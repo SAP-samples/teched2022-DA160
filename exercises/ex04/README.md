@@ -1,4 +1,4 @@
-# Exercise 2 - Creating the Entity Relationship Model
+# Exercise 4 - Creating the Entity Relationship Model
 
 In this exercise, we will createthe Entity Relationship Model. But before we start the exercise, lets clarify what an Entity Relationship model is
 and why we are creating it.
