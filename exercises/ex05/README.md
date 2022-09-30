@@ -1,4 +1,12 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 5 - Importing Tables
+
+Please note, that this exercise is only required in case you did not create the tables and the Entity Relationship Model for our sample model manually, but instead prefer to import them.
+
+The file for this exercise is “Sales Model - Entity Relationship Model.json” and the file is part of the ZIP file you
+downloaded.
+
+
+
 
 In this exercise, we will create...
 
