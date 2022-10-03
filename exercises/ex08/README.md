@@ -1,39 +1,18 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 2 - Creating the View 
 
-In this exercise, we will create...
+In this exercise, we will create our first view, combining the tables into an asset in SAP Data Warehouse Cloud, which then can be consumed in SAP Analytics Cloud.
 
-## Exercise 2.1 Sub Exercise 1 Description
+A view in SAP Data Warehouse Cloud provides you with several benefits:<br><ul><li> Graphical or script-based editor</li><li>Define views on top of remote, replicated data sources, or tables</li><li>Define unions and joins, rename and remove columns, add calculations and filters</li><li>Create Analytical Datasets, Dimensions or Relational Datasets</li><li>Create Parent-Child or Level-based hierarchies in Dimension views</li><li>Define measures & attributes in Analytical Datasets</li><li>In the Graphical View Builder, you can compute and display the corresponding SQL Statement
+<br>  
+  
+A View in SAP Data Warehouse Cloud allows you to leverage local tables, remote tables, or views and combine
+those into a new View. A View can also contain additional elements, such as filters and calculated columns and
+a view is consumable in SAP Analytics Cloud.
 
-After completing these steps you will have created...
-
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
-
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
-
-
-
-## Exercise 2.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
+In the next steps we will create the new View based on our previously created tables
+1. Log On to your SAP Data Warehouse Cloud tenant.
+2. Select the menu option Data Builder on the left-hand side.
+<br>![](images/00_00_0015.png) UPLOAD 
 
 ## Summary
 
