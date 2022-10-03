@@ -1,6 +1,116 @@
-# Exercise 1 - Exercise 1 Description
+# Exercise 10 - Business Layer – Analytical Dataset 
 
-In this exercise, we will create...
+In this exercise, we will now create the analytical data set as part of our Business Layer
+and then associate the dimension with the data set.
+
+1. Select the menu option Business Builder on the left-hand side.
+2. In case you are being asked, select the Space you created previously.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Exercise 1.1 Sub Exercise 1 Description
 
