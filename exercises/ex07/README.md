@@ -30,46 +30,63 @@ In the next steps we will create the new Dimension View based on our previously 
 Relationship model.</li><li>(6) You can open the table in the editor.</li><li>(7) You can preview the data.
 <br>
 
+12. Now click on the output view that was added, in our example View 1.
+13. Ensure the option Details (top right corner) is enabled.
+14. Navigate to the Properties window.
+<br>![](images/00_00_0076.png) UPLOAD
 
+15. Here you can configure Properties for the final output of this view:<br><ul><li> You can configure the Business Name as well as the Technical Name.</li><li> You can configure the Type of Dataset.</li><li> You can decide if the View can be consumed or not.</li><li> You can choose which of the available Columns are shown or will be hidden.</li><li> You can define additional Associations.</li><li> You can provide details on the Business Purpose, which then will be available as part of the Business Catalog.
+<br>
 
+16. Enter 
+<br><ul><li> Dimension Store as Business Name.
+<br>
 
+17. The Technical Name will be generated based on the Business Name, but you can also change it.
+18. Set the Semantic Usage to Dimension option.
+19. Enable the option Expose for Consumption.
+20. Now select the node for table Store on the canvas.
+<br>![](images/00_00_0077.png) UPLOAD
 
+21. Use the option to add a new calculated column. This option also includes the ability to configure the geographic enrichment.
+22. Now click on the new entry “fx” on the canvas.
+<br>![](images/00_00_0078.png) UPLOAD
 
-## Exercise 2.1 Sub Exercise 1 Description
+23. Navigate to the properties on the right hand side.
+<br>![](images/00_00_0079.png) UPLOAD
 
-After completing these steps you will have created...
+24. Click on the “+” sign and select the option Geo-Coordinates Column.
+<br>![](images/00_00_0771.png) UPLOAD
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
+25. You are presented with the properties for the new column
+<br>![](images/00_00_0772.png) UPLOAD
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
+26. Configure the following details:<br><ul><li> Business Name: Store Location</li><li> Technical Name: Store_Location</li><li> Latitude: Latitude</li><li> Longitude: Longitude
+<br>
 
+27. After you configured the details, click on the the “<Columns” option in the properties window to go back.
+<br>![](images/00_00_0773.png) UPLOAD
 
+28. Select the final output node for the Dimension View.
+29. Navigate to the properties on the right hand side.
+30. Navigate to the Attributes area.
+<br>![](images/00_00_0774.png) UPLOAD
 
-## Exercise 2.2 Sub Exercise 2 Description
+31. Use the pencil icon (top right area) to open the details for the Attributes.
+<br>![](images/00_00_0775.png) UPLOAD
 
-After completing these steps you will have...
+32. Ensure the Semantic Type for the line item Store Name is set to Text.
+33. Set the Label Column for the line item Store ID to be the Store Name.
+34. Click Close.
+35. In the toolbar in the General menu, use the option to Save your changes.
+<br>![](images/00_00_0776.png) UPLOAD
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
+36. After saving your dimension View, ensure you deploy the view.
+37. In the menu on the left hand side, click on the Home icon.
 
-```
-
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
 
 ## Summary
 
-You've now ...
+You've now ...FILL IN
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
