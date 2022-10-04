@@ -32,65 +32,72 @@ choose from the following:<br><ul><li>DWCEU - for the SAP Data Warehouse System 
 12. When being asked to select a SPACE, select the Space your created previously – ANA161-XX.
 <br>![](/exercises/ex2/images/02_02_0207.png)
 
-  
+13. Click OK. 
+<br>![](/exercises/ex2/images/02_02_0208.png)
+
+14. Afterwards you will be asked to select the Analytical Data Set or the Perspective from your Space.
+15. For our first example, we will use the Analytical Data Set – Sales View – Analytical Dataset.
+16. Click OK.
+17. Select the option to add a Chart.
+18. Now select the newly created empty chart on the canvas.
+19. Navigate to the Builder Panel on the right hand side.
+<br>![](/exercises/ex2/images/02_02_0209.png)
+
+20. Click Add Dimension as part of the Dimensions section.
+21. Select Transaction Date.
+22. Click Add Measure as part of the Measures section.
+23. Select measure Revenue.
+<br>![](/exercises/ex2/images/02_02_0210.png)
+
+24. Now click on the hierarchy icon for dimension Transaction Date in the Builder Panel.
+<br>![](/exercises/ex2/images/02_02_0211.png)
+
+25. Select the option Set Hierarchy.
+<br>![](/exercises/ex2/images/02_02_0212.png)
+
+26. Select the entry Year, Quarter, Month, Day.
+27. Click Set.
+28. Now click on the hierarchy icon for dimension Transaction Date in the Builder Panel a second time.
+<br>![](/exercises/ex2/images/02_02_0213.png)
+
+29. Select the option Level 4 – which represents the Month level.
+30. Your chart should look similar to the image shown below.
+<br>![](/exercises/ex2/images/02_02_0214.png)
+
+31. So instead of looking at two years of data, we want to look at the current year – 2021 – and see the variance
+compared to the last year data.
+32. Click on the Filter icon for dimension Transaction Date.
+<br>![](/exercises/ex2/images/02_02_0215.png)
+
+33. Select the option Filter by Member.
+34. Open the list of members and select the year 2021.
+<br>![](/exercises/ex2/images/02_02_0216.png)
+
+35. Click OK
+36. Now click on the hierarchy icon for dimension Transaction Date in the Builder Panel.
+<br>![](/exercises/ex2/images/02_02_0217.png)
+
+37. Select the option Level 3 – which represents the Month level now as we selected a Year as entry point.
+38. Open the More menu for the chart (top right corner).
+<br>![](/exercises/ex2/images/02_02_0218.png)
+
+39. Select the menu Compare to
+40. Select the option Previous Year.
+41. Your chart should look like this.
+<br>![](/exercises/ex2/images/02_02_0219.png)
+
+42. In the File menu select the option to save your story.
+<br>![](/exercises/ex2/images/02_02_0220.png)
+
+43. Select the User folder that matches your assigned user number.
+44. Enter a Name and Description.
+45. Click OK.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Exercise 2.1 Sub Exercise 1 Description
-
-After completing these steps you will have created...
-
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
-
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
-
-
-
-## Exercise 2.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
 
 ## Summary
 
-You've now ...
+You've now ...FILL IN
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
