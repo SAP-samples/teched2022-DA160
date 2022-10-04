@@ -19,7 +19,7 @@ In the next steps we will create the new Entity Relationship Model.
 
 1. Log On to your SAP Data Warehouse Cloud tenant.
 2. Select the menu option Data Builder on the left-hand side
-<br>![](images/00_00_0041.png) UPLOAD
+<br>![](images/00_00_0041.png) 
 
 3. Select the option New Entity - Relationship Model.
 4. On the left-hand side you are presented with the local Tables and Views from your Repository and you also
