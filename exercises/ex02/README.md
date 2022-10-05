@@ -63,4 +63,4 @@ This will create a set of Date / Time Tables which we will use as part of our mo
 You just created your first Space in SAP Data Warehouse Cloud and you can now start your next step and
 create your first Table and Model.
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 03: Prepare Your Data (optional) ](../ex03/README.md)
