@@ -137,4 +137,4 @@ You have now created and deployed your first Analytical Dataset, which can now b
 Cloud.
 
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Business Layer - Dimension ](../ex09/README.md)
