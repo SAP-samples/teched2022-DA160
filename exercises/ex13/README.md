@@ -82,4 +82,4 @@ longitude and latitude values for the store dimension.
 
 You've now ...FILL IN
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Best Salesperson (requires Exercise 11 to be completed) ](../ex14/README.md)
