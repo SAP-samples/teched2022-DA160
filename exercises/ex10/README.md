@@ -84,5 +84,5 @@ and then associate the dimension with the data set.
 
 You've now ...FILL IN 
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Business Layer – Consumption Layer ](../ex11/README.md)
 
