@@ -89,4 +89,4 @@ Relationship model.</li><li>(6) You can open the table in the editor.</li><li>(7
 
 You've now ...FILL IN
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Creating the View (mandatory) ](../ex08/README.md)
