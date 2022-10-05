@@ -89,4 +89,4 @@ joins manually
 
 You've now created the Entity Relationship Model and will make use of it in the next steps when we create the Views.
 
-Continue to - [Exercise 5 - Excercise 5 ](../ex5/README.md)
+Continue to - [Importing Tables (mandatory)](../ex05/README.md)
