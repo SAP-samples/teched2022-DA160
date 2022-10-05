@@ -37,4 +37,4 @@ Please upload the data for the following tables:
 
 You've now ...NEED TO FILL IN
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Creating the Dimension (mandatory)](../ex07/README.md)
