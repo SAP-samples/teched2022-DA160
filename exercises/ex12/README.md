@@ -100,4 +100,4 @@ compared to the last year data.
 
 You've now ...FILL IN
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Revenue by Geography (requires Exercise 08 to be completed) ](../ex13/README.md)
