@@ -155,7 +155,7 @@ the Store Name into the Attributes.
 40. You will be asked to confirm the Business Name as well as the Technical Name.
 41. Click Save.
 42. Click Deploy in the General Menu.
-43. Use the Back option in top menu or as alternative you can click on your Space name to navigate back to the home screen of the Data Builder.
+43. Click on "Data Builder" on the top menu bar to navigate back to the home screen of the Data Builder.
 44. Enter the following details:<br><ul><li>Business Name - Sales Manager</li><li>Technical Name - Sales_Manager</li><li>Type - Dimension<br>
 <br>  
 45. Navigate to the Attributes for the table.<br>
