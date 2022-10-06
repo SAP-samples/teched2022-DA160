@@ -80,7 +80,7 @@ Please note, that you can change the <strong>Data Type</strong> simply by clicki
 Transaction ID.
   
 15. Now use the Save option in the General menu.
-<br>![](images/00_00_0035.png) UPLOAD 
+<br>![](images/00_00_0035.png) 
   
 16. On the first time you save the table, you will be asked to confirm the name and technical name.
 17. Click Save.
