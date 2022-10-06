@@ -98,10 +98,7 @@ Transaction ID.
 <br>![](images/00_00_0034.png)
 <br>
   
-25. Navigate to the Attributes area.<br>  
-<br>![](images/00_00_0038.png)
-
-26. You will notice, based on the Type Dimension, we now have two additional options for each Column:
+25. Navigate to the Attributes area.You will notice, based on the Type Dimension, we now have two additional options for each Column:
 Semantic Type and Label Column.
 The Label Column allows you to specify a column from the table to be used as Label. For example, you
 could have a Product ID and a Product Description in the table and use the Product Description column as
@@ -109,10 +106,12 @@ Label for the Product ID.
 The Semantic Type option provides you with several option to choose from, so that you can configure an
 additional context for the column, such as the option to configure the column as a Currency column or a
 language column.
-
-27. Use the “+ sign to create new attributes.
+<br>  
   
-28. Enter the following Attributes for the table:  
+26. Use the “+ sign to create new attributes.
+<br>![](images/00_00_0038.png)  
+  
+27. Enter the following Attributes for the table:  
   
 | Business Name:      | Technical Name:                       | Data Type:          | Semantic Type       | Label Column   |
 |:--------------------|:--------------------------------------|:--------------------|:--------------------|:---------------|
@@ -129,7 +128,7 @@ language column.
 Please note, that you can only select the Store Name for the <strong>Label Column</strong> after you entered the details for
 the Store Name into the Attributes.
   
-29. After you entered all columns for the table, ensure you enable the Key Column option for the column Store ID.
+28. After you entered all columns for the table, ensure you enable the Key Column option for the column Store ID.
 30. Click Save in the General menu.
 31. You will be asked to confirm the Business Name as well as the Technical Name.
 32. Click Save.
