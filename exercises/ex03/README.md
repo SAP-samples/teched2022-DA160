@@ -78,21 +78,20 @@ Please note, that you can change the <strong>Data Type</strong> simply by clicki
   
 14. After you entered all columns for the table, ensure you enable the Key Column option for the column
 Transaction ID.
-<br>![](images/00_00_0034png) UPLOAD 
   
 15. Now use the Save option in the General menu.
-<br>![](images/00_00_0035ng) UPLOAD 
+<br>![](images/00_00_0035.png) UPLOAD 
   
 16. On the first time you save the table, you will be asked to confirm the name and technical name.
 17. Click Save.
 18. After you saved the changes, you also have to deploy the table, so that we can later on upload data to the table.
 19. Use the Deploy option from the General menu  
-<br>![](images/00_00_0036g) UPLOAD   
+<br>![](images/00_00_0036.png) UPLOAD   
   
 20. We configured, saved, and deployed our first table.
 21. Now use the Back option in top menu or as alternative you can click on your Space name to navigate back
 to the list of tables. 
-<br>![](images/00_00_0037) UPLOAD   
+<br>![](images/00_00_0037.png) UPLOAD   
 
 22. You are back at the home screen of the Data Builder and you should see your table in the list of objects.
 23. Use the option New Table.
