@@ -4,8 +4,6 @@
 
 Before we are going to start with our first exercise in creating a table and creating our first model, lets clarify the
 different asset types that you can create in SAP Data Warehouse Cloud.
-When you launch the Data Builder from the menu, you will be presented with this screen:
-<br>![](images/00_00_0031.png)
 
 So, let’s now look at the different asset types:
 - Table: Here you basically define a new table from scratch, and you configure each field of the table and
