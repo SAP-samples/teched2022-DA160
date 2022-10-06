@@ -1,5 +1,7 @@
 # Exercise 12 - Year over Year comparison
 
+:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+
 In this exercise, we will setup a story in SAP Analytics Cloud, which allows us to do a Year over Year comparison
 of our revenue information
 
