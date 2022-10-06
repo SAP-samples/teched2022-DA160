@@ -172,13 +172,12 @@ Manager ID.
 49. You will be asked to confirm the Business Name as well as the Technical Name.
 50. Click Save.
 51. Click Deploy in the General Menu.
-52. Use the Back option in top menu or as alternative you can click on your Space name to navigate back to the
-home screen of the Data Builder.
+52. Use the Back option in top menu or as alternative you can click on your Space name to navigate back to the home screen of the Data Builder.
   
 ## Summary
 
 You've now created all tables that we need for our model and the overview in the Data Builder should look
 like this:
-<br>![](images/00_00_0038) UPLOAD 
+<br>![](images/00_00_0039.png)
 
 Continue to - [Creating the Entity Relationship Model ](../ex04/README.md)
