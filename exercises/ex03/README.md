@@ -98,7 +98,13 @@ Transaction ID.
 <br>![](images/00_00_0034.png)
 <br>
   
-25. Navigate to the Attributes area.You will notice, based on the Type Dimension, we now have two additional options for each Column:
+25. Navigate to the Attributes area.
+ 
+26. Use the “+ sign to create new attributes.
+<br>![](images/00_00_0038.png)    
+ 
+:bulb: **Tip:** </p>    
+You will notice, based on the Type Dimension, we now have two additional options for each Column:
 Semantic Type and Label Column.
 The Label Column allows you to specify a column from the table to be used as Label. For example, you
 could have a Product ID and a Product Description in the table and use the Product Description column as
@@ -107,9 +113,6 @@ The Semantic Type option provides you with several option to choose from, so tha
 additional context for the column, such as the option to configure the column as a Currency column or a
 language column.
 <br>  
-  
-26. Use the “+ sign to create new attributes.
-<br>![](images/00_00_0038.png)  
   
 27. Enter the following Attributes for the table:  
   
@@ -129,17 +132,17 @@ Please note, that you can only select the Store Name for the <strong>Label Colum
 the Store Name into the Attributes.
   
 28. After you entered all columns for the table, ensure you enable the Key Column option for the column Store ID.
-30. Click Save in the General menu.
-31. You will be asked to confirm the Business Name as well as the Technical Name.
-32. Click Save.
-33. Click Deploy in the General Menu.
-34. Use the Back option in top menu or as alternative you can click on your Space name to navigate back to the home screen of the Data Builder.
-35. Use the option New Table.
-36. Enter the following details:<br><ul><li>Business Name - Product</li><li>Technical Name - Product</li><li>Type - Dimension<br>
+29. Click Save in the General menu.
+30. You will be asked to confirm the Business Name as well as the Technical Name.
+31. Click Save.
+32. Click Deploy in the General Menu.
+33. Use the Back option in top menu or as alternative you can click on your Space name to navigate back to the home screen of the Data Builder.
+34. Use the option New Table.
+35. Enter the following details:<br><ul><li>Business Name - Product</li><li>Technical Name - Product</li><li>Type - Dimension<br>
 <br>  
   
-37. Navigate to the Attributes for the table.
-38. Enter the following Attributes for the table:
+36. Navigate to the Attributes for the table.
+37. Enter the following Attributes for the table:
  
 | Business Name:        | Technical Name:                       | Data Type:          | Semantic Type       | Label Column          |
 |:----------------------|:--------------------------------------|:--------------------|:--------------------|:----------------------|
@@ -148,29 +151,29 @@ the Store Name into the Attributes.
 | Product Category ID   | Product_Category_ID                   | String (4)          | None                | Product Category Name |
 | Product Category Name | Product_Category_Name                 | String (30)         | Text                |                       |  
   
-39. After you entered all columns for the table, ensure you enable the Key Column option for the column Product ID.
-40. Click Save in the General menu.
-41. You will be asked to confirm the Business Name as well as the Technical Name.
-42. Click Save.
-43. Click Deploy in the General Menu.
-44. Use the Back option in top menu or as alternative you can click on your Space name to navigate back to the home screen of the Data Builder.
-45. Enter the following details:<br><ul><li>Business Name - Sales Manager</li><li>Technical Name - Sales_Manager</li><li>Type - Dimension<br>
+38. After you entered all columns for the table, ensure you enable the Key Column option for the column Product ID.
+39. Click Save in the General menu.
+40. You will be asked to confirm the Business Name as well as the Technical Name.
+41. Click Save.
+42. Click Deploy in the General Menu.
+43. Use the Back option in top menu or as alternative you can click on your Space name to navigate back to the home screen of the Data Builder.
+44. Enter the following details:<br><ul><li>Business Name - Sales Manager</li><li>Technical Name - Sales_Manager</li><li>Type - Dimension<br>
 <br>  
-46. Navigate to the Attributes for the table.<br>
-47. Enter the following Attributes for the table:
+45. Navigate to the Attributes for the table.<br>
+46. Enter the following Attributes for the table:
 
 | Business Name:        | Technical Name:                       | Data Type:          | Semantic Type       | Label Column          |
 |:----------------------|:--------------------------------------|:--------------------|:--------------------|:----------------------|
 | Sales Manager ID      | Sales_Manager_ID                      | String (4)          | None                | Sales Manager Name    |
 | Sales Manager Name    | Sales_Manager_Name                    | String (30)         | Text                |                       |
 
-48. After you entered all columns for the table, ensure you enable the Key Column option for the column Sales
+47. After you entered all columns for the table, ensure you enable the Key Column option for the column Sales
 Manager ID.
-49. Click Save in the General menu.
-50. You will be asked to confirm the Business Name as well as the Technical Name.
-51. Click Save.
-52. Click Deploy in the General Menu.
-53. Use the Back option in top menu or as alternative you can click on your Space name to navigate back to the
+48. Click Save in the General menu.
+49. You will be asked to confirm the Business Name as well as the Technical Name.
+50. Click Save.
+51. Click Deploy in the General Menu.
+52. Use the Back option in top menu or as alternative you can click on your Space name to navigate back to the
 home screen of the Data Builder.
   
 ## Summary
