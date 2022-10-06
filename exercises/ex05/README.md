@@ -1,7 +1,8 @@
 # Exercise 5 - Importing Tables
 
-:bulb: **Tip:** </p>
-Please note, that this exercise is only required in case you did not create the tables and the Entity Relationship Model for our sample model manually, but instead prefer to import them.
+:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+
+:bulb: **Tip:** This exercise is only required in case you did not create the tables and the Entity Relationship Model for our sample model manually, but instead prefer to import them.
 
 The file for this exercise is “Sales Model - Entity Relationship Model.json” and the file is part of the ZIP file you downloaded.
 
