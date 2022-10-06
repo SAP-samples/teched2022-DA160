@@ -1,5 +1,7 @@
 # Exercise 10 - Business Layer – Analytical Dataset 
 
+:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+
 In this exercise, we will now create the analytical data set as part of our Business Layer
 and then associate the dimension with the data set.
 
