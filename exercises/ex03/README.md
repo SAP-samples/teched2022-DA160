@@ -86,20 +86,19 @@ Transaction ID.
 17. Click Save.
 18. After you saved the changes, you also have to deploy the table, so that we can later on upload data to the table.
 19. Use the Deploy option from the General menu  
-<br>![](images/00_00_0036.png) UPLOAD   
+<br>![](images/00_00_0036.png)   
   
 20. We configured, saved, and deployed our first table.
-21. Now use the Back option in top menu or as alternative you can click on your Space name to navigate back
-to the list of tables. 
-<br>![](images/00_00_0037.png) UPLOAD   
+21. Click on "Data Builder" on the top menu bar to navigate back to the list of tables. 
+<br>![](images/00_00_0037.png)  
 
 22. You are back at the home screen of the Data Builder and you should see your table in the list of objects.
 23. Use the option New Table.
 24. Enter the following details:<br><ul><li>Business Name - Store</li><li>Technical Name - Store</li><li>Type - Dimension<br>
 <br>
-
+<br>![](images/00_00_0034.png)
 25. Navigate to the Attributes area.<br>
-
+<br>![](images/00_00_0038.png)
 
 26. You will notice, based on the Type Dimension, we now have two additional options for each Column:
 Semantic Type and Label Column.
