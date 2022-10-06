@@ -103,8 +103,7 @@ Transaction ID.
 26. Use the “+ sign to create new attributes.
 <br>![](images/00_00_0038.png)    
  
-:bulb: **Tip:** </p>    
-You will notice, based on the Type Dimension, we now have two additional options for each Column:
+:bulb: **Tip:** </p> You will notice, based on the Type Dimension, we now have two additional options for each Column:
 Semantic Type and Label Column.
 The Label Column allows you to specify a column from the table to be used as Label. For example, you
 could have a Product ID and a Product Description in the table and use the Product Description column as
