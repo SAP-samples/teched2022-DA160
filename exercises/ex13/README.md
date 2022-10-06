@@ -1,5 +1,7 @@
 # Exercise 13 - Geographic Revenue Distribution
 
+:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+
 In this exercise, we will we will setup a story in SAP Analytics Cloud, which allows us to view the measures along a
 geographic map.
 
