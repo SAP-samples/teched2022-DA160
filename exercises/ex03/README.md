@@ -95,11 +95,10 @@ Transaction ID.
 22. You are back at the home screen of the Data Builder and you should see your table in the list of objects.
 23. Use the option New Table.
 24. Enter the following details:<br><ul><li>Business Name - Store</li><li>Technical Name - Store</li><li>Type - Dimension<br>
-<br>
 <br>![](images/00_00_0034.png)
+<br>
   
-25. Navigate to the Attributes area.<br>
-  
+25. Navigate to the Attributes area.<br>  
 <br>![](images/00_00_0038.png)
 
 26. You will notice, based on the Type Dimension, we now have two additional options for each Column:
