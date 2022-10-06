@@ -1,5 +1,7 @@
 # Exercise 14 - Best Salesperson
 
+:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+
 In this exercise, we will we will setup a story in SAP Analytics Cloud based on our Consumption Layer, and review who
 our best salesperson is.
 
