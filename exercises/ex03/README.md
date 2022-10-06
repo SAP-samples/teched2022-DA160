@@ -29,14 +29,17 @@ In the next steps we will start to create the tables in SAP Data Warehouse Cloud
 
 1. Log On to your SAP Data Warehouse Cloud tenant.</p>
 2. Select the menu option Data Builder on the left-hand side.</p>
-3. In case you are being asked, select your previously created Space – ANA161_XX.</p>
-<br>![](images/00_00_0031.png)
+3. In case you are being asked, select your previously created Space – ANA161_XX.</p>  ??????
 4. Select the option New Table</p>
-<br>![](images/00_00_0032.png)
+<br>![](images/00_00_0031.png)
+
 5. You are being presented with the details to create a new table.
+
 6. Enter the following details:<br><ul><li>Business Name - Sales Transactions</li><li>Technical Name - Sales Transactions</li><li>Type - Relational Dataset
 <br>
 
+<br>![](images/00_00_0032.png)  
+  
 7. We also can provide already as part of the table, some business description and Tags, which then will be
 used as part of the Business Catalogue.
 
