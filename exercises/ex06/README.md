@@ -1,5 +1,7 @@
 # Exercise 6 - Uploading Data
 
+:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+
 In this exercise, we will create...NEED TO FILL IN 
 
 The files for this exercise are part of the ZIP file you downloaded in the beginning.
