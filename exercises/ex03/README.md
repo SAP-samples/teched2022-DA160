@@ -97,7 +97,9 @@ Transaction ID.
 24. Enter the following details:<br><ul><li>Business Name - Store</li><li>Technical Name - Store</li><li>Type - Dimension<br>
 <br>
 <br>![](images/00_00_0034.png)
+  
 25. Navigate to the Attributes area.<br>
+  
 <br>![](images/00_00_0038.png)
 
 26. You will notice, based on the Type Dimension, we now have two additional options for each Column:
