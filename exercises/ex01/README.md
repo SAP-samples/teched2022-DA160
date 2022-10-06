@@ -6,7 +6,7 @@
 <br>![](images/00_00_0016.png)
 
 3. By clicking on the menu in the top left (the hamburger icon), you can expand the menu to also show the menu text.  
-<br>![](images/00_00_0012.png)
+<br>![](images/00_00_0014.png)
 
 4. The bottom part of the menu shows the administrative functions.  
 <br>![](images/00_00_0013.png)
