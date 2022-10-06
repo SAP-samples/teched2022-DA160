@@ -25,7 +25,7 @@ will upload the raw data to those newly created tables, and we will also setup a
 In the next steps we will setup a relatively simple data model and we will start by creating the tables first and
 then upload the information for each table in form of CSV Files
 
-In the next steps we will start to create the tables in SAP Data Warehouse Cloud.
+We will start to create the tables in SAP Data Warehouse Cloud.
 
 1. Log On to your SAP Data Warehouse Cloud tenant.</p>
 2. Select the menu option Data Builder on the left-hand side.</p>
@@ -51,7 +51,6 @@ multiple tags separated by comma right now.
 
 9. Scroll down to the area Columns (you can also use the tabs in the page header for navigation). Here you
 define now the structure of the table by adding the individual columns.
-<br>![](images/00_00_0032.png)
 
 10. Use the “+” sign in the top right corner of the Columns area to start the process of creating your first table
 column
