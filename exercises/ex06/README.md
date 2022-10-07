@@ -25,8 +25,8 @@ We will now upload the CSV files into the corresponding tables.
 
 <br>![](images/00_00_0063.png) 
 
-14. You should receive a message about the successful import of the information.
-15. There is no need to save / deploy the table after you imported the data.
+13. You should receive a message about the successful import of the information.
+14. There is no need to save / deploy the table after you imported the data.
 
 You can now continue and repeat the steps for the other tables. Each table does have a corresponding CSV file
 as part of the download.
@@ -38,6 +38,6 @@ Please upload the data for the following tables:
 
 ## Summary
 
-You've now ...NEED TO FILL IN
+You've now imported all your files. 
 
 Continue to - [Creating the Dimension (mandatory)](../ex07/README.md)
