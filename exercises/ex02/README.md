@@ -14,31 +14,20 @@ Spaces as part of the SAP Data Warehouse Cloud solution are virtual team environ
 <br>![](images/00_00_0023.png)
 
 4. Click the ***EDIT*** button on your assigned space. 
-The pre-defined spaces are usually named the same way as your user ID for example GE12345. The technical is usually identical to the space name. 
+The pre-defined spaces are usually named the same way as your user ID for example GE12345. The technical ID is identical to the space name. 
 
-5.  The Space ID will be suggested based on your Space Name, but you have the option to change it as well.
-6. Click Create
 <br>![](images/00_00_0024.png)
 
-7. You are now being presented with the properties of your new Space and you have the ability to configure the
-following options:
-- You can add Users to the Space.
-- As part of the Storage Assignment you can decide, how much storage space overall you will allocate to
-the Space and how much of the assigned storage space you will assign to the In-Memory allocation.
-- You can assign the Space Priority, which will become relevant when multiple Spaces are sending
-requests to the system and the assigned priority will then help to decide which request takes priority.
+5. You are now being presented with the properties of your Space and you have the ability to configure certain options.
 
-8. Ensure that you configure the Storage Assignment as shown here with 1 GB for Disk and 1 GB for inmemory.
-<br>![](images/00_00_0025.png)
+Changing the storage assignment or workload managment options is not possible in guided experience trial systems. 
 
-9. Now use the “Add” option in the Members area to assign your user to the Space.
+6. In the members section you can see that your user is already assigned to the Space.
 ANA161-Explore SAP Data Warehouse Cloud from A to Z
 <br>![](images/00_00_0026.png)
 
-10. Select the user matching your assigned user from the list of available users.
-11. Click Add.
-12. In the top right, click Save
-<br>![](images/00_00_0027.png)
+
+
 
 13. Click on “+ Create time Tables and Dimensions”.
 <br>![](images/00_00_0028.png)
