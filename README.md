@@ -33,7 +33,7 @@ Be aware that some of the exercises are based on each other, therefore flagged a
 
 2. **SAP Data Warehouse Cloud**
 	* [Exercise 01: First Log On (optional)](exercises/ex01/README.md) - READY FOR REVIEW
-	* [Exercise 02: Get to know your own Space (mandatory) -> work in progress](exercises/ex02/README.md) - READY FOR REVIEW
+	* [Exercise 02: Get to know your own Space (mandatory)](exercises/ex02/README.md) - READY FOR REVIEW
 
 3. **SAP Data Warehouse Cloud – Data Builder**
 	* [Exercise 03: Prepare Your Data (optional)](exercises/ex03/README.md) - WORK IN PROGRESS
