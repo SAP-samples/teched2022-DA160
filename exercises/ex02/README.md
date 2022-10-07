@@ -18,31 +18,24 @@ The pre-defined spaces are usually named the same way as your user ID for exampl
 
 <br>![](images/00_00_0024.png)
 
-5. You are now being presented with the properties of your Space and you have the ability to configure certain options.
+5. You are now being presented with the properties of your Space and you have the ability to configure certain options. <br>Changing the storage assignment or workload managment options is not possible in guided experience trial systems. 
 
-Changing the storage assignment or workload managment options is not possible in guided experience trial systems. 
-
-6. In the members section you can see that your user is already assigned to the Space.
-ANA161-Explore SAP Data Warehouse Cloud from A to Z
+6. In the members section you can see that your user (e.g. GE12345) is already assigned to the Space.
 <br>![](images/00_00_0026.png)
 
-
-
-
-13. Click on “+ Create time Tables and Dimensions”.
+7. In the **Time Data** section click on ***+ Create time Tables and Dimensions*** to create the time dimension in your space.
 <br>![](images/00_00_0028.png)
 
-14. For the From Year enter 2019.
-15. For the To Year enter 2022.
-16. For all other elements leave the default values.
-17. Click Create.
-This will create a set of Date / Time Tables which we will use as part of our model to create a date hierarchy
+8. For the From Year enter 2019.
+9. For the To Year enter 2023.
+10. For all other elements leave the default values.
+11. Click Create.
+<br>![](images/00_00_0027.png)
+<br>This will create a set of Date / Time Tables which we will use as part of our model to create a date hierarchy
 (Year, Quarter, Month, Day).
-18. In the top right, click Save
-<br>![](images/00_00_0029.png)
 
-19. In the top right, click Deploy.
-
+12. The changes in the **Time Data** section will be deployed immediately. There is no need to save or deploy this change in your space. 
+<br>![](images/00_00_0030.png)
 
 ## Summary
 
