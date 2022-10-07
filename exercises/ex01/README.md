@@ -49,4 +49,4 @@
 
 -> Now that you have learned how to set up your account lets move forward to creating your first space. 
 
-Continue to - [Exercise 02: Create Your first Space (mandatory)](../ex02/README.md)
+Continue to - [Exercise 02: Get to know your own Space (optional)](../ex02/README.md)
