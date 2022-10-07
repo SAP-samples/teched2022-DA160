@@ -9,9 +9,9 @@ We will now upload the CSV files into the corresponding tables.
 1. Log On to your SAP Data Warehouse Cloud tenant.
 2. Select the menu option Data Builder on the left-hand side.
 3. Use a double-click on the table Sales Transactions.
-<br>![](images/00_00_0061.png) UPLOAD
-
 4. Select the menu option Upload Data from CSV File in the toolbar.
+<br>![](images/00_00_0061.png) 
+
 <br>![](images/00_00_0062.png) UPLOAD
 
 5. Click Choose File.
