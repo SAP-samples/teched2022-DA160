@@ -28,11 +28,11 @@ In the next steps we will create the new Entity Relationship Model.
 have the option to bring in Tables from any remote Sources that you have configured.
 5. Ensure to select the option Repository, so that we see the local Tables.
 6. Open the list of Tables.
-<br>![](images/00_00_0042.png) 
-
 7. Here you should see the tables that we created previously.
+<br>![](images/00_00_0042.png)   
+  
 8. Now drag and drop the table Sales Transactions to the canvas.
-<br>![](images/00_00_0043.png) 
+<br>![](images/00_00_0043.png) UPLOAD
 
 9. When you select the Sales Transactions table on the canvas, you are presented with additional options, that
 allow you to add a new column, create a new View, create a new table, create a join, open the table in the
@@ -40,14 +40,14 @@ editor, and to preview the data.
 10. Now drag and drop the table Store to the canvas next to the table Sales Transactions.
 11. Select the table Sales Transaction.
 12. Click on the symbol to Create a new Association.
-<br>![](images/00_00_0044.png) UPLOAD
+<br>![](images/00_00_0044.png)
 
 13. Click on the arrow symbol and drag the icon over to the table Store. You are creating a new Association
 between the table Sales Transactions and the table Store.
-<br>![](images/00_00_0045.png) UPLOAD
+<br>![](images/00_00_0045.png) 
 
 14. In the Properties panel on the right-hand side click on the Expand icon.
-<br>![](images/00_00_0046.png) UPLOAD
+<br>![](images/00_00_0046.png) 
 
 15. Ensure that the join between the table Sales Transactions and Store is based on column Store ID
 (STORE_ID). The system suggests this based on matching columns, but you can also add / remove these
