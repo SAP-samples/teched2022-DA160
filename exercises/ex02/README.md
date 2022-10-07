@@ -2,25 +2,19 @@
 
 :memo: **Note:** This is an OPTIONAL Exercise
 
-In this exercise, we will create your own Space. Spaces as part of the SAP Data Warehouse Cloud solution are virtual team environments where your
-administrator has the ability to assign users and roles, as well as additional resources, such as connections to data sources, and allocated space In SAP Data 
-Warehouse Cloud all data related workflows start with theselection of a Space, so you can see the Space is a fundamental concept and therefore we need to setup our
-Space as our first step.
+In this optional exercise, we will show you your own Space. 
+Spaces as part of the SAP Data Warehouse Cloud solution are virtual team environments where your administrator has the ability to assign users and roles, as well as additional resources, such as connections to data sources, and allocated storage.  In SAP Data Warehouse Cloud all data related workflows start with the selection of a Space, so you can see the Space is a fundamental concept.
+
+:point_right: In case you do not use a guided experience trial system for this hands-on training, then you require a space on the SAP Data Warehouse Cloud tenant you are using. 
 
 1. In the menu on the left-hand side, select the option Space Management.
 <br>![](images/00_00_0021.png)
 
-2. After you selected the menu item, you will be presented with a list of existing Spaces and you have the
-ability to create a new Space.
-<br>![](images/00_00_0022.png)
-
-3. Use the “+” symbol to start the process to create a new Space (top right corner)
+2. After you selected the menu item, you will be presented with a list of existing Spaces .
 <br>![](images/00_00_0023.png)
 
-4. Enter a Space Name – for our example use the following details:
-- Space Name: ANA161_XX</li>
-- Space ID: ANA161_XX</li>
-<br>Please replace the “XX” with your assigned User Number<p>
+4. Click the ***EDIT*** button on your assigned space. 
+The pre-defined spaces are usually named the same way as your user ID for example GE12345. The technical is usually identical to the space name. 
 
 5.  The Space ID will be suggested based on your Space Name, but you have the option to change it as well.
 6. Click Create
