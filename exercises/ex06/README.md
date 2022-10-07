@@ -32,7 +32,7 @@ You can now continue and repeat the steps for the other tables. Each table does 
 as part of the download.
 Please upload the data for the following tables:
 - Product
-- Store
+- Store 
 - Sales Manager
 
 
