@@ -28,8 +28,8 @@ Once downloaded to your local machine, please unzip the file into a separate fol
 Be aware that some of the exercises are based on each other, therefore flagged as **mandatory**. Other parts can work based on prebuilt parts to save you some time, marked as **optional**. This gives you the flexibility to decide which exercises you would like to focus on.
 
 1. **Getting Started**
-	* [Get your guided experience trial system of SAP Data Warehouse Cloud (mandatory)](exercises/ex00/README.md) - WORK IN PROGRESS
-	* [Sample Business Scenario & Data Model Overview (optional)](exercises/ex00/README.md#sample-business-scenario--data-model-overview) - WORK IN PROGRESS
+	* [Get your guided experience trial system of SAP Data Warehouse Cloud (mandatory)](exercises/ex00/README.md) - READY FOR REVIEW
+	* [Sample Business Scenario & Data Model Overview (optional)](exercises/ex00/README.md#sample-business-scenario--data-model-overview) - READY FOR REVIEW
 
 2. **SAP Data Warehouse Cloud**
 	* [Exercise 01: First Log On (optional)](exercises/ex01/README.md) - WORK IN PROGRESS
@@ -44,9 +44,9 @@ Be aware that some of the exercises are based on each other, therefore flagged a
 	* [Exercise 08: Creating the View (mandatory)](exercises/ex08/README.md) - OPEN
 	
 4. **SAP Data Warehouse Cloud – Business Layer**
-	* [Exercises 09: Business Layer - Dimension - OPEN](exercises/ex09/README.md)
-	* [Exercises 10: Business Layer – Analytical Dataset - OPEN](exercises/ex10/README.md)
-	* [Exercises 11: Business Layer – Consumption Layer - OPEN](exercises/ex11/README.md)
+	* [Exercises 09: Business Layer - Dimension](exercises/ex09/README.md) - OPEN
+	* [Exercises 10: Business Layer – Analytical Dataset](exercises/ex10/README.md) - OPEN
+	* [Exercises 11: Business Layer – Consumption Layer](exercises/ex11/README.md) - OPEN
 	
 5.  **SAP Analytics Cloud**
 	* [Exercise 12: Year over Year Comparison (requires Exercise 08 to be completed)](exercises/ex12/README.md) - OPEN
