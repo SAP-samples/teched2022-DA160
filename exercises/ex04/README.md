@@ -52,7 +52,7 @@ between the table Sales Transactions and the table Store.
 15. Ensure that the join between the table Sales Transactions and Store is based on column Store ID
 (STORE_ID). The system suggests this based on matching columns, but you can also add / remove these
 joins manually
-<br>![](images/00_00_0047.png) UPLOAD
+<br>![](images/00_00_0047.png) 
 
 16. Click on the Expand icon in the top right corner again to reduce the size of the panel.
 17. Now drag the table Product onto the canvas.
