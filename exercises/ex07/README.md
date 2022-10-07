@@ -16,6 +16,9 @@ In the next steps we will create the new Dimension View based on our previously 
 <br>
 
 5. Ensure you select the option Repository.
+<br>![](images/00_00_0071.png) 
+ 
+  
 6. Open the list of Tables.
 <br>![](images/00_00_0073.png) UPLOAD
 
@@ -91,4 +94,4 @@ Relationship model.</li><li>(6) You can open the table in the editor.</li><li>(7
 You've now ...FILL IN
 
 Continue to - [Creating the View (mandatory) ](../ex08/README.md)
-<br>![](images/00_00_0071.png) UPLOAD
+
