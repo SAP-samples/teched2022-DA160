@@ -22,8 +22,11 @@ We will now upload the CSV files into the corresponding tables.
 10. Ensure the option Delete Existing Data Before Upload is enabled.
 11. Ensure that all columns of the table have a mapped column from the CSV File.
 12. Click Import.
-13. You should receive a message about the successful import of the information.
-14. There is no need to save / deploy the table after you imported the data.
+
+<br>![](images/00_00_0063.png) 
+
+14. You should receive a message about the successful import of the information.
+15. There is no need to save / deploy the table after you imported the data.
 
 You can now continue and repeat the steps for the other tables. Each table does have a corresponding CSV file
 as part of the download.
