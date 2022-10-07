@@ -58,14 +58,14 @@ joins manually
 17. Now drag the table Product onto the canvas.
 18. Select the table Sales Transactions on the canvas.
 19. Select the arrow and drag and drop the arrow to table Products to create a new Association between the table Sales Transactions and table Product.
-<br>![](images/00_00_0048.png) UPLOAD
+<br>![](images/00_00_0048.png) 
 
 20. Ensure that the join between the Sales Transactions table and table Product is based on the Product ID (Product ID) column.
 21. Now drag the table Sales Manager onto the canvas.
 22. Create a new Association between table Sales Transactions and table Sales Manager.
 23. Ensure that the join between the Sales Transactions table and the Sales Manager table is based on the Sales Manager ID (Sales Manager ID) column.
 24. On the left hand side in the Repository panel, open the list of Views
-<br>![](images/00_00_0048.png) UPLOAD
+<br>![](images/00_00_0048.png) UPLOAD ???????
 
 25. Now drag the View Time Dimension – Day to the canvas.
 26. Select the table Sales Transactions on the canvas.
