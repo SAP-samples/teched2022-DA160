@@ -12,7 +12,7 @@ We will now import the table definitions in form of JSON file by importing a Ent
 3. Select the option New Entity – Relationship Model.
 4. In the New Entity Relationship Model, navigate to the toolbar.
 5. Navigate to the Edit menu.
-<br>![](images/00_00_0051.png) UPLOAD
+<br>![](images/00_00_0051.png) 
 
 6. Open the Import option.
 7. Select the option Import from CSN File.
