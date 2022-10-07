@@ -8,10 +8,9 @@ geographic enrichment, so that we can leverage the Store Location later in SAP A
 In the next steps we will create the new Dimension View based on our previously created tables
 1. Log On to your SAP Data Warehouse Cloud tenant.
 2. Select the menu option Data Builder on the left-hand side.
-<br>![](images/00_00_0071.png) UPLOAD
 
 3. Click New Graphical View.
-<br>![](images/00_00_0072.png) UPLOAD
+<br>![](images/00_00_0072.png) 
 
 4. On the left-hand side you can decide between:<br><ul><li>Repository: Here you have access to the local tables (imported data) and Views.</li><li>Sources: Here you have access to your connections and the remote tables.
 <br>
@@ -92,3 +91,4 @@ Relationship model.</li><li>(6) You can open the table in the editor.</li><li>(7
 You've now ...FILL IN
 
 Continue to - [Creating the View (mandatory) ](../ex08/README.md)
+<br>![](images/00_00_0071.png) UPLOAD
