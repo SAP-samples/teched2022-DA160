@@ -28,11 +28,11 @@ In the next steps we will create the new Entity Relationship Model.
 have the option to bring in Tables from any remote Sources that you have configured.
 5. Ensure to select the option Repository, so that we see the local Tables.
 6. Open the list of Tables.
-<br>![](images/00_00_0042.png) UPLOAD
+<br>![](images/00_00_0042.png) 
 
 7. Here you should see the tables that we created previously.
 8. Now drag and drop the table Sales Transactions to the canvas.
-<br>![](images/00_00_0043.png) UPLOAD
+<br>![](images/00_00_0043.png) 
 
 9. When you select the Sales Transactions table on the canvas, you are presented with additional options, that
 allow you to add a new column, create a new View, create a new table, create a join, open the table in the
