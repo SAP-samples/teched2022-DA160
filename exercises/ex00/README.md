@@ -2,7 +2,7 @@
 
 ## Get your guided experience trial system 
 
-First you need to get your guided experience trial system of SAP Data Warehouse Cloud (mandatory).
+First you need to get your guided experience trial system of SAP Data Warehouse Cloud (mandatory). You could use any SAP Data Warehouse Cloud system you have access to, as all the required files are provided a part of this GitHub repository. 
 
 1.	Navigate to the SAP Data Warehouse Cloud product page on sap.com: <br> https://www.sap.com/products/technology-platform/data-warehouse-cloud.html
 <br>![](images/01_DWC-product_page.png)
@@ -41,15 +41,6 @@ https://www.sap.com/registration/trial.4d48ec23-eadf-4399-8595-ac3f9c66c64f.html
 8.  After a successful login you get to the welcome screen.
 
 <br>![](images/11_DWC_WelcomeScreen.png)
-
-
-<br>![](images/00_00_0010.png)
-
-
-<br>![](images/00_00_0010.png)
-
-
-<br>![](images/00_00_0010.png)
 
 ## Sample Business Scenario & Data Model Overview 
 
