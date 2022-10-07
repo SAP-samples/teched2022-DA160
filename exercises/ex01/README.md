@@ -2,16 +2,20 @@
 
 1. Open Google Chrome and log on to your SAP Data Warehouse Cloud system.
 <br>![](images/00_00_0015.png)
-2. In the top left of the start screen you will find the menu options.  
+
+2. In case you get the follwing pop-up message, use the CLOSE button to get to the start screen. 
+<br>![](images/manage_settings.png)
+
+3. In the top left of the start screen you will find the menu options.  
 <br>![](images/00_00_0016.png)
 
-3. By clicking on the menu in the top left (the hamburger icon), you can expand the menu to also show the menu text.  
+4. By clicking on the menu in the top left (the hamburger icon), you can expand the menu to also show the menu text.  
 <br>![](images/00_00_0012.png)
 
-4. The bottom part of the menu shows the administrative functions.  
+5. The bottom part of the menu shows the administrative functions.  
 <br>![](images/00_00_0014.png)
 
-5. Now let’s clarify the different areas:  
+6. Now let’s clarify the different areas:  
 
 | Menu Items:                | Description:                              |
 |:-------------------------|:----------------------------------------|
@@ -23,7 +27,7 @@
 | Data Integration Monitor | Monitor remote tables, persisted views, and data flows |
 | Connections              | Create connections to source systems to allow accessing and importing data into SAP Data Warehouse Cloud |
 
-6. Now let’s take a look at the menu items from the Administrative section:  
+7. Now let’s take a look at the menu items from the Administrative section:  
 
 
 | Menu Items:               | Description:                              |
@@ -35,7 +39,7 @@
 
 
 
-17. When you now navigate to the top right corner, please click on the icon to launch the Help dialog. In the Help dialog you have multiple options from some Quick Start help to reach out to our support team.  
+8. When you now navigate to the top right corner, please click on the icon to launch the Help dialog. In the Help dialog you have multiple options from some Quick Start help to reach out to our support team.  
 <br>![](images/00_00_0017.png)
 
 
