@@ -32,7 +32,7 @@ have the option to bring in Tables from any remote Sources that you have configu
 <br>![](images/00_00_0042.png)   
   
 8. Now drag and drop the table Sales Transactions to the canvas.
-<br>![](images/00_00_0043.png) UPLOAD
+<br>![](images/00_00_0043.png) 
 
 9. When you select the Sales Transactions table on the canvas, you are presented with additional options, that
 allow you to add a new column, create a new View, create a new table, create a join, open the table in the
@@ -65,13 +65,13 @@ joins manually
 22. Create a new Association between table Sales Transactions and table Sales Manager.
 23. Ensure that the join between the Sales Transactions table and the Sales Manager table is based on the Sales Manager ID (Sales Manager ID) column.
 24. On the left hand side in the Repository panel, open the list of Views
-<br>![](images/00_00_0048.png) UPLOAD ???????
+<br>![](images/00_00_0049.png) UPLOAD ???????
 
 25. Now drag the View Time Dimension – Day to the canvas.
 26. Select the table Sales Transactions on the canvas.
 27. Select the arrow and drag and drop the arrow to the view Time Dimension - Day to create a new Association between the table Sales Transactions and the view Time Dimension - Day.
 28. In the panel on the right-hand side now, create a join between the Transaction Date column and the Date column.
-<br>![](images/00_00_0049.png) UPLOAD
+<br>![](images/00_00_0410.png) UPLOAD
 
 29. You can use the option to arrange all tables in the toolbar.
 <br>![](images/00_00_0411.png) UPLOAD
