@@ -21,10 +21,8 @@ a view is consumable in SAP Analytics Cloud.
 In the next steps we will create the new View based on our previously created tables:
 1. Log On to your SAP Data Warehouse Cloud tenant.
 2. Select the menu option Data Builder on the left-hand side.
-<br>![](images/00_00_0081.png) UPLOAD 
-
 3. Click New Graphical View.
-<br>![](images/00_00_0082.png) UPLOAD 
+<br>![](images/00_00_0081.png)  
   
 4. On the left-hand side you can decide between:<br><ul><li>Repository: Here you have access to the local tables (imported data) and Views</li><li>Sources: Here you have access to your connections and the remote tables.
 <br>
