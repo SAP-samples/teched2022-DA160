@@ -74,7 +74,7 @@ joins manually
 <br>![](images/00_00_0410.png) 
 
 29. You can use the option to arrange all tables in the toolbar.
-<br>![](images/00_00_0411.png) UPLOAD
+<br>![](images/00_00_0411.png) 
 
 30. Your Entity Relationship Model should look like the image shown below
 <br>![](images/00_00_0412.png) UPLOAD
