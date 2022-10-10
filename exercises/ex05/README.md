@@ -10,8 +10,9 @@ We will now import the table definitions in form of JSON file by importing a Ent
 1. Log On to your SAP Data Warehouse Cloud tenant.
 2. Select the menu option Data Builder on the left-hand side.
 3. Select the option New Entity – Relationship Model.
-4. In the New Entity Relationship Model, navigate to the toolbar.
 <br>![](images/00_00_0041.png) 
+
+4. In the New Entity Relationship Model, navigate to the toolbar.
 
 5. Navigate to the Edit menu.
 <br>![](images/00_00_0051.png) 
