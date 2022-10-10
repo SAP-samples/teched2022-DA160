@@ -20,7 +20,7 @@ In the next steps we will create the new Dimension View based on our previously 
  
   
 6. Open the list of Tables.
-<br>![](images/00_00_0042.png) UPLOAD
+<br>![](images/00_00_0042.png) 
 
 7. You are presented with the list of tables, which we created previously.
 8. Drag and Drop the table Store to the canvas.
