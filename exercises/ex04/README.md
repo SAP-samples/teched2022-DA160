@@ -65,7 +65,7 @@ joins manually
 22. Create a new Association between table Sales Transactions and table Sales Manager.
 23. Ensure that the join between the Sales Transactions table and the Sales Manager table is based on the Sales Manager ID (Sales Manager ID) column.
 24. On the left hand side in the Repository panel, open the list of Views
-<br>![](images/00_00_0049.png) UPLOAD ???????
+<br>![](images/00_00_0049.png) 
 
 25. Now drag the View Time Dimension – Day to the canvas.
 26. Select the table Sales Transactions on the canvas.
