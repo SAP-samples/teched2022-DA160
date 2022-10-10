@@ -71,7 +71,7 @@ joins manually
 26. Select the table Sales Transactions on the canvas.
 27. Select the arrow and drag and drop the arrow to the view Time Dimension - Day to create a new Association between the table Sales Transactions and the view Time Dimension - Day.
 28. In the panel on the right-hand side now, create a join between the Transaction Date column and the Date column.
-<br>![](images/00_00_0410.png) UPLOAD
+<br>![](images/00_00_0410.png) 
 
 29. You can use the option to arrange all tables in the toolbar.
 <br>![](images/00_00_0411.png) UPLOAD
