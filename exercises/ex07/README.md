@@ -25,7 +25,7 @@ In the next steps we will create the new Dimension View based on our previously 
 <br>![](images/00_00_0042.png)  
  
 8. Drag and Drop the table Store to the canvas.
-<br>![](images/00_00_0074.png) UPLOAD
+<br>![](images/00_00_0074.png) 
 
 9. You automatically will – in addition to the table you dragged to the canvas – receive the output view as well, in our example called View 1
 10. Now click on the table Store on the canvas.
