@@ -51,14 +51,14 @@ Relationship model.</li><li> You can open the table in the editor.</li><li> You 
 18. Set the Semantic Usage to Dimension option.
 19. Enable the option Expose for Consumption.
 20. Now select the node for table Store on the canvas.
-<br>![](images/00_00_0077.png) UPLOAD
+<br>![](images/00_00_0077.png) 
 
 21. Use the option to add a new calculated column. This option also includes the ability to configure the geographic enrichment.
 22. Now click on the new entry “fx” on the canvas.
-<br>![](images/00_00_0078.png) UPLOAD
+<br>![](images/00_00_0078.png) 
 
 23. Navigate to the properties on the right hand side.
-<br>![](images/00_00_0079.png) UPLOAD
+<br>![](images/00_00_0079.png) UPLOAD ??????
 
 24. Click on the “+” sign and select the option Geo-Coordinates Column.
 <br>![](images/00_00_0771.png) UPLOAD
