@@ -23,11 +23,9 @@ We will now import the table definitions in form of JSON file by importing a Ent
 
 <br>![](images/00_00_0052.png) 
 
-13. You will receive a message about the import being completed and the tables will be shown on the canvas in form of the imported Entity Relationship Model.
-<br>![](images/00_00_0053.png) UPLOAD
+12. You will receive a message about the import being completed and the tables will be shown on the canvas in form of the imported Entity Relationship Model.
 
 13. Save the changes to your Entity Relationship model using the Save option in the General menu.
-<br>![](images/00_00_0054.png) UPLOAD
 
 14. Enter the following details:<br><ul><li>Business Name - Sales Model - Entity Relationship Mode</li><li>Technical Name - Sales_ER_Model
 <br>  
