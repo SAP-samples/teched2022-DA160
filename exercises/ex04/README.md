@@ -77,7 +77,7 @@ joins manually
 <br>![](images/00_00_0411.png) 
 
 30. Your Entity Relationship Model should look like the image shown below
-<br>![](images/00_00_0412.png) UPLOAD
+<br>![](images/00_00_0412.png) 
 
 31. Save the changes to your Entity Relationship model by using the Save option in the General menu.
 32. Enter the following details:<br><ul><li>Business Name - My First Entity Model</li><li>Technical Name - My_First_Entity_Model<br>
