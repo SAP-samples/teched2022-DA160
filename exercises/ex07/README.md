@@ -29,10 +29,10 @@ In the next steps we will create the new Dimension View based on our previously 
 
 9. You automatically will – in addition to the table you dragged to the canvas – receive the output view as well, in our example called View 1
 10. Now click on the table Store on the canvas.
-<br>![](images/00_00_0075.png) UPLOAD
+<br>![](images/00_00_0075.png) 
 
-11. When you select the table on the canvas, you have the following options (top to bottom)<br><ul><li>(1) You can add Filter on top of the Table.</li><li>(2) You can Rename or Hide columns as part of a Projection.</li><li>(3) You can add Calculated Columns.</li><li>(4) You can add an Aggregation View.</li><li>(5) You can add additional tables / views based on suggested joins, which are based on your Entity
-Relationship model.</li><li>(6) You can open the table in the editor.</li><li>(7) You can preview the data.
+11. When you select the table on the canvas, you have the following options (top to bottom)<br><ul><li> You can add Filter on top of the Table.</li><li> You can Rename or Hide columns as part of a Projection.</li><li> You can add Calculated Columns.</li><li> You can add an Aggregation View.</li><li> You can add additional tables / views based on suggested joins, which are based on your Entity
+Relationship model.</li><li> You can open the table in the editor.</li><li> You can preview the data.
 <br>
 
 12. Now click on the output view that was added, in our example View 1.
