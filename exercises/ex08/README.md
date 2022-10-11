@@ -28,10 +28,10 @@ In the next steps we will create the new View based on our previously created ta
 <br>
 
 5. Ensure you select the option Repository.
-6. Open the list of Tables.  
-<br>![](images/00_00_0083.png) UPLOAD 
-
+6. Open the list of Tables. 
 7. You are presented with the list of tables, which we created previously.
+<br>![](images/00_00_0083.png)  
+  
 8. Drag and Drop the table Sales Transactions to the canvas.
 <br>![](images/00_00_0084.png) UPLOAD 
 
