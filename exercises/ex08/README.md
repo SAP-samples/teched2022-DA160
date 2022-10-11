@@ -33,10 +33,10 @@ In the next steps we will create the new View based on our previously created ta
 <br>![](images/00_00_0083.png)  
   
 8. Drag and Drop the table Sales Transactions to the canvas.
-<br>![](images/00_00_0084.png) UPLOAD 
-
 9. You automatically will – in addition to the table you dragged to the canvas – receive the output view as well,
 in our example called View 1.
+<br>![](images/00_00_0084.png)   
+  
 10. Now click on the Sales Order Headers table on the canvas.
 <br>![](images/00_00_0085.png) UPLOAD 
 
