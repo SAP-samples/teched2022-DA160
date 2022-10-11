@@ -38,7 +38,7 @@ in our example called View 1.
 <br>![](images/00_00_0084.png)   
   
 10. Now click on the Sales Order Headers table on the canvas.
-<br>![](images/00_00_0085.png) UPLOAD 
+<br>![](images/00_00_0085.png)  
 
 11. When you select the table on the canvas, you have the following options (top to bottom):<br><ul><li> You can add Filter on top of the Table.</li><li> You can Rename or Hide columns as part of a Projection</li><li> You can add Calculated Columns.</li><li> You can add an Aggregation View</li><li> You can add additional tables / views based on suggested joins, which are based on your Entity
 Relationship model.</li><li> You can open the table in the editor.</li><li> You can preview the data.
