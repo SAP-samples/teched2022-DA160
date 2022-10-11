@@ -83,6 +83,8 @@ Relationship model.</li><li> You can open the table in the editor.</li><li> You 
 32. Ensure the Semantic Type for the line item Store Name is set to Text.
 33. Set the Label Column for the line item Store ID to be the Store Name.
 34. Click Close.
+<br>![](images/00_00_0775.png) 
+ 
 35. In the toolbar in the General menu, use the option to Save your changes.
 <br>![](images/00_00_0776.png) UPLOAD
 
