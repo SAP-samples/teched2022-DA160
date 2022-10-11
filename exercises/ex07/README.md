@@ -76,11 +76,9 @@ Relationship model.</li><li> You can open the table in the editor.</li><li> You 
 
 28. Select the final output node for the Dimension View.
 29. Navigate to the properties on the right hand side.
-30. Navigate to the Attributes area.
-<br>![](images/00_00_0774.png) 
-
+30. Navigate to the Attributes area. 
 31. Use the pencil icon (top right area) to open the details for the Attributes.
-<br>![](images/00_00_0775.png) UPLOAD
+<br>![](images/00_00_0774.png)
 
 32. Ensure the Semantic Type for the line item Store Name is set to Text.
 33. Set the Label Column for the line item Store ID to be the Store Name.
