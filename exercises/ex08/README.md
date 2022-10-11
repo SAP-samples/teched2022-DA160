@@ -56,6 +56,8 @@ Business Catalog.
 16. Enter Sales View – Analytical Dataset as Business Name.
 17. The Technical Name will be generated based on the Business Name, but you can also change it.
 18. Set the semantic Usage to the Analytical Dataset option.
+<br>![](images/00_00_0082.png)   
+  
 19. Enable the option Expose for Consumption.
 20. In the panel on the right hand side, scroll down to the Attributes section.
 21. Now open the context menu for the Attribute Profit
