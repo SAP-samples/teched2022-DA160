@@ -86,9 +86,8 @@ Relationship model.</li><li> You can open the table in the editor.</li><li> You 
 <br>![](images/00_00_0775.png) 
  
 35. In the toolbar in the General menu, use the option to Save your changes.
-<br>![](images/00_00_0776.png) UPLOAD
-
 36. After saving your dimension View, ensure you deploy the view.
+<br>![](images/00_00_0776.png) 
 37. In the menu on the left hand side, click on the Home icon.
 
 
