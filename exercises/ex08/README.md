@@ -59,36 +59,38 @@ Business Catalog.
 <br>![](images/00_00_0082.png)   
   
 19. Enable the option Expose for Consumption.
+<br>![](images/00_00_0882.png)   
+  
 20. In the panel on the right hand side, scroll down to the Attributes section.
 21. Now open the context menu for the Attribute Profit
-<br>![](images/00_00_0087.png) UPLOAD 
-
 22. Select the option Change to Measure.
+<br>![](images/00_00_0087.png)  
+  
 23. Repeat the steps for the Attributes Discount, Revenue, and Cost.
 24. Now ensure you select the final output node called Sales View – Analytical Dataset.
 25. Navigate to the Details on the right-hand side.
 26. Scroll down to the Associations.
-<br>![](images/00_00_0088.png) UPLOAD 
-
 27. Click the “+” sign to add a new Association.
+<br>![](images/00_00_0088.png) 
+  
 28. Select the option Association.
-<br>![](images/00_00_0089.png) UPLOAD 
-
 29. You are being presented with the list of Tables and Views from your Space.
 30. Select the entry for dimension Product.
 31. Click OK.
+<br>![](images/00_00_0089.png)   
+  
 32. Click on the icon (top right corner) to expand the Details panel.
-<br>![](images/00_00_0881.png) UPLOAD 
+<br>![](images/00_00_0885.png) 
 
 33. Ensure the Association is based on the column Product ID in both tables. In case the Association is not
 suggested or is defined on another column, you can delete the join and use a simple drag and drop motion
 to define a new one.
-<br>![](images/00_00_0882.png) UPLOAD 
+<br>![](images/00_00_0886.png)  
 
 34. Click on the icon (top right corner) to collapse the Details panel.
 35. In the Details panel now, click on the “More” option to navigate back to the main Properties window and
 select the analytical Dataset option.
-<br>![](images/00_00_0883.png) UPLOAD 
+<br>![](images/00_00_0887.png)  
 
 36. In the Properties, navigate to the area Associations.
 37. Click the “+” sign to add a second Association.
