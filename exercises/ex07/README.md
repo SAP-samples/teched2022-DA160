@@ -62,13 +62,11 @@ Relationship model.</li><li> You can open the table in the editor.</li><li> You 
 <br>![](images/00_00_0078.png) 
 
 23. Navigate to the properties on the right hand side.
-<br>![](images/00_00_0079.png)
-
 24. Click on the “+” sign and select the option Geo-Coordinates Column.
-<br>![](images/00_00_0771.png) UPLOAD
-
+<br>![](images/00_00_0079.png) 
+ 
 25. You are presented with the properties for the new column
-<br>![](images/00_00_0772.png) UPLOAD
+<br>![](images/00_00_0772.png) 
 
 26. Configure the following details:<br><ul><li> Business Name: Store Location</li><li> Technical Name: Store_Location</li><li> Latitude: Latitude</li><li> Longitude: Longitude
 <br>
