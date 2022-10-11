@@ -119,7 +119,7 @@ motion to define a new one.
 54. In the Details panel now, click on the “More” option to navigate back to the main Properties window and
 select the analytical Dataset option.
 55. In the Properties, navigate to the area Associations.
-56. Click the “+” sign to add a second Association.
+56. Click the “+” sign to add a forth Association.
 57. Select the option Association.
 58. You are being presented with the list of Tables and Views from your Space.
 59. Select the entry for the Time Dimension – Day (View) – not the local table.
