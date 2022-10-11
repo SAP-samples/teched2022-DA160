@@ -49,7 +49,11 @@ Relationship model.</li><li> You can open the table in the editor.</li><li> You 
 
 17. The Technical Name will be generated based on the Business Name, but you can also change it.
 18. Set the Semantic Usage to Dimension option.
+<br>![](images/00_00_0777.png) 
+ 
 19. Enable the option Expose for Consumption.
+<br>![](images/00_00_0778.png)  
+ 
 20. Now select the node for table Store on the canvas.
 <br>![](images/00_00_0077.png) 
 
