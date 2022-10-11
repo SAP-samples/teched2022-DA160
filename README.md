@@ -41,7 +41,7 @@ Be aware that some of the exercises are based on each other, therefore flagged a
 	* [Exercise 05: Importing Tables (mandatory)](exercises/ex05/README.md) - READY FOR REVIEW
 	* [Exercise 06: Uploading Data (mandatory)](exercises/ex06/README.md) - READY FOR REVIEW
 	* [Exercise 07: Creating the Dimension (mandatory)](exercises/ex07/README.md) - READY FOR REVIEW
-	* [Exercise 08: Creating the View (mandatory)](exercises/ex08/README.md) - OPEN
+	* [Exercise 08: Creating the View (mandatory)](exercises/ex08/README.md) - READY FOR REVIEW
 	
 4. **SAP Data Warehouse Cloud – Business Layer**
 	* [Exercises 09: Business Layer - Dimension](exercises/ex09/README.md) - OPEN
