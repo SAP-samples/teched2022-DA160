@@ -38,7 +38,7 @@ The pre-defined spaces are usually named the same way as your user ID for exampl
 
 ## Summary
 
-You just created the time data dimension in your Space in SAP Data Warehouse Cloud and you can now start your next step and
-create your first Table and Model.
+You just created the time data dimension in your Space in SAP Data Warehouse Cloud. You can now start your next step and
+create your first table and data model.
 
 Continue to - [Exercise 03: Prepare Your Data (optional) ](../ex03/README.md)
