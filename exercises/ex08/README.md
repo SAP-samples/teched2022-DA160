@@ -47,7 +47,7 @@ Relationship model.</li><li> You can open the table in the editor.</li><li> You 
 12. Now click on the output view that was added, in our example View 1.
 13. Ensure the option Details (top right corner) is enabled.
 14. Navigate to the Properties window.
-<br>![](images/00_00_0086.png) UPLOAD 
+<br>![](images/00_00_0086.png) 
 
 15. Here you can configure Properties for the final output:<br><ul><li>You can configure the Business Name as well as the Technical Name.</li><li>You can configure the Type of Dataset.</li><li>You can decide if the View can be consumed or not.</li><li>You can choose which of the available Columns are shown or will be hidden.</li><li>You can define additional Associations.</li><li>You can provide details on the Business Purpose, which then will be available as part of the
 Business Catalog.
