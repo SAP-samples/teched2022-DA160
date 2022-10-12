@@ -49,33 +49,39 @@ dimension Store
 24. In case you are being asked, select the Space you created previously.
 25. Select the option Business Entities.
 26. Click New Dimension.
+<br>![](images/00_00_0997.png) 
+
 27. Select the entry Product.
 28. For the Business Name enter Product.
 29. For the Technical Name use the suggested name BE_Product.
 30. Click Create.
+<br>![](images/00_00_0908.png) 
+
 31. You are then being asked, if you would like to leverage the existing Attributes and Key Definitions.
 32. Ensure the option “Yes” is enabled.
 33. Ensure the option Attributes is enabled.
 34. Ensure the option Key Definitions is enabled.
 35. Click Create.
-<br>![](images/00_00_0098.png) UPLOAD
+<br>![](images/00_00_0098.png) 
 
 36. Ensure the Business Name is set to Product.
 37. Ensure the option Allow public data access is enabled.
+<br>![](images/00_00_0099.png) 
+
 38. Navigate to the tab Attributes.
 39. You should see the following Attributes, which have been leveraged from our previous definition of the
 dimension Store.
-<br>![](images/00_00_0099.png) UPLOAD
+<br>![](images/00_00_0910.png) 
 
 40. Navigate to the tab Key Definitions.
 41. You should see the Product ID being listed as Key Definition.
-<br>![](images/00_00_0901.png) UPLOAD
+<br>![](images/00_00_0901.png) 
 
 42. Navigate back to the tab General.
 43. Set the Status to Ready to Use
-<br>![](images/00_00_0902.png) UPLOAD
-
 44. Click Save (top right).
+<br>![](images/00_00_0902.png) 
+
 45. Select the menu option Business Builder on the left-hand side.
 46. In case you are being asked, select the Space you created previously.
 47. Select the option Business Entities.
