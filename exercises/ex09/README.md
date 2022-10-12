@@ -137,9 +137,11 @@ dimension Store.
 
 80. Ensure the Business Name is set to Time Dimension – Day (Business Layer).
 81. Ensure the option Allow public data access is enabled.
+<br>![](images/00_00_0934.png)
+
 82. Navigate to the tab Attributes.
 83. You should see the above shown Attributes.
-<br>![](images/00_00_0922.png) UPLOAD
+<br>![](images/00_00_0922.png) 
 
 
 84. Navigate to the tab Key Definitions.
