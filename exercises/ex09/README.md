@@ -126,28 +126,30 @@ dimension Store.
 72. For the Business Name enter Time Dimension – Day (Business Layer).
 73. For the Technical Name use the suggested name BE_SAP_TIME_VIEW_DIMENSION_DAY.
 74. Click Create.
-
+<br>![](images/00_00_0924.png)
 
 75. You are then being asked, if you would like to leverage the existing Attributes and Key Definitions.
 76. Ensure the option “Yes” is enabled.
 77. Ensure the option Attributes is enabled.
 78. Ensure the option Key Definitions is enabled.
 79. Click Create.
-
+<br>![](images/00_00_0923.png)
 
 80. Ensure the Business Name is set to Time Dimension – Day (Business Layer).
 81. Ensure the option Allow public data access is enabled.
 82. Navigate to the tab Attributes.
 83. You should see the above shown Attributes.
-<br>![](images/00_00_0907.png) UPLOAD
+<br>![](images/00_00_0922.png) UPLOAD
 
 
 84. Navigate to the tab Key Definitions.
 85. You should see the Date being listed as Key Definition.
+<br>![](images/00_00_0921.png)
+
 86. Navigate back to the tab General.
 87. Set the Status to Ready to Use.
 88. Click Save
-
+<br>![](images/00_00_0920.png)
 
 ## Summary
 
