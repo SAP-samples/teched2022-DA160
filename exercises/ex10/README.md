@@ -55,6 +55,10 @@ and then associate the dimension with the data set.
 28. Click Save (top right).
 <br>![](images/00_00_0105.png) 
 
+?????????
+<br>![](images/00_00_0116.png) 
+?????
+
 
 29. Click the “+” sign to add another Association.
 30. Open the list of Target Business Entities.
