@@ -19,7 +19,7 @@ Store.
 <br>![](images/00_00_0092.png) 
 
 9. You are then being asked, if you would like to leverage the existing Attributes and Key Definitions.
-<br>![](images/00_00_0093.png) UPLOAD
+<br>![](images/00_00_0093.png) 
 
 10. Ensure the option “Yes” is enabled.
 11. Ensure the option Attributes is enabled.
