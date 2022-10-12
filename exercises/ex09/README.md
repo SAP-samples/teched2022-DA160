@@ -86,6 +86,8 @@ dimension Store.
 46. In case you are being asked, select the Space you created previously.
 47. Select the option Business Entities.
 48. Click New Dimension.
+<br>![](images/00_00_0997.png) 
+
 49. Select the entry Sales Manager.
 50. For the Business Name enter Sales Manager.
 51. For the Technical Name use the suggested name BE_Sales_Manager.
