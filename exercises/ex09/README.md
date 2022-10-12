@@ -42,9 +42,9 @@ dimension Store
 
 20. Navigate back to the tab General.
 21. Set the Status to Ready to Use.
+22. Click Save (top right).
 <br>![](images/00_00_0097.png) 
 
-22. Click Save (top right).
 23. Select the menu option Business Builder on the left-hand side.
 24. In case you are being asked, select the Space you created previously.
 25. Select the option Business Entities.
