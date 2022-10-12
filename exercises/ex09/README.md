@@ -29,9 +29,9 @@ Store.
 
 14. Ensure the Business Name is set to Dimension Store.
 15. Ensure the option Allow public data access is enabled.
-16. Navigate to the tab Attributes.
 <br>![](images/00_00_0994.png)
 
+16. Navigate to the tab Attributes.
 17. You should see the following Attributes, which have been leveraged from our previous definition of the
 dimension Store
 <br>![](images/00_00_0095.png) 
