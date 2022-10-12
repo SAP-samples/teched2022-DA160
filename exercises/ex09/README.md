@@ -90,47 +90,56 @@ dimension Store.
 50. For the Business Name enter Sales Manager.
 51. For the Technical Name use the suggested name BE_Sales_Manager.
 52. Click Create.
+<br>![](images/00_00_0993.png) 
+
 53. You are then being asked, if you would like to leverage the existing Attributes and Key Definitions.
 54. Ensure the option “Yes” is enabled.
 55. Ensure the option Attributes is enabled.
 56. Ensure the option Key Definitions is enabled.
 57. Click Create.
-<br>![](images/00_00_0903.png) UPLOAD
+<br>![](images/00_00_0903.png) 
 
 58. Ensure the Business Name is set to Sales Manager.
 59. Ensure the option Allow public data access is enabled.
 60. Navigate to the tab Attributes.
-<br>![](images/00_00_0904.png) UPLOAD
-
 61. You should see the above shown Attributes.
+<br>![](images/00_00_0904.png) 
+
 62. Navigate to the tab Key Definitions.
 63. You should see the Sales Manager ID being listed as Key Definition.
-<br>![](images/00_00_0905.png) UPLOAD
+<br>![](images/00_00_0905.png)
 
 64. Navigate back to the tab General.
 65. Set the Status to Ready to Use.
-<br>![](images/00_00_0906.png) UPLOAD
-
 66. Click Save (top right).
+<br>![](images/00_00_0906.png) 
+
 67. Select the menu option Business Builder on the left-hand side.
 68. In case you are being asked, select the Space you created previously.
 69. Select the option Business Entities.
 70. Click New Dimension.
+<br>![](images/00_00_0997.png) 
+
 71. Select the entry Time Dimension - Day.
 72. For the Business Name enter Time Dimension – Day (Business Layer).
 73. For the Technical Name use the suggested name BE_SAP_TIME_VIEW_DIMENSION_DAY.
 74. Click Create.
+
+
 75. You are then being asked, if you would like to leverage the existing Attributes and Key Definitions.
 76. Ensure the option “Yes” is enabled.
 77. Ensure the option Attributes is enabled.
 78. Ensure the option Key Definitions is enabled.
 79. Click Create.
+
+
 80. Ensure the Business Name is set to Time Dimension – Day (Business Layer).
 81. Ensure the option Allow public data access is enabled.
 82. Navigate to the tab Attributes.
+83. You should see the above shown Attributes.
 <br>![](images/00_00_0907.png) UPLOAD
 
-83. You should see the above shown Attributes.
+
 84. Navigate to the tab Key Definitions.
 85. You should see the Date being listed as Key Definition.
 86. Navigate back to the tab General.
