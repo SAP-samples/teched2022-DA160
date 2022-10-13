@@ -21,19 +21,23 @@ In this exercise, we will create the consumption layer for our analytical story.
 <br>![](images/00_00_0153.png) 
 
 9. Select the object for Dimension Store on the canvas.
-<br>![](images/00_00_0154.png) UPLOAD
+<br>![](images/00_00_0154.png) 
 
 10. Use the “+” icon for the option Add Source Context.
 11. For the Source Alias option, enter Dimension Store.
 12. Click Create.
-<br>![](images/00_00_0155.png) UPLOAD
+<br>![](images/00_00_0155.png) 
 
 13. On the right-hand side you should now see the dimension Store being listed under the category Dimension
 Sources.
 14. Now select the object for dimension Product on the canvas.
 15. Use the “+” icon for the option Add Source Context.
+<br>![](images/00_00_0169.png) 
+
 16. For the Source Alias option, enter Product.
 17. Click Create.
+<br>![](images/00_00_0170.png) UPLOAD
+
 18. On the right-hand side you should now see dimension Product being listed under the category Dimension
 Sources.
 19. Now select the object for dimension Sales Manager on the canvas.
