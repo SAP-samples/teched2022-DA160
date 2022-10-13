@@ -17,7 +17,7 @@
 
 6. Now let’s clarify the different areas:  
 
-| Menu Items:                | Description:                              |
+| Menu Items:              | Description:                            |
 |:-------------------------|:----------------------------------------|
 | Repository Explorer      | Browse and create objects in repository |
 | Data Marketplace         | Purchase data products from providers and download them directly into your space (deactivated on the guided experience trial) |
