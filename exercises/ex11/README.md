@@ -36,7 +36,7 @@ Sources.
 
 16. For the Source Alias option, enter Product.
 17. Click Create.
-<br>![](images/00_00_0170.png) UPLOAD
+<br>![](images/00_00_0170.png) 
 
 18. On the right-hand side you should now see dimension Product being listed under the category Dimension
 Sources.
@@ -52,30 +52,35 @@ Dimension Sources.
 27. Click Create
 28. On the right-hand side you should now see dimension Time Dimension – Day (Business Layer) being listed
 under the category Dimension Sources.
+<br>![](images/00_00_0171.png) 
+
 29. Navigate to the tab General.
 30. Enable the option Allow public data access.
 31. Click Save (top right).
+<br>![](images/00_00_0172.png) 
+
 32. Navigate to the tab Measures.
 33. Select the option Add Fact Source Measures.
-<br>![](images/00_00_0157.png) UPLOAD
+<br>![](images/00_00_0157.png) 
 
 34. Select all measures.
-<br>![](images/00_00_0158.png) UPLOAD
-
 35. Click Apply.
+<br>![](images/00_00_0158.png) 
+
 36. Navigate to the tab Attributes.
 37. Select the option Add Source Attributes.
-<br>![](images/00_00_0159.png) UPLOAD
+<br>![](images/00_00_0159.png) 
 
-38. Select the following Attributes:<br><ul><li>Calendar Month</li><li>Calendar Quarter</li><li>Calendar Week</li><li>Country</li><li>Latitude</li><li>Longitude</li><li>Product Category Name</li><li>Product Name</li><li>Sales Manager Name</li><li>State Name</li><li>Store City</li><li>Store Location</li><li>Store Name</li><li>Transaction Date
+38. Select the following 14 Attributes:<br><ul><li>Calendar Month</li><li>Calendar Quarter</li><li>Calendar Week</li><li>Country</li><li>Latitude</li><li>Longitude</li><li>Product Category Name</li><li>Product Name</li><li>Sales Manager Name</li><li>State Name</li><li>Store City</li><li>Store Location</li><li>Store Name</li><li>Transaction Date
 <br>
 
-<br>![](images/00_00_0160.png) UPLOAD
-
 39. Click Apply.
+<br>![](images/00_00_0160.png) 
+
+
 40. Navigate to the tab Perspectives.
 41. Click on the Data Preview option (top right corner).
-<br>![](images/00_00_0161.png) UPLOAD
+<br>![](images/00_00_0161.png) 
 
 42. Open the context menu for the Perspective Fields header.
 <br>![](images/00_00_0162.png) UPLOAD
