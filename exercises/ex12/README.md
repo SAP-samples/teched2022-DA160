@@ -6,10 +6,15 @@ In this exercise, we will setup a story in SAP Analytics Cloud, which allows us 
 of our revenue information
 
 1. Log On to your SAP Analytics Cloud tenant.
+<br>![](images/00_00_0221.png) 
+<br>
+:bulb: **Tip:** The system may ask you to resign in ??????
+
 2. Select the menu Stories in the left-hand panel
+3. Select the option Canvas to create a new Story.
 <br>![](images/00_00_0201.png) UPLOAD
 
-3. Select the option Canvas to create a new Story.
+
 4. You will be asked to select a Workspace.
 5. Select the entry ANA161.
 <br>![](images/00_00_0202.png) UPLOAD
