@@ -38,7 +38,7 @@ We will now import the table definitions in form of JSON file by importing a Ent
 <br>  
   
 15. Click Save.
-16. Deploy the model using the Deploy option in the General menu.
+16. Deploy the model using the Deploy option in the menu bar.
 
 ## Summary
 
