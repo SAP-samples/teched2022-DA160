@@ -16,7 +16,7 @@ of our revenue information
 <br>
 
 4. Select the option Canvas to create a new Story.
-<br>![](images/00_00_0201.png) UPLOAD
+<br>![](images/00_00_0201.png) 
 
 
 5. You will be asked to select a Workspace.
