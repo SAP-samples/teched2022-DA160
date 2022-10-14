@@ -29,7 +29,7 @@ We will start to create the tables in SAP Data Warehouse Cloud.
 
 1. Log On to your SAP Data Warehouse Cloud tenant.</p>
 2. Select the menu option Data Builder on the left-hand side.</p>
-3. In case you are being asked, select your previously created Space – ANA161_XX.</p>  ??????
+3. In case you are being asked, select your Space (e.g. GE12345) </p>
 4. Select the option New Table</p>
 <br>![](images/00_00_0031.png)
 
