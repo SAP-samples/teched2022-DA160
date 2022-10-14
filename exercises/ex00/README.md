@@ -12,7 +12,12 @@ https://www.sap.com/registration/trial.4d48ec23-eadf-4399-8595-ac3f9c66c64f.html
 <br>![](images/02_DWC_guided_experience.png)
 
 3.  The registration form will show up. Please enter the mandatory details and proceed using the ***SUBMIT*** button.<br><br>
-:bulb: If you already have a SAP Universal ID then proceed using the LOG IN button in the right of the form. 
+
+---
+
+:bulb: Tip: If you already have a SAP Universal ID then proceed using the LOG IN button in the right of the form. 
+
+---
 
 <br>![](images/03_DWC_trial_reg_form.png)
 
