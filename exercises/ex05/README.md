@@ -23,7 +23,7 @@ We will now import the table definitions in form of JSON file by importing a Ent
 
 6. Open the Import option.
 7. Select the option Import from CSN File.
-8. Select the file “Sales Model - Entity Relationship Model.json”
+8. Select the file “Sales_ER_Model.json”
 9. Click Next.
 10. Select all tables.
 11. Click Import CSN File.
