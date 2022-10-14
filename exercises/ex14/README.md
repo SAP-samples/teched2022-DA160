@@ -46,17 +46,19 @@ choose from the following:<br><ul><li>DWCEU - for the SAP Data Warehouse System 
 <br>![](images/00_00_0207.png) 
   
 19. Navigate to the Builder Panel on the right hand side.
+<br>![](images/00_00_0410.png)   
+  
 20. Click the option Add Dimension as part of the Dimensions section.
-<br>![](images/00_00_0410.png) 
+<br>![](images/00_00_0209.png) 
 
 21. Select the option Create Dimension Input Control.
-<br>![](images/00_00_0209.png) 
+<br>![](images/00_00_0303.png) 
   
 22. Select the entries:<br><ul><li>Dimension Store</li><li>Product</li><li>Sales Manager
 <br>
-<br>![](images/00_00_0409.png)
-
-23. Click OK.??? No Ok button 
+23. Click OK.
+<br>![](images/00_00_0307.png) UPLOAD
+  
 24. On your canvas you will then be presented with a token for the newly created Dimension Input Control.
 <br>![](images/00_00_0412.png) UPLOAD
 
