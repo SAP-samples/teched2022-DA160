@@ -2,13 +2,20 @@
 
 :memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
+---
+
 In this exercise, we will we will setup a story in SAP Analytics Cloud based on our Consumption Layer, and review who
 our best salesperson is.
 
 1. Log On to your SAP Analytics Cloud tenant.
 <br>![](images/00_00_0221.png) 
 <br>
+
+---
+
 :bulb: **Tip:** The system will ask you to resign in.
+
+---
 
 2. Select the menu Stories in the left-hand panel
 3. Select "Classic Design Experience" when asked "What design mode would you like to use?"
