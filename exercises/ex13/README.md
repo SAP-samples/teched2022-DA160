@@ -42,14 +42,14 @@ choose from the following:<br><ul><li>DWCEU - for the SAP Data Warehouse System 
 <br>![](images/00_00_0208.png)   
   
 18. Select the option to add a Geo Map.
-19. Resize the map, so that it uses the complete screen.
-<br>![](images/00_00_0302.png) UPLOAD
+<br>![](images/00_00_0306.png) 
   
+19. Resize the map, so that it uses the complete screen.
 20. In the panel on the right hand side, select the option “Add Layer” for the Content Layer option.
-<br>![](images/00_00_0308.png) UPLOAD
+<br>![](images/00_00_0302.png) 
 
 21. As we only have one dataset right now, the data set from SAP Data Warehouse Cloud will be assigned to
-the new map layer.
+the new map layer.?????
 <br>![](images/00_00_0309.png) UPLOAD
 
 22. Click on Add Location Dimension for the Location Dimension area
