@@ -2,6 +2,8 @@
 
 :memo: **Note:** This is an OPTIONAL Exercise
 
+---
+
 Before we are going to start with our first exercise in creating a table and creating our first model, lets clarify the
 different asset types that you can create in SAP Data Warehouse Cloud.
 
@@ -45,10 +47,14 @@ used as part of the Business Catalogue.
 
 8. Enter the following details for the Business Purpose:<br><ul><li>Description - This is the table for the Sales Transactions</li><li>Tags - Sales transaction, Revenue, transactions<br>
 
+---
+  
 :bulb: **Tip:** </p>
 Please note, that when entering the <strong>Tags</strong>, you have to enter each tag individually for now and you can’t enter
 multiple tags separated by comma right now.
 
+---  
+  
 9. Scroll down to the area Columns (you can also use the tabs in the page header for navigation). Here you
 define now the structure of the table by adding the individual columns.
 
@@ -58,10 +64,14 @@ column
 
 11. You now need to enter a Business Name, a Technical Name, and you need to configure the Data Type
 12. For the first column, enter the following details:<br><ul><li>Business - Name Transaction ID</li><li>Technical Name - Transaction_ID</li><li>Data Type - Integer64<br>
+  
+---  
 
 :bulb: **Tip:** </p>
 Please note, that you can change the <strong>Data Type</strong> simply by clicking on the item in the Data Type column.
 
+---  
+  
 13. After you entered the details for the first column, please enter the following additional columns:
   
 | Business Name:      | Technical Name:                       | Data Type:          |
@@ -101,7 +111,9 @@ Transaction ID.
 25. Navigate to the Attributes area.
  
 26. Use the “+ sign to create new attributes.
-<br>![](images/00_00_0038.png)    
+<br>![](images/00_00_0038.png) 
+  
+---  
  
 :bulb: **Tip:** </p> You will notice, based on the Type Dimension, we now have two additional options for each Column:
 Semantic Type and Label Column.
@@ -112,6 +124,8 @@ The Semantic Type option provides you with several option to choose from, so tha
 additional context for the column, such as the option to configure the column as a Currency column or a
 language column.
 <br>  
+
+---
   
 27. Enter the following Attributes for the table:  
   
@@ -126,10 +140,14 @@ language column.
 | Latitude            | Latitude                              | Decimal(15,8)       | 
 | Longitude           | Longitude                             | Decimal(15,8)       | 
     
+---
+  
 :bulb: **Tip:** </p>
 Please note, that you can only select the Store Name for the <strong>Label Column</strong> after you entered the details for
 the Store Name into the Attributes.
-  
+
+---
+
 28. After you entered all columns for the table, ensure you enable the Key Column option for the column Store ID.
 29. Click Save in the General menu.
 30. You will be asked to confirm the Business Name as well as the Technical Name.
