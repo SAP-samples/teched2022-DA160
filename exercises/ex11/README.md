@@ -100,9 +100,8 @@ under the category Dimension Sources.
 48. Select measure Cost and open the More menu (…).
 <br>
 49. Select the option Add to Perspective.
+   
 <br>![](images/00_00_0163.png) 
- 
- 
 <br> 
 50. Repeat the step for the measures Discount, Profit, and Revenue.
 <br> 
@@ -113,12 +112,16 @@ under the category Dimension Sources.
 53. Enter Revenue_by_Store_and_Product_Perspective as Technical Name
 <br> 
 54. Click Save.
+   
 <br>![](images/00_00_0165.png) 
+
 <br> 
 
 We created the first perspective and just need to deploy the perspective now and can then leverage the
 perspective in combination with SAP Analytics Cloud.
+   
 55. Click on the name of the Consumption Model in the top.
+   
 56. Click on Data Preview (top right) to close the Data Preview.
 <br>![](images/00_00_0167.png) 
 <br> 
