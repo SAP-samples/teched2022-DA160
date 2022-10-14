@@ -2,6 +2,8 @@
 
 :memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
+---
+
 In this exercise, we will create our first view, combining the tables into an asset in SAP Data Warehouse Cloud, which then can be consumed in SAP Analytics Cloud.
 
 A view in SAP Data Warehouse Cloud provides you with several benefits:
