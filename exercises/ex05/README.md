@@ -34,7 +34,7 @@ We will now import the table definitions in form of JSON file by importing a Ent
 
 13. Save the changes to your Entity Relationship model using the Save option in the General menu.
 
-14. Enter the following details:<br><ul><li>Business Name - Sales Model - Entity Relationship Mode</li><li>Technical Name - Sales_ER_Model
+14. Enter the following details:<br><ul><li>Business Name - Sales Model - Entity Relationship Model</li><li>Technical Name - Sales_ER_Model
 <br>  
   
 15. Click Save.
