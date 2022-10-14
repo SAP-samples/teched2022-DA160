@@ -2,6 +2,8 @@
 
 :memo: **Note:** This is an OPTIONAL Exercise
 
+---
+
 In this exercise, we will createthe Entity Relationship Model. But before we start the exercise, lets clarify what an Entity Relationship model is
 and why we are creating it.
 
