@@ -43,6 +43,8 @@ choose from the following:<br><ul><li>DWCEU - for the SAP Data Warehouse System 
   
 18. Select the option to add a Geo Map.
 19. Resize the map, so that it uses the complete screen.
+<br>![](images/00_00_0302.png) UPLOAD
+  
 20. In the panel on the right hand side, select the option “Add Layer” for the Content Layer option.
 <br>![](images/00_00_0308.png) UPLOAD
 
