@@ -40,20 +40,23 @@ choose from the following:<br><ul><li>DWCEU - for the SAP Data Warehouse System 
 16. For our third example, we will use the Perspective we created previously - Revenue by Store and Product
 (Perspective)
 17. Click OK.
+<br>![](images/00_00_0306.png) UPLOAD  
+  
 18. Select the option to add a new Chart to the canvas.
+<br>![](images/00_00_0207.png) 
+  
 19. Navigate to the Builder Panel on the right hand side.
-<br>![](images/00_00_0409.png) UPLOAD
-
 20. Click the option Add Dimension as part of the Dimensions section.
-<br>![](images/00_00_0410.png) UPLOAD
+<br>![](images/00_00_0410.png) 
 
 21. Select the option Create Dimension Input Control.
-<br>![](images/00_00_0411.png) UPLOAD
+<br>![](images/00_00_0209.png) 
   
 22. Select the entries:<br><ul><li>Dimension Store</li><li>Product</li><li>Sales Manager
 <br>
+<br>![](images/00_00_0409.png)
 
-23. Click OK.
+23. Click OK.??? No Ok button 
 24. On your canvas you will then be presented with a token for the newly created Dimension Input Control.
 <br>![](images/00_00_0412.png) UPLOAD
 
