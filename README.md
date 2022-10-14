@@ -46,12 +46,12 @@ Be aware that some of the exercises are based on each other, therefore flagged a
 4. **SAP Data Warehouse Cloud – Business Layer**
 	* [Exercises 09: Business Layer - Dimension](exercises/ex09/README.md) - READY FOR REVIEW
 	* [Exercises 10: Business Layer – Analytical Dataset](exercises/ex10/README.md) - READY FOR REVIEW
-	* [Exercises 11: Business Layer – Consumption Layer](exercises/ex11/README.md) - OPEN
+	* [Exercises 11: Business Layer – Consumption Layer](exercises/ex11/README.md) - READY FOR REVIEW
 	
 5.  **SAP Analytics Cloud**
-	* [Exercise 12: Year over Year Comparison (requires Exercise 08 to be completed)](exercises/ex12/README.md) - OPEN
+	* [Exercise 12: Year over Year Comparison (requires Exercise 08 to be completed)](exercises/ex12/README.md) - READY FOR REVIEW
 	* [Exercise 13: Revenue by Geography (requires Exercise 08 to be completed)](exercises/ex13/README.md) - OPEN
-	* [Exercise 14: Best Salesperson (requires Exercise 11 to be completed)](exercises/ex14/README.md) - OPEN
+	* [Exercise 14: Best Salesperson (requires Exercise 11 to be completed)](exercises/ex14/README.md) - READY FOR REVIEW
 
     
 Have fun :smiley:
