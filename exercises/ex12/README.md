@@ -42,6 +42,8 @@ choose from the following:<br><ul><li>DWCEU - for the SAP Data Warehouse System 
 <br>![](images/00_00_0208.png) 
 
 18. Select the option to add a Chart.
+<br>![](images/00_00_0207.png) 
+
 19. Now select the newly created empty chart on the canvas.
 20. Navigate to the Builder Panel on the right hand side.
 <br>![](images/00_00_0203.png) 
