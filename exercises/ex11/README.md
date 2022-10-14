@@ -119,14 +119,15 @@ under the category Dimension Sources.
 
 We created the first perspective and just need to deploy the perspective now and can then leverage the
 perspective in combination with SAP Analytics Cloud.
+<br>55. Click on the name of the Consumption Model in the top.
+<br>56. Click on Data Preview (top right) to close the Data Preview.
    
-55. Click on the name of the Consumption Model in the top.
-   
-56. Click on Data Preview (top right) to close the Data Preview.
 <br>![](images/00_00_0167.png) 
 <br> 
-57. Navigate to the tab Perspectives.
-58. Use the icon on the far right for to deploy the Perspective.
+
+<br>57. Navigate to the tab Perspectives.
+<br>58. Use the icon on the far right for to deploy the Perspective.
+   
 <br>![](images/00_00_0168.png) 
 <br> 
 ## Summary
