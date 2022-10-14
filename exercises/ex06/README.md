@@ -2,7 +2,7 @@
 
 :memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
-In this exercise, we will create...NEED TO FILL IN 
+In this exercise, we will populate the tables we have created in the previous steps, so that we have data for the analysis.
 
 The files for this exercise are part of the ZIP file you downloaded in the beginning.
 We will now upload the CSV files into the corresponding tables.
