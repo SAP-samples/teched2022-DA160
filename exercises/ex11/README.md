@@ -88,16 +88,21 @@ under the category Dimension Sources.
 
 
 44. Drag and Drop the following Dimensions to the list of Perspective Fields:<br><ul><li>Product Name</li><li>Calendar Quarter</li><li>Product Category Name</li><li>Store City</li><li>Country</li><li>Sales Manager Name</li><li>Store Name</li><li>State Name
-<br>
 <br>![](images/00_00_0173.png) 
-    
+   
+<br>    
 45. Open the list of entries for Composite Attributes on the left hand side.
+<br>   
 46. Drag and drop dimension Transaction Date to the Perspective Fields.
+<br>
 47. Navigate to the list of Measures on the left hand side.
+<br>
 48. Select measure Cost and open the More menu (…).
+<br>
 49. Select the option Add to Perspective.
 <br>![](images/00_00_0163.png) 
-  
+<br>
+    
 50. Repeat the step for the measures Discount, Profit, and Revenue.
 51. Click Save New (top right corner).
 52. Enter Revenue by Store and Product (Perspective) as Business Name.
