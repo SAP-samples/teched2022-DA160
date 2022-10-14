@@ -2,6 +2,8 @@
 
 :memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
+---
+
 In this exercise, we will first setup the business entities and then create the consumption model, which
 then will be used by SAP Analytics Cloud for our story.
 
