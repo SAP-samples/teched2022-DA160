@@ -83,41 +83,38 @@ under the category Dimension Sources.
 <br>![](images/00_00_0161.png) 
 
 42. Open the context menu for the Perspective Fields header.
-<br>![](images/00_00_0162.png) UPLOAD
-
 43. Select the option Remove All Fields.
+<br>![](images/00_00_0162.png) 
+
+
 44. Drag and Drop the following Dimensions to the list of Perspective Fields:<br><ul><li>Product Name</li><li>Calendar Quarter</li><li>Product Category Name</li><li>Store City</li><li>Country</li><li>Sales Manager Name</li><li>Store Name</li><li>State Name
 <br>
-
+<br>![](images/00_00_0173.png) 
+    
 45. Open the list of entries for Composite Attributes on the left hand side.
 46. Drag and drop dimension Transaction Date to the Perspective Fields.
 47. Navigate to the list of Measures on the left hand side.
 48. Select measure Cost and open the More menu (…).
-<br>![](images/00_00_0163.png) UPLOAD
-
 49. Select the option Add to Perspective.
+<br>![](images/00_00_0163.png) 
+  
 50. Repeat the step for the measures Discount, Profit, and Revenue.
 51. Click Save New (top right corner).
-<br>![](images/00_00_0164.png) UPLOAD
-
 52. Enter Revenue by Store and Product (Perspective) as Business Name.
 53. Enter Revenue_by_Store_and_Product_Perspective as Technical Name
-<br>![](images/00_00_0165.png) UPLOAD
-
 54. Click Save.
+<br>![](images/00_00_0165.png) 
+
+
 We created the first perspective and just need to deploy the perspective now and can then leverage the
 perspective in combination with SAP Analytics Cloud.
 55. Click on the name of the Consumption Model in the top.
-<br>![](images/00_00_0166.png) UPLOAD
-
 56. Click on Data Preview (top right) to close the Data Preview.
-<br>![](images/00_00_0167.png) UPLOAD
+<br>![](images/00_00_0167.png) 
 
 57. Navigate to the tab Perspectives.
-<br>![](images/00_00_0168.png) UPLOAD
-
 58. Use the icon on the far right for to deploy the Perspective.
-
+<br>![](images/00_00_0168.png) 
 
 ## Summary
 
