@@ -2,6 +2,8 @@
 
 :memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
+---
+
 In this exercise, we will create our first dimension. Part of the steps of defining the dimension will also be to configure the
 geographic enrichment, so that we can leverage the Store Location later in SAP Analytics Cloud.
 
