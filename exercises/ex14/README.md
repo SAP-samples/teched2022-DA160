@@ -56,6 +56,7 @@ choose from the following:<br><ul><li>DWCEU - for the SAP Data Warehouse System 
   
 22. Select the entries:<br><ul><li>Dimension Store</li><li>Product</li><li>Sales Manager
 <br>
+  
 23. Click OK.
 <br>![](images/00_00_0307.png) 
   
