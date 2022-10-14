@@ -2,6 +2,8 @@
 
 :memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
+---
+
 In this exercise, we will create the consumption layer for our analytical story.
 
 1. Select the menu option Business Builder on the left-hand side.
