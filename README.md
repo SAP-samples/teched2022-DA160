@@ -50,7 +50,7 @@ Be aware that some of the exercises are based on each other, therefore flagged a
 	
 5.  **SAP Analytics Cloud**
 	* [Exercise 12: Year over Year Comparison (requires Exercise 08 to be completed)](exercises/ex12/README.md) - READY FOR REVIEW
-	* [Exercise 13: Revenue by Geography (requires Exercise 08 to be completed)](exercises/ex13/README.md) - OPEN
+	* [Exercise 13: Revenue by Geography (requires Exercise 08 to be completed)](exercises/ex13/README.md) - READY FOR REVIEW
 	* [Exercise 14: Best Salesperson (requires Exercise 11 to be completed)](exercises/ex14/README.md) - READY FOR REVIEW
 
     
