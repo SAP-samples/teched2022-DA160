@@ -28,7 +28,7 @@ geographic map.
 5. You will be asked to select a Workspace.
 6. Select the entry ANA161.????
 7. In the toolbar click on “Data” (top left) to add data from SAP Data Warehouse Cloud to your Story.
-8.Select the option Data From Data Source.
+8. Select the option Data From Data Source.
 <br>![](images/00_00_0204.png) 
 
 9. Open the list Connect to Live Data.
