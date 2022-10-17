@@ -107,6 +107,18 @@ geographic enrichment, and not the local Table Store.
 ---
   
 41. Click OK.
+
+42. Follow the above steps to add the following:<br><ul><li>dimension Sales Manager</li><li>Time Dimension – Day (View) – not the local table</li><li>analytical Dataset option
+<br>
+
+
+
+
+
+
+
+
+
 42. Click on the icon (top right corner) to expand the Details panel.
 43. Ensure the Association is based on the column Store ID in both tables. In case the Association is not
 suggested or is defined on another column, you can delete the join and use a simple drag and drop motion
@@ -119,6 +131,9 @@ select the analytical Dataset option.
 48. You are being presented with the list of Tables and Views from your Space.
 49. Select the entry for dimension Sales Manager.
 50. Click OK.
+
+
+
 51. Click on the icon (top right corner) to expand the Details panel.
 52. Ensure the Association is based on the column Sales Manager ID in both tables. In case the Association is
 not suggested or is defined on another column, you can delete the join and use a simple drag and drop
@@ -132,6 +147,8 @@ select the analytical Dataset option.
 58. You are being presented with the list of Tables and Views from your Space.
 59. Select the entry for the Time Dimension – Day (View) – not the local table.
 60. Click OK.
+
+
 61. Click on the icon (top right corner) to expand the Details panel.
 62. Ensure the Association is based on the columns Transaction Date and Date.
 63. Click on the icon (top right corner) to collapse the Details panel.
