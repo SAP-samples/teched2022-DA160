@@ -36,9 +36,9 @@ our best salesperson is.
 10. Select the entry SAP Data Warehouse Cloud.
 <br>![](images/00_00_0205.png) 
 
-11. You will be asked to select a Live Connection to SAP Data Warehouse Cloud
-12. Please select the connection matching the SAP Data Warehouse Cloud system your selection. You can
-choose from the following:<br><ul><li>DWCEU - for the SAP Data Warehouse System in Europe</li><li>DWCUS - for the SAP Data Warehouse System in US</li><li>DWCAPJ - for the SAP Data Warehouse System in APJ ????
+11. You will be asked to select Connection to SAP Data Warehouse Cloud.
+12. Please select "SAPDWC" as the connection 
+<br>![](images/00_00_0700.png)
 <br>
 
 13. When being asked to select a SPACE, select the Space your created previously – ANA161-XX. ????
