@@ -98,8 +98,14 @@ select the analytical Dataset option.
 37. Click the “+” sign to add a second Association.
 38. Select the option Association.
 39. You are being presented with the list of Tables and Views from your Space.
+
+---
+  
 40. Select the entry for dimension Store. Ensure to use the “Dimension Store” View that we created with the
 geographic enrichment, and not the local Table Store.
+
+---
+  
 41. Click OK.
 42. Click on the icon (top right corner) to expand the Details panel.
 43. Ensure the Association is based on the column Store ID in both tables. In case the Association is not
