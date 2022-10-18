@@ -1,6 +1,6 @@
 # Exercise 14 - Best Salesperson
 
-:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+>:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
 ---
 
@@ -13,43 +13,43 @@ our best salesperson is.
 
 ---
 
-:bulb: **Tip:** The system will ask you to resign in.
+>:bulb: **Tip:** The system will ask you to resign in.
 
 ---
 
 2. Select the menu Stories in the left-hand panel
-3. Select "Classic Design Experience" when asked "What design mode would you like to use?"
-<br>![](images/00_00_0222.png) 
-<br>
-
-4. Select the option Canvas to create a new Story.
+3. Select the option Canvas to create a new Story.
 <br>![](images/00_00_0201.png) 
+4. Select "Classic Design Experience" when asked "What design mode would you like to use?"
+<br>![](images/00_00_0222.png) 
 
-
-5. You will be asked to select a Workspace.
-6. Select the entry ANA161.??????
-7. In the toolbar click on “Data” (top left) to add data from SAP Data Warehouse Cloud to your Story
-8. Select the option Data From Data Source.
+5. In the toolbar click on “Data” (top left) to add data from SAP Data Warehouse Cloud to your Story
+6. Select the option Data From Data Source.
 <br>![](images/00_00_0204.png) 
 
-9. Open the list Connect to Live Data.
-10. Select the entry SAP Data Warehouse Cloud.
+7. Open the list Connect to Live Data.
+8. Select the entry SAP Data Warehouse Cloud.
 <br>![](images/00_00_0205.png) 
 
-11. You will be asked to select Connection to SAP Data Warehouse Cloud.
-12. Please select "SAPDWC" as the connection 
+9. You will be asked to select Connection to SAP Data Warehouse Cloud.
+10. Please select "SAPDWC" as the connection 
 <br>![](images/00_00_0700.png)
 <br>
 
-13. When being asked to select a SPACE, select the Space your created previously – ANA161-XX. ????
-14. Click OK. 
-15. Afterwards you will be asked to select the Analytical Data Set or the Perspective from your Space.
-16. For our third example, we will use the Perspective we created previously - Revenue by Store and Product
-(Perspective)
-17. Click OK.
-<br>![](images/00_00_0306.png) UPLOAD  
-  
-18. Select the option to add a new Chart to the canvas.
+11. When being asked to select your SPACE e.g. ***GE12345***.
+12. Click OK. 
+
+13. Afterwards you will be asked to select the Analytical Data Set or the Perspective from your Space.
+14. For our third example, we will use the Perspective we created previously ***Revenue by Store and Product
+(Perspective)***
+15. Click OK.
+
+---
+:memo: Perla<br>![](images/00_00_0306.png) UPLOAD  ++++ IMAGE MISSING
+
+---
+
+16. Select the option to add a new Chart to the canvas.
 <br>![](images/00_00_0207.png) 
   
 19. Navigate to the Builder Panel on the right hand side.
@@ -95,7 +95,7 @@ control and based on the Consumption Layer created in SAP Data Warehouse Cloud.
   
 37. In the File menu select the option to save your story.
 38. Select the User folder that matches your assigned user number.
-39. Enter a Name and Description.
+39. Enter a Name and Description like ***Best Salesperson***.
 40. Click OK.  
 
 
