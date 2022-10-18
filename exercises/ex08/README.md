@@ -97,7 +97,7 @@ select the analytical Dataset option.
 select the analytical Dataset option.
 38. Save your View.
 39. You will be asked to confirm the Business Name and Technical Name.
-40. Click Save.
+40. Click ***Save***.
 41. Deploy your View.
 
 
