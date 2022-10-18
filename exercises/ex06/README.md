@@ -1,6 +1,6 @@
 # Exercise 6 - Uploading Data
 
-:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+>:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
 ---
 
@@ -25,21 +25,30 @@ We will now upload the CSV files into the corresponding tables.
 11. Ensure that all columns of the table have a mapped column from the CSV File.
 12. Click Import.
 
+---
+
+> :memo: @Perla: please update the screenshot with all options checked as written in the description
+
+---
+
 <br>![](images/00_00_0063.png) 
 
 13. You should receive a message about the successful import of the information.
-14. There is no need to save / deploy the table after you imported the data.
+14. You can use the Data Preview to check if the data was loaded into the table.
 
-You can now continue and repeat the steps for the other tables. Each table does have a corresponding CSV file
-as part of the download.
-Please upload the data for the following tables:
-- Product
-- Store 
-- Sales Manager
+---
+
+> :memo: @Perla: please add a screenshot of the data preview and highlight the icon in the menu bar.
+
+---
+
+15. There is no need to save / deploy the table after you imported the data.
+
+> :boom: ***Important*** :boom: <br> You can now continue and repeat the steps 4 - 14 for the other tables. Each table does have a corresponding CSV file as part of the download. Please upload the data for the following tables:<br>- Product <br>- Store  <br>- Sales Manager<br>
 
 
 ## Summary
 
-You've now imported all your files. 
+Now you have imported all the data files and you can start to build the data model. 
 
 Continue to - [Creating the Dimension (mandatory)](../ex07/README.md)
