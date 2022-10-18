@@ -1,6 +1,6 @@
 # Exercise 12 - Year over Year comparison
 
-:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+> :memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
 ---
 
@@ -13,39 +13,36 @@ of our revenue information
 
 ---
 
-:bulb: **Tip:** The system will ask you to resign in.
+>:bulb: **Tip:** The system will ask you to resign in.
 
 ---
 
 2. Select the menu Stories in the left-hand panel
-3. Select "Classic Design Experience" when asked "What design mode would you like to use?"
-<br>![](images/00_00_0222.png) 
-<br>
 
-4. Select the option Canvas to create a new Story.
+3. Select the option Canvas to create a new Story.
 <br>![](images/00_00_0201.png) 
 
+4. Select "Classic Design Experience" when asked "What design mode would you like to use?"
+<br>![](images/00_00_0222.png) 
 
-5. You will be asked to select a Workspace.
-6. Select the entry ANA161.??????
-7. In the toolbar click on “Data” (top left) to add data from SAP Data Warehouse Cloud to your Story
-8. Select the option Data From Data Source.
+5. In the toolbar click on “Data” (top left) to add data from SAP Data Warehouse Cloud to your Story
+6. Select the option Data From Data Source.
 <br>![](images/00_00_0204.png) 
 
-9. Open the list Connect to Live Data.
-10. Select the entry SAP Data Warehouse Cloud.
+7. Open the list Connect to Live Data.
+8. Select the entry SAP Data Warehouse Cloud.
 <br>![](images/00_00_0205.png) 
 
-11. You will be asked to select Connection to SAP Data Warehouse Cloud.
-12. Please select "SAPDWC" as the connection 
+9. You will be asked to select Connection to SAP Data Warehouse Cloud.
+10. Please select "SAPDWC" as the connection 
 <br>![](images/00_00_0700.png)
 <br>
 
-13. When being asked to select a SPACE, select the Space your created previously – ANA161-XX. ????
-14. Click OK. 
-15. Afterwards you will be asked to select the Analytical Data Set or the Perspective from your Space.
-16. For our first example, we will use the Analytical Data Set – Sales View – Analytical Dataset.
-17. Click OK.
+11. When being asked to select your SPACEe.g. ***GE12345***.
+12. Click OK. 
+13. Afterwards you will be asked to select the Analytical Data Set or the Perspective from your Space.
+14. For our first example, we will use the Analytical Data Set – Sales View – Analytical Dataset.
+15. Click OK.
 <br>![](images/00_00_0208.png) 
 
 18. Select the option to add a Chart.
@@ -104,16 +101,13 @@ compared to the last year data.
 42. Your chart should look like this.
 <br>![](images/00_00_0219.png) 
 
-43. In the File menu select the option "More" to save your story.
+43. In the File menu select the option "save" to save your story.
 44. Select the User folder that matches your assigned user number.
-45. Enter a Name and Description.
+45. Enter a Name and Description like ***Year over Year comparison***.
 46. Click OK.
-
-
-
 
 ## Summary
 
-You've now ...FILL IN
+You've now created your first SAP Anayltics Cloud Story on top of the data model you created earlier. 
 
 Continue to - [Revenue by Geography (requires Exercise 08 to be completed) ](../ex13/README.md)
