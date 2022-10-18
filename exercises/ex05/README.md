@@ -39,7 +39,27 @@ We will now import the table definitions in form of JSON file by importing a Ent
 <br>  
   
 15. Click Save.
-16. Deploy the model using the Deploy option in the menu bar.
+
+16. On the left hand side in the Repository panel, open the list of Views
+<br>![](images/00_00_0049.png) 
+
+17. Now drag the View Time Dimension – Day to the canvas.
+18. Select the table Sales Transactions on the canvas.
+19. Select the arrow and drag and drop the arrow to the view Time Dimension - Day to create a new Association between the table Sales Transactions and the view Time Dimension - Day.
+20. In the panel on the right-hand side now, create a join between the Transaction Date column and the Date column.
+<br>![](images/00_00_0410.png) 
+
+21. You can use the option to arrange all tables in the toolbar.
+<br>![](images/00_00_0411.png) 
+
+22. Your Entity Relationship Model should look like the image shown below
+<br>![](images/00_00_0412.png) 
+
+23. Save the changes to your Entity Relationship model by using the Save option in the General menu.
+
+
+
+> 16. Deploy the model using the Deploy option in the menu bar.
 
 ## Summary
 
