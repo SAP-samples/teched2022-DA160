@@ -24,23 +24,11 @@ We will now upload the CSV files into the corresponding tables.
 10. Ensure the ***CSV Delimiter*** option is set to ***Auto-Detect***.
 11. Ensure that all columns of the table have a mapped column from the CSV File.
 12. Click ***Import***.
-
----
-
-> :memo: @Perla: please update the screenshot with all options checked as written in the description
-
----
-
 <br>![](images/00_00_0063.png) 
 
 13. You should receive a message about the successful import of the information.
 14. You can use the ***Data Preview*** to check if the data was loaded into the table.
-
----
-
-> :memo: @Perla: please add a screenshot of the data preview and highlight the icon in the menu bar.
-
----
+<br>![](images/00_00_0206.png)
 
 15. There is no need to save / deploy the table after you imported the data.
 
