@@ -1,4 +1,4 @@
-# Exercise 7 - Creating the Dimension 
+# Exercise 07 - Creating the Dimension 
 
 >:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
@@ -28,7 +28,7 @@ In this exercise, we will create the new Dimension View based on our previously 
 <br>![](images/00_00_0074.png) 
 
 9. You automatically will – in addition to the table you dragged to the canvas – receive the output view as well, in our example called View 1
-10. Now click on the table Store on the canvas.
+10. Now click on the table ***Store*** on the canvas.
 <br>![](images/00_00_0075.png) 
 
 11. When you select the table on the canvas, you have the following options (top to bottom)<br><ul><li> You can add Filter on top of the Table.</li><li> You can Rename or Hide columns as part of a Projection.</li><li> You can add Calculated Columns.</li><li> You can add an Aggregation View.</li><li> You can add additional tables / views based on suggested joins, which are based on your Entity
@@ -62,7 +62,7 @@ Relationship model.</li><li> You can open the table in the editor.</li><li> You 
 <br>![](images/00_00_0078.png) 
 
 23. Navigate to the properties on the right hand side.
-24. Click on the “+” sign and select the option Geo-Coordinates Column.
+24. Click on the ***“+”*** sign and select the option Geo-Coordinates Column.
 <br>![](images/00_00_0079.png) 
  
 25. You are presented with the properties for the new column
@@ -82,7 +82,7 @@ Relationship model.</li><li> You can open the table in the editor.</li><li> You 
 
 32. Ensure the Semantic Type for the line item Store Name is set to Text.
 33. Set the Label Column for the line item Store ID to be the Store Name.
-34. Click Close.
+34. Click ***Close***.
 <br>![](images/00_00_0775.png) 
  
 35. In the toolbar in the General menu, use the option to Save your changes.
@@ -95,5 +95,5 @@ Relationship model.</li><li> You can open the table in the editor.</li><li> You 
 
 You've now created your dimension view ***Dimension Store*** including the added geo-coordinates column ***Store location***, which is required to use visualizations on maps within SAP Analytics Cloud.
 
-Continue to - [Creating the View (mandatory) ](../ex08/README.md)
+Continue to - [Exercise 08: Creating the View (mandatory) ](../ex08/README.md)
 
