@@ -1,12 +1,12 @@
 # Exercise 02: Get to know your own Space
 
-:memo: **Note:** This is an MANDATORY Exercise
+> :memo: **Note:** This is an MANDATORY Exercise
 
 Spaces as part of the SAP Data Warehouse Cloud solution are virtual team environments where your administrator has the ability to assign users and roles, as well as additional resources, such as connections to data sources, and allocated storage.  In SAP Data Warehouse Cloud all data related workflows start with the selection of a Space, so you can see the Space is a fundamental concept.
 
 ---
 
-:point_right: In case you do not use a guided experience trial system for this hands-on training, then you require a space on the SAP Data Warehouse Cloud tenant you are using. 
+> :point_right: In case you do not use a guided experience trial system for this hands-on training, then you require a space on the SAP Data Warehouse Cloud tenant you are using. 
 
 ---
 
