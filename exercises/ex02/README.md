@@ -1,4 +1,4 @@
-# Exercise 2 - Exercise 02: Get to know your own Space
+# Exercise 02: Get to know your own Space
 
 :memo: **Note:** This is an MANDATORY Exercise
 
