@@ -138,21 +138,14 @@ the Store Name into the Attributes.
 
 ---
 
-  ********************************************************************
-> :memo: ***@Perla*** Should we indicate the key column in the table as I did in the above?
-  ********************************************************************
-
 28. After you entered all columns for the table, ensure you enable the Key Column option for the column Store ID.
 29. Click ***Save*** in the General menu.
 30. You will be asked to confirm the Business Name as well as the Technical Name.
 31. Click ***Save***.
 32. Click ***Deploy*** in the General Menu.
+33. Click on ***"back arrow"*** on the top menu bar to navigate back to the list of tables. 
+<br>![](images/00_00_0037.png)  
 
-  ********************************************************************
-> :memo: ***@Perla*** We should use the BACK < Button as the data builder as above?
-  ********************************************************************
-
-33. Click on ***"Data Builder"*** on the top menu bar to navigate back to the home screen of the Data Builder.
 34. Use the option New Table.
 35. Enter the following details:<br><ul><li>Business Name - Product</li><li>Technical Name - Product</li><li>Type - Dimension<br>
 <br>  
@@ -160,33 +153,30 @@ the Store Name into the Attributes.
 36. Navigate to the Attributes for the table.
 37. Enter the following Attributes for the table:
  
-| Business Name:        | Technical Name:                       | Data Type:          | Semantic Type       | Label Column          |
-|:----------------------|:--------------------------------------|:--------------------|:--------------------|:----------------------|
-| Product ID            | Product_ID                            | String (4)          | None                | Product Name          |
-| Product Name          | Product_Name                          | String (30)         | Text                |                       |
-| Product Category ID   | Product_Category_ID                   | String (4)          | None                | Product Category Name |
-| Product Category Name | Product_Category_Name                 | String (30)         | Text                |                       |  
+| Key: | Business Name:        | Technical Name:                       | Data Type:          | Semantic Type       | Label Column          |
+|:-----|:----------------------|:--------------------------------------|:--------------------|:--------------------|:----------------------|
+| X    | Product ID            | Product_ID                            | String (4)          | None                | Product Name          |
+|      | Product Name          | Product_Name                          | String (30)         | Text                |                       |
+|      | Product Category ID   | Product_Category_ID                   | String (4)          | None                | Product Category Name |
+|      | Product Category Name | Product_Category_Name                 | String (30)         | Text                |                       |  
   
 38. After you entered all columns for the table, ensure you enable the Key Column option for the column Product ID.
 39. Click ***Save*** in the General menu.
 40. You will be asked to confirm the Business Name as well as the Technical Name.
 41. Click ***Save***.
 42. Click ***Deploy*** in the General Menu.
+43. Click on ***"back arrow"*** on the top menu bar to navigate back to the list of tables. 
+<br>![](images/00_00_0037.png)  
 
-  ********************************************************************
-> :memo: ***@Perla*** We should use the BACK < Button as the data builder as above?
-  ********************************************************************
-
-43. Click on ***"Data Builder"*** on the top menu bar to navigate back to the home screen of the Data Builder.
 44. Enter the following details:<br><ul><li>Business Name - Sales Manager</li><li>Technical Name - Sales_Manager</li><li>Type - Dimension<br>
 <br>  
 45. Navigate to the Attributes for the table.<br>
 46. Enter the following Attributes for the table:
 
-| Business Name:        | Technical Name:                       | Data Type:          | Semantic Type       | Label Column          |
-|:----------------------|:--------------------------------------|:--------------------|:--------------------|:----------------------|
-| Sales Manager ID      | Sales_Manager_ID                      | String (4)          | None                | Sales Manager Name    |
-| Sales Manager Name    | Sales_Manager_Name                    | String (30)         | Text                |                       |
+| Key: | Business Name:        | Technical Name:                       | Data Type:          | Semantic Type       | Label Column          |
+|:-----|:----------------------|:--------------------------------------|:--------------------|:--------------------|:----------------------|
+| X    | Sales Manager ID      | Sales_Manager_ID                      | String (4)          | None                | Sales Manager Name    |
+|      | Sales Manager Name    | Sales_Manager_Name                    | String (30)         | Text                |                       |
 
 47. After you entered all columns for the table, ensure you enable the Key Column option for the column Sales
 Manager ID.
