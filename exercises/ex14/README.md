@@ -101,6 +101,6 @@ control and based on the Consumption Layer created in SAP Data Warehouse Cloud.
 
 ## Summary
 
-Congratulations you have now completed the exercises for this session.
+:trophy: Congratulations you have now completed the exercises for this session! 
 
 
