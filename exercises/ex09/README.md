@@ -47,6 +47,11 @@ dimension Store
 22. Click Save (top right).
 <br>![](images/00_00_0097.png) 
 
+---
+> :memo: @Perla: we could use the repeat action we have used in the previous exercices also here, like with associations or fiule upload. ***What do you think?***
+---
+
+
 23. Select the menu option Business Builder on the left-hand side.
 24. In case you are being asked, select the Space you created previously.
 25. Select the option Business Entities.
