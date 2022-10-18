@@ -4,7 +4,8 @@
 
 ---
 
-> :bulb: **Tip:** This exercise is only required in case you did not create the tables and the Entity Relationship Model for our sample model manually, but instead prefer to import them.
+> :boom: **Important:** :boom: <br>
+This exercise is only required in case you ***did not*** create the tables in [Exercise 03 - Prepare Your Data (optional) ](../ex03/README.md) and the Entity Relationship Model for our sample model manually in [Exercise 04 - Creating the Entity Relationship Model (optional) ](../ex04/README.md) and prefer to import them.
 
 ---
 
