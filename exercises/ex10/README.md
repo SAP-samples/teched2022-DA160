@@ -61,6 +61,8 @@ and then associate the dimension with the data set.
 
 29. Click Save (top right).
 
+> :boom: ***Important*** :boom: <br> 
+
 ---
 > :memo: @Perla: we could also do the same repetivie action like with file upload, or associations here. What do you think?
 ---
