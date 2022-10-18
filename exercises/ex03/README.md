@@ -1,31 +1,30 @@
 # Exercise 3 - Data Layer - Prepare Your Data
 
-:memo: **Note:** This is an OPTIONAL Exercise
+> :memo: **Note:** This is an OPTIONAL Exercise
 
 ---
 
-Before we are going to start with our first exercise in creating a table and creating our first model, lets clarify the
-different asset types that you can create in SAP Data Warehouse Cloud.
+## :beginner: Detour: SAP Data Warehouse Cloud - Model Types
+Before we are going to start with the first exercise in creating a table and creating the first model, letm us have a look at the
+different asset types that you can create in the Data Builder of SAP Data Warehouse Cloud.
 
 So, let’s now look at the different asset types:
-- Table: Here you basically define a new table from scratch, and you configure each field of the table and
-you do have the ability then to upload data to this table later on.</p>
-- Graphical View: In the Graphical View you can leverage Tables and Views to the create new Views
-using a visual interface.</p>
-- SQL View: In the SQL View you can leverage Tables and Views to the create new Views by using SQL
-directly.</p>
-- Entity Relationship Model: Here you define the relationships between Tables or Views, which then are
-being leveraged when you create a new View based on the Tables or Views.</p>
-- Data Flow: Here you can define data transformations and leverage the option to load data from a source
-system into SAP Data Warehouse Cloud.</p>
+- **Table**: Create a table to contain data by defining its column structure. You can configure each field of the table, and already define semantics and associations. You have the ability to upload data to this table later on.</p>
+- **Graphical View**: In the Graphical View you can leverage Tables and Views to prepare data and the create new Views using a graphical no-code/low-code editor. Join datasets as appropriate, add other operators to remove or create columns and filter or aggregate data, and specify measures and other aspects of your output structure in the output node. </p>
+- **SQL View**: In the SQL View you can leverage Tables and Views to the create new Views by using SQL or SQL-script (table function) view in a powerful SQL editor.
+<br>*Not used in the DA160 exercises.* </p>
+- **Entity Relationship Model**: Here you define the relationships between Tables or Views, which then are being leveraged when you create a new View based on the Tables or Views.</p>
+- **Data Flow**: You define Data Flows to use data transformations and leverage the option to load data from a source system and persist it in SAP Data Warehouse Cloud. <br>*Not used in the DA160 exercises.*</p>
+- **Intelligent Lookup**: Create an intelligent lookup to merge data from two entities even if there are problems joining them. <br>*Not used in the DA160 exercises.*</p>
+- **Task Chain**: Create a task chain that groups multiple tasks, which can be run in series manually or through a schedule. <br>*Not used in the DA160 exercises.*</p>
 
-In this section we will start creating the tables for our sample models and then upload the raw data to those
-tables. In the first part of this overall section, we will look at the sample model and which tables we will need. In
-the second part we will then create those tables in SAP Data Warehouse Cloud and finally in the third part, we
-will upload the raw data to those newly created tables, and we will also setup a hierarchy as part of the tables.
+**End of Detour**
 
-In the next steps we will setup a relatively simple data model and we will start by creating the tables first and
-then upload the information for each table in form of CSV Files
+---
+
+## Start of the exercise
+
+In this section we will start creating the tables for our sample models and then upload the raw data to those tables in [Excercise 5](../ex05/README.md). 
 
 We will start to create the tables in SAP Data Warehouse Cloud.
 
@@ -37,8 +36,7 @@ We will start to create the tables in SAP Data Warehouse Cloud.
 
 5. You are being presented with the details to create a new table.
 
-6. Enter the following details:<br><ul><li>Business Name - Sales Transactions</li><li>Technical Name - Sales Transactions</li><li>Type - Relational Dataset
-<br>
+6. Enter the following details:<br><ul><li>Business Name - Sales Transactions</li><li>Technical Name - Sales_Transactions</li><li>Type - Relational Dataset
 
 <br>![](images/00_00_0032.png)  
   
@@ -49,8 +47,7 @@ used as part of the Business Catalogue.
 
 ---
   
-:bulb: **Tip:** </p>
-Please note, that when entering the <strong>Tags</strong>, you have to enter each tag individually for now and you can’t enter
+> :bulb: **Tip:** Please note, that when entering the <strong>Tags</strong>, you have to enter each tag individually for now and you can’t enter
 multiple tags separated by comma right now.
 
 ---  
@@ -63,16 +60,15 @@ column
 <br>![](images/00_00_0033.png)
 
 11. You now need to enter a Business Name, a Technical Name, and you need to configure the Data Type
-12. For the first column, enter the following details:<br><ul><li>Business - Name Transaction ID</li><li>Technical Name - Transaction_ID</li><li>Data Type - Integer64<br>
+12. For the first column, enter the following details:<br><ul><li>Business Name -   Transaction ID</li><li>Technical Name -   Transaction_ID</li><li>Data Type -  Integer64<br>
   
 ---  
 
-:bulb: **Tip:** </p>
-Please note, that you can change the <strong>Data Type</strong> simply by clicking on the item in the Data Type column.
+> :bulb: **Tip:** Please note, that you can change the <strong>Data Type</strong> simply by clicking on the item in the Data Type column.
 
 ---  
   
-13. After you entered the details for the first column, please enter the following additional columns:
+13. After you entered the details for the first column, please enter additional columns. All columns of the table are listed as follows:
   
 | Business Name:      | Technical Name:                       | Data Type:          |
 |:--------------------|:--------------------------------------|:--------------------|
@@ -99,6 +95,11 @@ Transaction ID.
 <br>![](images/00_00_0036.png)   
   
 20. We configured, saved, and deployed our first table.
+
+  ********************************************************************
+> :memo: ***@Perla*** We should use the BACK < Button as the data builder gets us back to the Space selection screen in case there are many spaces
+  ********************************************************************
+
 21. Click on "Data Builder" on the top menu bar to navigate back to the list of tables. 
 <br>![](images/00_00_0037.png)  
 
@@ -115,11 +116,11 @@ Transaction ID.
   
 ---  
  
-:bulb: **Tip:** </p> You will notice, based on the Type Dimension, we now have two additional options for each Column:
-Semantic Type and Label Column.
+> :bulb:  **Tip:** You will notice, based on the Type Dimension, we now have two additional options for each Column:
+Semantic Type and Label Column.<br>  
 The Label Column allows you to specify a column from the table to be used as Label. For example, you
 could have a Product ID and a Product Description in the table and use the Product Description column as
-Label for the Product ID.
+Label for the Product ID.<br>  
 The Semantic Type option provides you with several option to choose from, so that you can configure an
 additional context for the column, such as the option to configure the column as a Currency column or a
 language column.
@@ -129,24 +130,27 @@ language column.
   
 27. Enter the following Attributes for the table:  
   
-| Business Name:      | Technical Name:                       | Data Type:          | Semantic Type       | Label Column   |
-|:--------------------|:--------------------------------------|:--------------------|:--------------------|:---------------|
-| Store ID            | Store_ID                              | String (6)          | None                | Store_Name     |
-| Store Name          | Store_Name                            | String (30)         | Text                |
-| Store City          | Store_City                            | String (20)         | 
-| State ID            | State_ID                              | String (2)          | 
-| State Name          | State_Name                            | String(30)          | 
-| Country             | Country                               | String(30)          | 
-| Latitude            | Latitude                              | Decimal(15,8)       | 
-| Longitude           | Longitude                             | Decimal(15,8)       | 
+| Key: | Business Name:      | Technical Name:                       | Data Type:          | Semantic Type       | Label Column   |
+|:-----|:--------------------|:--------------------------------------|:--------------------|:--------------------|:---------------|
+| X    | Store ID            | Store_ID                              | String (6)          | None                | Store_Name     |
+|      | Store Name          | Store_Name                            | String (30)         | Text                |
+|      | Store City          | Store_City                            | String (20)         | 
+|      | State ID            | State_ID                              | String (2)          | 
+|      | State Name          | State_Name                            | String(30)          | 
+|      | Country             | Country                               | String(30)          | 
+|      | Latitude            | Latitude                              | Decimal(15,8)       | 
+|      | Longitude           | Longitude                             | Decimal(15,8)       | 
     
 ---
   
-:bulb: **Tip:** </p>
-Please note, that you can only select the Store Name for the <strong>Label Column</strong> after you entered the details for
+> :bulb: **Tip:** Please note, that you can only select the Store Name for the <strong>Label Column</strong> after you entered the details for
 the Store Name into the Attributes.
 
 ---
+
+  ********************************************************************
+> :memo: ***@Perla*** Should we indicate the key column in the table as I did in the above?
+  ********************************************************************
 
 28. After you entered all columns for the table, ensure you enable the Key Column option for the column Store ID.
 29. Click Save in the General menu.
