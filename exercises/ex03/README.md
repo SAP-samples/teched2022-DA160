@@ -1,4 +1,4 @@
-# Exercise 3 - Data Layer - Prepare Your Data
+# Exercise 03 - Data Layer - Prepare Your Data
 
 > :memo: **Note:** This is an OPTIONAL Exercise
 
@@ -85,7 +85,7 @@ Transaction ID.
 <br>![](images/00_00_0035.png) 
   
 16. On the first time you save the table, you will be asked to confirm the name and technical name.
-17. Click Save.
+17. Click ***Save***.
 18. After you saved the changes, you also have to deploy the table, so that we can later on upload data to the table.
 19. Use the Deploy option from the General menu  
 <br>![](images/00_00_0036.png)   
@@ -96,7 +96,7 @@ Transaction ID.
 > :memo: ***@Perla*** We should use the BACK < Button as the data builder gets us back to the Space selection screen in case there are many spaces
   ********************************************************************
 
-21. Click on "Data Builder" on the top menu bar to navigate back to the list of tables. 
+21. Click on ***"Data Builder"*** on the top menu bar to navigate back to the list of tables. 
 <br>![](images/00_00_0037.png)  
 
 22. You are back at the home screen of the Data Builder and you should see your table in the list of objects.
@@ -148,16 +148,16 @@ the Store Name into the Attributes.
   ********************************************************************
 
 28. After you entered all columns for the table, ensure you enable the Key Column option for the column Store ID.
-29. Click Save in the General menu.
+29. Click ***Save*** in the General menu.
 30. You will be asked to confirm the Business Name as well as the Technical Name.
-31. Click Save.
-32. Click Deploy in the General Menu.
+31. Click ***Save***.
+32. Click ***Deploy*** in the General Menu.
 
   ********************************************************************
 > :memo: ***@Perla*** We should use the BACK < Button as the data builder as above?
   ********************************************************************
 
-33. Click on "Data Builder" on the top menu bar to navigate back to the home screen of the Data Builder.
+33. Click on ***"Data Builder"*** on the top menu bar to navigate back to the home screen of the Data Builder.
 34. Use the option New Table.
 35. Enter the following details:<br><ul><li>Business Name - Product</li><li>Technical Name - Product</li><li>Type - Dimension<br>
 <br>  
@@ -173,16 +173,16 @@ the Store Name into the Attributes.
 | Product Category Name | Product_Category_Name                 | String (30)         | Text                |                       |  
   
 38. After you entered all columns for the table, ensure you enable the Key Column option for the column Product ID.
-39. Click Save in the General menu.
+39. Click ***Save*** in the General menu.
 40. You will be asked to confirm the Business Name as well as the Technical Name.
-41. Click Save.
-42. Click Deploy in the General Menu.
+41. Click ***Save***.
+42. Click ***Deploy*** in the General Menu.
 
   ********************************************************************
 > :memo: ***@Perla*** We should use the BACK < Button as the data builder as above?
   ********************************************************************
 
-43. Click on "Data Builder" on the top menu bar to navigate back to the home screen of the Data Builder.
+43. Click on ***"Data Builder"*** on the top menu bar to navigate back to the home screen of the Data Builder.
 44. Enter the following details:<br><ul><li>Business Name - Sales Manager</li><li>Technical Name - Sales_Manager</li><li>Type - Dimension<br>
 <br>  
 45. Navigate to the Attributes for the table.<br>
@@ -195,10 +195,10 @@ the Store Name into the Attributes.
 
 47. After you entered all columns for the table, ensure you enable the Key Column option for the column Sales
 Manager ID.
-48. Click Save in the General menu.
+48. Click ***Save*** in the General menu.
 49. You will be asked to confirm the Business Name as well as the Technical Name.
-50. Click Save.
-51. Click Deploy in the General Menu.
+50. Click ***Save***.
+51. Click ***Deploy*** in the General Menu.
 52. Use the Back option in top menu or as alternative you can click on your Space name to navigate back to the home screen of the Data Builder.
   
 ## Summary
