@@ -1,6 +1,6 @@
 # Exercise 11 - Business Layer - Consumption Layer
 
-:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+> :memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
 ---
 
@@ -12,7 +12,7 @@ In this exercise, we will create the consumption layer for our analytical story.
 4. Select the option New Consumption Model.
 <br>![](images/00_00_0150.png) 
 
-5. Enter "Revenue by Store and Product" as Name.
+5. Enter ***Revenue by Store and Product*** as Name.
 <br>![](images/00_00_0151.png) 
 
 6. Click Step 2
@@ -35,6 +35,10 @@ Sources.
 14. Now select the object for dimension Product on the canvas.
 15. Use the “+” icon for the option Add Source Context.
 <br>![](images/00_00_0169.png) 
+
+---
+> :memo: @Perla: we could also do the same repetivie action like with file upload, or associations here. What do you think?
+---
 
 16. For the Source Alias option, enter Product.
 17. Click Create.
@@ -109,9 +113,9 @@ under the category Dimension Sources.
 <br> 
 51. Click Save New (top right corner).
 <br> 
-52. Enter Revenue by Store and Product (Perspective) as Business Name.
+52. Enter ***Revenue by Store and Product (Perspective)*** as Business Name.
 <br> 
-53. Enter Revenue_by_Store_and_Product_Perspective as Technical Name
+53. Enter ***Revenue_by_Store_and_Product_Perspective*** as Technical Name
 <br> 
 54. Click Save.
    
