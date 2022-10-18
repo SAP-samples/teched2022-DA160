@@ -10,7 +10,7 @@ Spaces as part of the SAP Data Warehouse Cloud solution are virtual team environ
 
 ---
 
-1. In the menu on the left-hand side, select the option Space Management.
+1. In the menu on the left-hand side, select the option ***Space Management***.
 <br>![](images/00_00_0021.png)
 
 2. After you selected the menu item, you will be presented with a list of existing Spaces .
@@ -29,10 +29,10 @@ The pre-defined spaces are usually named the same way as your user ID for exampl
 7. In the **Time Data** section click on ***+ Create time Tables and Dimensions*** to create the time dimension in your space.
 <br>![](images/00_00_0028.png)
 
-8. For the From Year enter 2019.
-9. For the To Year enter 2023.
+8. For the From Year enter ***2019***.
+9. For the To Year enter ***2023***.
 10. For all other elements leave the default values.
-11. Click Create.
+11. Click ***Create***.
 <br>![](images/00_00_0027.png)
 <br>This will create a set of Date / Time Tables which we will use as part of our model to create a date hierarchy
 (Year, Quarter, Month, Day).
