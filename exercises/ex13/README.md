@@ -1,6 +1,6 @@
 # Exercise 13 - Geographic Revenue Distribution
 
-:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+>:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
 ---
 
@@ -18,30 +18,26 @@ geographic map.
 ---
 
 2. Select the menu Stories in the left-hand panel
-3. Select "Classic Design Experience" when asked "What design mode would you like to use?"
-<br>![](images/00_00_0222.png) 
-<br>
-
-4. Select the option Canvas to create a new Story.
+3. Select the option Canvas to create a new Story.
 <br>![](images/00_00_0201.png) 
+4. Select "Classic Design Experience" when asked "What design mode would you like to use?"
+<br>![](images/00_00_0222.png) 
 
-5. You will be asked to select a Workspace.
-6. Select the entry ANA161.????
-7. In the toolbar click on “Data” (top left) to add data from SAP Data Warehouse Cloud to your Story.
-8. Select the option Data From Data Source.
+5. In the toolbar click on “Data” (top left) to add data from SAP Data Warehouse Cloud to your Story.
+6. Select the option Data From Data Source.
 <br>![](images/00_00_0204.png) 
 
-9. Open the list Connect to Live Data.
-10. Select the entry SAP Data Warehouse Cloud.
+7. Open the list Connect to Live Data.
+8. Select the entry SAP Data Warehouse Cloud.
 <br>![](images/00_00_0205.png) 
 
-11. You will be asked to select Connection to SAP Data Warehouse Cloud.
-12. Please select "SAPDWC" as the connection 
+9. You will be asked to select Connection to SAP Data Warehouse Cloud.
+10. Please select "SAPDWC" as the connection 
 <br>![](images/00_00_0700.png)
 <br>
 
-13. When being asked to select a SPACE, select the Space your created previously – ANA161-XX.????
-14. Click OK.
+11. When being asked to select your SPACE e.g. ***GE12345***.
+12. Click OK.
 15. Afterwards you will be asked to select the Analytical Data Set or the Perspective from your Space.
 16. For our second example, we will use the Analytical Data Set – Sales View – Analytical Dataset.
 17. Click OK.
@@ -84,12 +80,12 @@ longitude and latitude values for the store dimension.
 
 34. In the File menu select the option to save your story.
 35. Select the User folder that matches your assigned user number.
-36. Enter a Name and Description.
+36. Enter a Name and Description like ***Geographic Revenue Distribution***.
 37. Click OK.
 
 
 ## Summary
 
-You've now ...FILL IN
+You've now created your second story based on the live connection to your data models in SAP Data Warehouse Cloud. 
 
 Continue to - [Best Salesperson (requires Exercise 11 to be completed) ](../ex14/README.md)
