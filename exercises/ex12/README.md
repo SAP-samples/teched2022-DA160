@@ -41,7 +41,7 @@ of our revenue information
 11. When being asked to select your SPACEe.g. ***GE12345***.
 12. Click OK. 
 13. Afterwards you will be asked to select the Analytical Data Set or the Perspective from your Space.
-14. For our first example, we will use the Analytical Data Set – Sales View – Analytical Dataset.
+14. For our first example, we will use the ***Analytical Data Set – Sales View – Analytical Dataset***.
 15. Click OK.
 <br>![](images/00_00_0208.png) 
 
