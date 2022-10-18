@@ -50,6 +50,10 @@ dimension Store
 ---
 > :memo: @Perla: we could use the repeat action we have used in the previous exercices also here, like with associations or fiule upload. ***What do you think?***
 ---
+> :boom: ***Important*** :boom: <br> 
+> 23. You can now continue and repeat the steps 6-22 for the other associations:<br>-Product<br>- Sales Manager<br>- Time Dimension – Day (Business Layer)<br> 
+
+---
 
 
 23. Select the menu option Business Builder on the left-hand side.
