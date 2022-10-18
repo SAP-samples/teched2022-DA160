@@ -2,7 +2,7 @@
 
 >:memo: **Note:** This is an OPTIONAL Exercise
 
-## :beginner: Detour: SAP Data Warehouse Cloud - Model Types
+## :beginner: Detour: SAP Data Warehouse Cloud - Entity Relationship Model
 
 Let us clarify what an Entity Relationship model is and why we are creating it, before we start the exercise.
 
