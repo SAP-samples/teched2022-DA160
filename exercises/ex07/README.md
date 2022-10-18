@@ -28,31 +28,33 @@ In this exercise, we will create the new Dimension View based on our previously 
 <br>![](images/00_00_0074.png) 
 
 9. You automatically will – in addition to the table you dragged to the canvas – receive the output view as well, in our example called View 1
-10. Now click on the table ***Store*** on the canvas.
-<br>![](images/00_00_0075.png) 
-
-11. When you select the table on the canvas, you have the following options (top to bottom)<br><ul><li> You can add Filter on top of the Table.</li><li> You can Rename or Hide columns as part of a Projection.</li><li> You can add Calculated Columns.</li><li> You can add an Aggregation View.</li><li> You can add additional tables / views based on suggested joins, which are based on your Entity
-Relationship model.</li><li> You can open the table in the editor.</li><li> You can preview the data.
-<br>
-
-12. Now click on the output view that was added, in our example View 1.
-13. Ensure the option Details (top right corner) is enabled.
-14. Navigate to the Properties window.
+10. Navigate to the Properties window.
 <br>![](images/00_00_0076.png) 
 
-15. Here you can configure Properties for the final output of this view:<br><ul><li> You can configure the Business Name as well as the Technical Name.</li><li> You can configure the Type of Dataset.</li><li> You can decide if the View can be consumed or not.</li><li> You can choose which of the available Columns are shown or will be hidden.</li><li> You can define additional Associations.</li><li> You can provide details on the Business Purpose, which then will be available as part of the Business Catalog.
+11. Here you can configure Properties for the final output of this view:<br><ul><li> You can configure the Business Name as well as the Technical Name.</li><li> You can configure the Type of Dataset.</li><li> You can decide if the View can be consumed or not.</li><li> You can choose which of the available Columns are shown or will be hidden.</li><li> You can define additional Associations.</li><li> You can provide details on the Business Purpose, which then will be available as part of the Business Catalog.
 <br>
 
-16. Enter 
+12. Enter 
 <br><ul><li> Dimension Store as Business Name.
 <br>
 
-17. The Technical Name will be generated based on the Business Name, but you can also change it.
-18. Set the Semantic Usage to Dimension option.
+13. The Technical Name will be generated based on the Business Name, but you can also change it.
+14. Set the Semantic Usage to Dimension option.
 <br>![](images/00_00_0777.png) 
  
-19. Enable the option Expose for Consumption.
-<br>![](images/00_00_0778.png)  
+15. Enable the option Expose for Consumption.
+<br>![](images/00_00_0778.png)   
+ 
+16. Now click on the table ***Store*** on the canvas.
+<br>![](images/00_00_0075.png) 
+
+17. When you select the table on the canvas, you have the following options (top to bottom)<br><ul><li> You can add Filter on top of the Table.</li><li> You can Rename or Hide columns as part of a Projection.</li><li> You can add Calculated Columns.</li><li> You can add an Aggregation View.</li><li> You can add additional tables / views based on suggested joins, which are based on your Entity
+Relationship model.</li><li> You can open the table in the editor.</li><li> You can preview the data.
+<br>
+
+18. Now click on the output view that was added, in our example View 1.
+19. Ensure the option Details (top right corner) is enabled.
+
  
 20. Now select the node for table Store on the canvas.
 <br>![](images/00_00_0077.png) 
