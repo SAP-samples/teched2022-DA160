@@ -97,5 +97,5 @@ and then associate the dimension with the data set.
 
 You've now have created your ***Analytical Dataset*** with all th prerequisites to create the consumption model. 
 
-Continue to - [Business Layer – Consumption Layer ](../ex11/README.md)
+Continue to - [Exercise 11: Business Layer – Consumption Layer ](../ex11/README.md)
 
