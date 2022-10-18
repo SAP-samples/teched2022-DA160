@@ -56,10 +56,7 @@ We will now import the table definitions in form of JSON file by importing a Ent
 <br>![](images/00_00_0412.png) 
 
 23. Save the changes to your Entity Relationship model by using the Save option in the General menu.
-
-
-
-> 16. Deploy the model using the Deploy option in the menu bar.
+24. Deploy the model using the Deploy option in the menu bar.
 
 ## Summary
 
