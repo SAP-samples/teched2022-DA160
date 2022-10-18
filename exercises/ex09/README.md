@@ -1,6 +1,6 @@
 # Exercise 9 - Business Layer - Dimension 
 
-:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+> :memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
 ---
 
@@ -157,6 +157,6 @@ dimension Store.
 
 ## Summary
 
-You've now ...FILL IN
+You've now created reusable Business Builder Entities based on your data structures in the Data Builder.
 
 Continue to - [Business Layer – Analytical Dataset ](../ex10/README.md)
