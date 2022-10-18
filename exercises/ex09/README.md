@@ -17,19 +17,19 @@ then will be used by SAP Analytics Cloud for our story.
 6. Select the entry for the Store dimension. Ensure to use the Dimension Store View and not the local table
 Store.
 7. Business Name and Technical Name will be suggested.
-8. Click Create
+8. Click ***Create***
 <br>![](images/00_00_0092.png) 
 
 9. You are then being asked, if you would like to leverage the existing Attributes and Key Definitions.
 <br>![](images/00_00_0093.png) 
 
-10. Ensure the option “Yes” is enabled.
-11. Ensure the option Attributes is enabled.
-12. Ensure the option Key Definitions is enabled.
-13. Click Create.
+10. Ensure the option ***“Yes”*** is enabled.
+11. Ensure the option ***Attributes*** is enabled.
+12. Ensure the option ***Key Definitions*** is enabled.
+13. Click ***Create***.
 <br>![](images/00_00_0094.png) 
 
-14. Ensure the Business Name is set to Dimension Store.
+14. Ensure the Business Name is set to ***Dimension Store***.
 15. Ensure the option Allow public data access is enabled.
 <br>![](images/00_00_0994.png)
 
@@ -55,20 +55,20 @@ dimension Store
 23. Select the menu option Business Builder on the left-hand side.
 24. In case you are being asked, select the Space you created previously.
 25. Select the option Business Entities.
-26. Click New Dimension.
+26. Click ***New Dimension***.
 <br>![](images/00_00_0997.png) 
 
-27. Select the entry Product.
-28. For the Business Name enter Product.
-29. For the Technical Name use the suggested name BE_Product.
-30. Click Create.
+27. Select the entry ***Product***.
+28. For the Business Name enter ***Product***.
+29. For the Technical Name use the suggested name ***BE_Product***.
+30. Click ***Create***.
 <br>![](images/00_00_0908.png) 
 
 31. You are then being asked, if you would like to leverage the existing Attributes and Key Definitions.
-32. Ensure the option “Yes” is enabled.
-33. Ensure the option Attributes is enabled.
-34. Ensure the option Key Definitions is enabled.
-35. Click Create.
+32. Ensure the option ***“Yes”*** is enabled.
+33. Ensure the option ***Attributes*** is enabled.
+34. Ensure the option ***Key Definitions*** is enabled.
+35. Click ***Create***.
 <br>![](images/00_00_0098.png) 
 
 36. Ensure the Business Name is set to Product.
@@ -92,13 +92,13 @@ dimension Store.
 45. Select the menu option Business Builder on the left-hand side.
 46. In case you are being asked, select the Space you created previously.
 47. Select the option Business Entities.
-48. Click New Dimension.
+48. Click ***New Dimension***.
 <br>![](images/00_00_0997.png) 
 
 49. Select the entry Sales Manager.
-50. For the Business Name enter Sales Manager.
-51. For the Technical Name use the suggested name BE_Sales_Manager.
-52. Click Create.
+50. For the Business Name enter ***Sales Manager***.
+51. For the Technical Name use the suggested name ***BE_Sales_Manager***.
+52. Click ***Create***.
 <br>![](images/00_00_0993.png) 
 
 53. You are then being asked, if you would like to leverage the existing Attributes and Key Definitions.
