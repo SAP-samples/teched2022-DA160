@@ -1,10 +1,10 @@
 # Exercise 5 - Importing Tables
 
->:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+> :memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
 ---
 
-:bulb: **Tip:** This exercise is only required in case you did not create the tables and the Entity Relationship Model for our sample model manually, but instead prefer to import them.
+> :bulb: **Tip:** This exercise is only required in case you did not create the tables and the Entity Relationship Model for our sample model manually, but instead prefer to import them.
 
 ---
 
