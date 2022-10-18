@@ -3,7 +3,7 @@
 1. Open Google Chrome and log on to your SAP Data Warehouse Cloud system.
 <br>![](images/00_00_0015.png)
 
-2. In case you get the follwing pop-up message, use the CLOSE button to get to the start screen. 
+2. In case you get the follwing pop-up message, use the ***CLOSE*** button to get to the start screen. 
 <br>![](images/manage_settings.png)
 
 3. In the top left of the start screen you will find the menu options.  
