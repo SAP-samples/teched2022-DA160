@@ -1,4 +1,4 @@
-# Exercise 8 - Creating the View 
+# Exercise 08 - Creating the View 
 
 > :memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
@@ -107,4 +107,4 @@ You have now created and deployed your first Analytical Dataset, which can now b
 Cloud.
 
 
-Continue to - [Business Layer - Dimension ](../ex09/README.md)
+Continue to - [Exercise 09: Business Layer - Dimension ](../ex09/README.md)
