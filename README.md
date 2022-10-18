@@ -9,6 +9,11 @@ This repository contains the material for the SAP TechEd 2022 session called ***
 This hands-on workshop will give you the opportunity to build a scenario with exercises for SAP Data Warehouse Cloud and SAP Analytics Cloud.
 Find out how the SAP Data Warehouse Cloud solution helps the line-of-business user get the job done. Discover flexible connection features, and learn how you can access data from different sources. Create an extendable business semantic model in an agile way, and connect analytics and visualization components in the context of a data warehouse.
 
+## Disclaimer
+
+* Your screen shots may look different than those in the exercises; they may contain additional content, depending on what other attendees have entered.
+* Some user interface elements may differ from the screenshot used in the exercise.
+
 ## Pre-Requisites
 
 Google Chrome, access to this GitHub repository and access to a guided experience trial system of SAP Data Warehouse Cloud.
@@ -17,11 +22,6 @@ You will also need a set of files for these exercises.
 Download the ZIP-file from the GitHub site: :arrow_right: [DA160_Resources.zip](DA160_Resources.zip)
 
 > :warning: **Once downloaded to your local machine, please unzip the file into a separate folder, as you will need it for the exercises. So, please remember the file location of the unzipped files!**
-
-## Disclaimer
-
-* Your screen shots may look different than those in the exercises; they may contain additional content, depending on what other attendees have entered.
-* Some user interface elements may differ from the screenshot used in the exercise.
 
 ## Exercises
 
