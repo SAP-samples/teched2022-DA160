@@ -1,4 +1,4 @@
-# Exercise 6 - Uploading Data
+# Exercise 06 - Uploading Data
 
 >:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
@@ -14,16 +14,16 @@ We will now upload the CSV files into the corresponding tables.
 4. Select the menu option Upload Data from CSV File in the toolbar.
 <br>![](images/00_00_0061.png) 
 
-5. Click Choose File.  
+5. Click Choose ***File***.  
 6. Navigate to where you unzipped the download.
-7. Select the file “Sales Transactions.csv”.
+7. Select the file ***“Sales Transactions.csv”***.
 <br>![](images/00_00_0062.png) 
 
 8. Ensure the option ***Delete Existing Data Before Upload*** is enabled.
 9. Ensure the option ***Use first row as column header*** is enabled.
 10. Ensure the ***CSV Delimiter*** option is set to ***Auto-Detect***.
 11. Ensure that all columns of the table have a mapped column from the CSV File.
-12. Click Import.
+12. Click ***Import***.
 
 ---
 
@@ -51,4 +51,4 @@ We will now upload the CSV files into the corresponding tables.
 
 Now you have imported all the data files and you can start to build the data model. 
 
-Continue to - [Creating the Dimension (mandatory)](../ex07/README.md)
+Continue to - [Exercise 07: Creating the Dimension (mandatory)](../ex07/README.md)
