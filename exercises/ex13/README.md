@@ -88,4 +88,4 @@ longitude and latitude values for the store dimension.
 
 You've now created your second story based on the live connection to your data models in SAP Data Warehouse Cloud. 
 
-Continue to - [Best Salesperson (requires Exercise 11 to be completed) ](../ex14/README.md)
+Continue to - [Exercise 14: Best Salesperson (requires Exercise 11 to be completed) ](../ex14/README.md)
