@@ -40,7 +40,11 @@ The pre-defined spaces are usually named the same way as your user ID for exampl
 12. The changes in the **Time Data** section will be deployed immediately. There is no need to save or deploy this change in your space. 
 <br>![](images/00_00_0030.png)
 
-13. You can check that the generated time tables and views are avaialble in the Data Builder of your space. Use the Data Builder icon in the main menu to the left and you should see 4 Views of type Dimension, 3 local tables of type Text and one local table of type relational dataset. 
+13. You can check that the generated time tables and views are avaialble in the **Data Builder** of your space. Use the Data Builder icon in the main menu to the left and you should see 
+    - 4 Views of type *Dimension*
+    - 3 local tables of type *Text*
+    - one local table of type *Relational Dataset*
+
 <br>![](images/00_00_0031.png)
 
 ## Summary
