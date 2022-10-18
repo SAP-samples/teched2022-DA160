@@ -32,11 +32,11 @@ Be aware that some of the exercises are based on each other, therefore flagged a
 	* [Sample Business Scenario & Data Model Overview (optional)](exercises/ex00/README.md#sample-business-scenario--data-model-overview) - READY FOR REVIEW
 
 2. **SAP Data Warehouse Cloud**
-	* [Exercise 01: First Log On (optional)](exercises/ex01/README.md) - READY FOR REVIEW
-	* [Exercise 02: Get to know your own Space (mandatory)](exercises/ex02/README.md) - READY FOR REVIEW
+	* [Exercise 01: First Log On (optional)](exercises/ex01/README.md) - DONE
+	* [Exercise 02: Get to know your own Space (mandatory)](exercises/ex02/README.md) - DONE
 
 3. **SAP Data Warehouse Cloud – Data Builder**
-	* [Exercise 03: Prepare Your Data (optional)](exercises/ex03/README.md) - READY FOR REVIEW
+	* [Exercise 03: Prepare Your Data (optional)](exercises/ex03/README.md) - DONE
 	* [Exercise 04: Creating the Entity Relationship Model (optional)](exercises/ex04/README.md) - READY FOR REVIEW
 	* [Exercise 05: Importing Tables (mandatory)](exercises/ex05/README.md) - READY FOR REVIEW
 	* [Exercise 06: Uploading Data (mandatory)](exercises/ex06/README.md) - READY FOR REVIEW
