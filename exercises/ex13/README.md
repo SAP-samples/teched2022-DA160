@@ -13,7 +13,7 @@ geographic map.
 
 ---
 
-:bulb: **Tip:** The system will ask you to resign in.
+>:bulb: **Tip:** The system will ask you to resign in.
 
 ---
 
