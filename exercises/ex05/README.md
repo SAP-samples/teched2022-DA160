@@ -1,4 +1,4 @@
-# Exercise 5 - Importing Tables
+# Exercise 05 - Importing Tables
 
 > :memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
@@ -23,9 +23,9 @@ We will now import the table definitions in form of JSON file by importing a Ent
 <br>![](images/00_00_0051.png) 
 
 6. Open the Import option.
-7. Select the option Import from CSN File.
-8. Select the file “Sales_ER_Model.json”
-9. Click Next.
+7. Select the option Import from ***CSN File***.
+8. Select the file ***“Sales_ER_Model.json”***
+9. Click ***Next***.
 10. Select all tables.
 11. Click Import CSN File.
 
@@ -38,13 +38,13 @@ We will now import the table definitions in form of JSON file by importing a Ent
 14. Enter the following details:<br><ul><li>Business Name - Sales Model - Entity Relationship Model</li><li>Technical Name - Sales_ER_Model
 <br>  
   
-15. Click Save.
+15. Click ***Save***.
 
 16. On the left hand side in the Repository panel, open the list of Views
 <br>![](images/00_00_0049.png) 
 
 17. Now drag the View Time Dimension – Day to the canvas.
-18. Select the table Sales Transactions on the canvas.
+18. Select the table ***Sales Transactions*** on the canvas.
 19. Select the arrow and drag and drop the arrow to the view Time Dimension - Day to create a new Association between the table Sales Transactions and the view Time Dimension - Day.
 20. In the panel on the right-hand side now, create a join between the Transaction Date column and the Date column.
 <br>![](images/00_00_0410.png) 
@@ -62,4 +62,4 @@ We will now import the table definitions in form of JSON file by importing a Ent
 
 As part of the deployment of the Entity Relationship Model, also the underlying tables are being imported and deployed. When you navigate to the Data Builder screen, you should now see a set of 4 tables (3 dimensions and 1 relational dataset) and 1 Entity Relationship Model.
 
-Continue to - [Uploading Data (mandatory) ](../ex06/README.md)
+Continue to - [Exercise 06: Uploading Data (mandatory) ](../ex06/README.md)
