@@ -9,7 +9,7 @@ This exercise is only required in case you ***did not*** create the tables in [E
 
 ---
 
-The file for this exercise is “Sales_ER_Model.json” and the file is part of the ZIP file you downloaded.
+The file for this exercise is ***“Sales_ER_Model.json”*** and the file is part of the ZIP file you downloaded.
 
 We will now import the table definitions in form of JSON file by importing a Entity Relationship Model.
 1. Log On to your SAP Data Warehouse Cloud tenant.
