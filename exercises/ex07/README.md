@@ -1,20 +1,18 @@
 # Exercise 7 - Creating the Dimension 
 
-:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+>:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
 ---
 
-In this exercise, we will create our first dimension. Part of the steps of defining the dimension will also be to configure the
-geographic enrichment, so that we can leverage the Store Location later in SAP Analytics Cloud.
+In this exercise, we will create the new Dimension View based on our previously created tables. Part of the steps of defining the dimension will also be to configure the geographic enrichment, so that we can visualize the Store Location on a map later in SAP Analytics Cloud.
 
-In the next steps we will create the new Dimension View based on our previously created tables
 1. Log On to your SAP Data Warehouse Cloud tenant.
 2. Select the menu option Data Builder on the left-hand side.
 
 3. Click New Graphical View.
 <br>![](images/00_00_0072.png) 
 
-4. On the left-hand side you can decide between:<br><ul><li>Repository: Here you have access to the local tables (imported data) and Views.</li><li>Sources: Here you have access to your connections and the remote tables.
+4. On the left-hand side you can decide between:<br><ul><li>Repository: Here you have access to the local tables (imported data), Views, Intelligent Lookups and Shared Objects.</li><li>Sources: Here you have access to tables and views from your connections.
 <br>
 
 5. Ensure you select the option Repository.
