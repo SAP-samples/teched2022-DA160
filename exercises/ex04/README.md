@@ -1,11 +1,10 @@
 # Exercise 4 - Creating the Entity Relationship Model
 
-:memo: **Note:** This is an OPTIONAL Exercise
+>:memo: **Note:** This is an OPTIONAL Exercise
 
----
+## :beginner: Detour: SAP Data Warehouse Cloud - Model Types
 
-In this exercise, we will createthe Entity Relationship Model. But before we start the exercise, lets clarify what an Entity Relationship model is
-and why we are creating it.
+Let us clarify what an Entity Relationship model is and why we are creating it, before we start the exercise.
 
 An Entity Relationship Model provides a variety of benefits:
 - Definition of entity-relationship models<p>
@@ -15,11 +14,11 @@ An Entity Relationship Model provides a variety of benefits:
 - In-editor real time data preview<p>
 - Model Import / Export<p>
 
-Basically, the Entity Relationship Model is not a view that you would consume in SAP Analytics Cloud, but
-instead it represents the relationship between the tables or views, and it helps you to define the relationship
-once, so that when you create a new view, that you do not have to define those relationships each time
+Basically, the Entity Relationship Model is not a view that you would consume in SAP Analytics Cloud, but instead it represents the relationship between the tables or views, and it helps you to define the relationship once, so that when you create a new view, that you do not have to define those relationships each time.
 
-In the next steps we will create the new Entity Relationship Model.
+## End of Detour
+
+## Create the new Entity Relationship Model
 
 1. Log On to your SAP Data Warehouse Cloud tenant.
 2. Select the menu option Data Builder on the left-hand side
