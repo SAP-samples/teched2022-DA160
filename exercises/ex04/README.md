@@ -1,4 +1,4 @@
-# Exercise 4 - Creating the Entity Relationship Model
+# Exercise 04 - Creating the Entity Relationship Model
 
 >:memo: **Note:** This is an OPTIONAL Exercise
 
@@ -39,15 +39,15 @@ have the option to bring in Tables from any remote Sources that you have configu
 allow you to add a new column, create a new View, create a new table, create a join, open the table in the
 editor, and to preview the data.
 10. Now drag and drop the table Store to the canvas next to the table Sales Transactions.
-11. Select the table Sales Transaction.
-12. Click on the symbol to Create a new Association.
+11. Select the table ***Sales Transaction***.
+12. Click on the ***"->"*** symbol to Create a new Association.
 <br>![](images/00_00_0044.png)
 
-13. Click on the arrow symbol and drag the icon over to the table Store. You are creating a new Association
+13. Click on the ***arrow symbol*** and drag the icon over to the table Store. You are creating a new Association
 between the table Sales Transactions and the table Store.
 <br>![](images/00_00_0045.png) 
 
-14. In the Properties panel on the right-hand side click on the Expand icon.
+14. In the Properties panel on the right-hand side click on the ***Expand*** icon.
 <br>![](images/00_00_0046.png) 
 
 15. Ensure that the join between the table Sales Transactions and Store is based on column Store ID
@@ -55,10 +55,10 @@ between the table Sales Transactions and the table Store.
 joins manually
 <br>![](images/00_00_0047.png) 
 
-16. Click on the Expand icon in the top right corner again to reduce the size of the panel.
+16. Click on the ***Expand*** icon in the top right corner again to reduce the size of the panel.
 17. Now drag the table Product onto the canvas.
-18. Select the table Sales Transactions on the canvas.
-19. Select the arrow and drag and drop the arrow to table Products to create a new Association between the table Sales Transactions and table Product.
+18. Select the table ***Sales Transactions*** on the canvas.
+19. Select the ***arrow symbol*** and drag and drop the arrow to table Products to create a new Association between the table Sales Transactions and table Product.
 <br>![](images/00_00_0048.png) 
 
 20. Ensure that the join between the Sales Transactions table and table Product is based on the Product ID (Product ID) column.
@@ -69,8 +69,8 @@ joins manually
 <br>![](images/00_00_0049.png) 
 
 25. Now drag the View Time Dimension – Day to the canvas.
-26. Select the table Sales Transactions on the canvas.
-27. Select the arrow and drag and drop the arrow to the view Time Dimension - Day to create a new Association between the table Sales Transactions and the view Time Dimension - Day.
+26. Select the table ***Sales Transactions*** on the canvas.
+27. Select the ***arrow symbol*** and drag and drop the arrow to the view Time Dimension - Day to create a new Association between the table Sales Transactions and the view Time Dimension - Day.
 28. In the panel on the right-hand side now, create a join between the Transaction Date column and the Date column.
 <br>![](images/00_00_0410.png) 
 
@@ -84,7 +84,7 @@ joins manually
 32. Enter the following details:<br><ul><li>Business Name - My First Entity Model</li><li>Technical Name - My_First_Entity_Model<br>
 <br>
 
-33. Click Save.
+33. Click ***Save***.
 34. Deploy the model.
 
 
@@ -92,4 +92,4 @@ joins manually
 
 You've now created the Entity Relationship Model and will make use of it in the next steps when we create the Views.
 
-Continue to - [Importing Tables (mandatory)](../ex05/README.md)
+Continue to - [Exercise 05:Importing Tables (mandatory)](../ex05/README.md)
