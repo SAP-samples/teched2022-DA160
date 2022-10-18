@@ -1,6 +1,6 @@
 # Exercise 8 - Creating the View 
 
-:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+> :memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
 
 ---
 ## :beginner: Detour: SAP Data Warehouse Cloud - Views
