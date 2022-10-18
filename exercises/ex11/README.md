@@ -140,4 +140,4 @@ perspective in combination with SAP Analytics Cloud.
 
 You've now created our first consumption layer and perspective, which can now be used in SAP Analytics Cloud.
 
-Continue to - [Year over Year Comparison (requires Exercise 08 to be completed) ](../ex12/README.md)
+Continue to - [Exercise 12: Year over Year Comparison (requires Exercise 08 to be completed) ](../ex12/README.md)
