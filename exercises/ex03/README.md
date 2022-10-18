@@ -2,8 +2,6 @@
 
 > :memo: **Note:** This is an OPTIONAL Exercise
 
----
-
 ## :beginner: Detour: SAP Data Warehouse Cloud - Model Types
 Before we are going to start with the first exercise in creating a table and creating the first model, letm us have a look at the
 different asset types that you can create in the Data Builder of SAP Data Warehouse Cloud.
@@ -18,9 +16,7 @@ So, let’s now look at the different asset types:
 - **Intelligent Lookup**: Create an intelligent lookup to merge data from two entities even if there are problems joining them. <br>*Not used in the DA160 exercises.*</p>
 - **Task Chain**: Create a task chain that groups multiple tasks, which can be run in series manually or through a schedule. <br>*Not used in the DA160 exercises.*</p>
 
-**End of Detour**
-
----
+## End of Detour
 
 ## Start of the exercise
 
