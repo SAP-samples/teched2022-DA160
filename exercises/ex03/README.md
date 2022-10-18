@@ -91,12 +91,7 @@ Transaction ID.
 <br>![](images/00_00_0036.png)   
   
 20. We configured, saved, and deployed our first table.
-
-  ********************************************************************
-> :memo: ***@Perla*** We should use the BACK < Button as the data builder gets us back to the Space selection screen in case there are many spaces
-  ********************************************************************
-
-21. Click on ***"Data Builder"*** on the top menu bar to navigate back to the list of tables. 
+21. Click on ***"back arrow"*** on the top menu bar to navigate back to the list of tables. 
 <br>![](images/00_00_0037.png)  
 
 22. You are back at the home screen of the Data Builder and you should see your table in the list of objects.
