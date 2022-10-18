@@ -110,4 +110,4 @@ compared to the last year data.
 
 You've now created your first SAP Anayltics Cloud Story on top of the data model you created earlier. 
 
-Continue to - [Revenue by Geography (requires Exercise 08 to be completed) ](../ex13/README.md)
+Continue to - [Exercise 13: Revenue by Geography (requires Exercise 08 to be completed) ](../ex13/README.md)
