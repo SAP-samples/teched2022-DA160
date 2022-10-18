@@ -16,7 +16,7 @@ You will also need a set of files for these exercises.
 
 Download the ZIP-file from the GitHub site: :arrow_right: [DA160_Resources.zip](DA160_Resources.zip)
 
-Once downloaded to your local machine, please unzip the file into a separate folder, as you will need it for the exercises.
+> :warning: **Once downloaded to your local machine, please unzip the file into a separate folder, as you will need it for the exercises. So, please remember the file location of the unzipped files!**
 
 ## Disclaimer
 
