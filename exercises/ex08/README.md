@@ -70,7 +70,7 @@ Business Catalog.</li></ul>
 25. Select the option Association.
 26. You are being presented with the list of Tables and Views from your Space.
 27. Select the entry for TABLE ***Product*** [Local Table (Dimension)].
-28. Click OK.
+28. Click ***OK***.
 <br>![](images/00_00_0089.png)   
   
 29. Click on the icon (top right corner) to expand the Details panel.
