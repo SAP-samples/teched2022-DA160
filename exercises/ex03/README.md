@@ -211,4 +211,4 @@ You've now created all tables that we need for our model and the overview in the
 like this:
 <br>![](images/00_00_0039.png)
 
-Continue to - [Creating the Entity Relationship Model ](../ex04/README.md)
+Continue to [Exercise 04 - Creating the Entity Relationship Model ](../ex04/README.md)
