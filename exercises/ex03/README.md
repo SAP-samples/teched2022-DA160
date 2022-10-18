@@ -124,7 +124,6 @@ Label for the Product ID.<br>
 The Semantic Type option provides you with several option to choose from, so that you can configure an
 additional context for the column, such as the option to configure the column as a Currency column or a
 language column.
-<br>  
 
 ---
   
@@ -157,6 +156,11 @@ the Store Name into the Attributes.
 30. You will be asked to confirm the Business Name as well as the Technical Name.
 31. Click Save.
 32. Click Deploy in the General Menu.
+
+  ********************************************************************
+> :memo: ***@Perla*** We should use the BACK < Button as the data builder as above?
+  ********************************************************************
+
 33. Click on "Data Builder" on the top menu bar to navigate back to the home screen of the Data Builder.
 34. Use the option New Table.
 35. Enter the following details:<br><ul><li>Business Name - Product</li><li>Technical Name - Product</li><li>Type - Dimension<br>
@@ -177,6 +181,11 @@ the Store Name into the Attributes.
 40. You will be asked to confirm the Business Name as well as the Technical Name.
 41. Click Save.
 42. Click Deploy in the General Menu.
+
+  ********************************************************************
+> :memo: ***@Perla*** We should use the BACK < Button as the data builder as above?
+  ********************************************************************
+
 43. Click on "Data Builder" on the top menu bar to navigate back to the home screen of the Data Builder.
 44. Enter the following details:<br><ul><li>Business Name - Sales Manager</li><li>Technical Name - Sales_Manager</li><li>Type - Dimension<br>
 <br>  
