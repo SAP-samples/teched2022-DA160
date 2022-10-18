@@ -93,7 +93,7 @@ Relationship model.</li><li> You can open the table in the editor.</li><li> You 
 
 ## Summary
 
-You've now ...FILL IN
+You've now created your dimension view ***Dimension Store*** including the added geo-coordinates column ***Store location***, which is required to use visualizations on maps within SAP Analytics Cloud.
 
 Continue to - [Creating the View (mandatory) ](../ex08/README.md)
 
