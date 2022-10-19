@@ -43,11 +43,8 @@ our best salesperson is.
 14. For our third example, we will use the Perspective we created previously ***Revenue by Store and Product
 (Perspective)***
 15. Click OK.
+<br>![](images/00_00_0418.png) 
 
----
-:memo: Perla<br>![](images/00_00_0306.png) UPLOAD  ++++ IMAGE MISSING
-
----
 
 16. Select the option to add a new Chart to the canvas.
 <br>![](images/00_00_0207.png) 
