@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called ***DA160 - Explore SAP Data Warehouse Cloud from A to Z***.  
+This repository contains the material for the SAP TechEd 2022 session called <br> :point_right: ***DA160 - Explore SAP Data Warehouse Cloud from A to Z***.  
 
 ## Overview
 
