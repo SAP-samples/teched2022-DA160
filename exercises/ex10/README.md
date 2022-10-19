@@ -61,37 +61,16 @@ and then associate the dimension with the data set.
 
 29. Click Save (top right).
 
+---
+
 > :boom: ***Important*** :boom: <br> 
+> 30. You can now continue and repeat the steps 22-29 for the other associations:<br>- Product<br>- Sales Manager<br>- Time Dimension – Day (Business Layer)<br> 
 
 ---
-> :memo: @Perla: we could also do the same repetivie action like with file upload, or associations here. What do you think?
----
 
-30. Click the “+” sign to add another Association.
-
-31. Open the list of Target Business Entities.
-32. Select the entry Product.
-33. Click Apply.
-34. In the area Target Key Mapping, open the list of fields for the Foreign Key Field.
-35. Select the column Product ID from your Analytical Dataset.
-36. Click Save (top right).
-37. Click the “+” sign to add another Association.
-38. Open the list of Target Business Entities.
-39. Select the entry Sales Manager.
-40. Click Apply.
-41. In the area Target Key Mapping, open the list of fields for the Foreign Key Field.
-42. Select the column Sales Manager ID from your Analytical Dataset.
-43. Click Save (top right).
-44. Click the “+” sign to add another Association.
-45. Open the list of Target Business Entities.
-46. Select the entry Time Dimension – Day (Business Layer).
-47. Click Apply.
-48. In the area Target Key Mapping, open the list of fields for the Foreign Key Field.
-49. Select the column Transaction Date from your Analytical Dataset.
-50. Click Save (top right).
-51. Navigate back to the tab General.
-52. Set the Status to Ready to Use.
-53. Click Save.
+31. Navigate back to the tab General.
+32. Set the Status to Ready to Use.
+33. Click Save.
 
 ## Summary
 
