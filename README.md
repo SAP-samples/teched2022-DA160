@@ -28,8 +28,8 @@ Download the ZIP-file from the GitHub site: :arrow_right: [DA160_Resources.zip](
 Be aware that some of the exercises are based on each other, therefore flagged as **mandatory**. Other parts can work based on prebuilt parts to save you some time, marked as **optional**. This gives you the flexibility to decide which exercises you would like to focus on.
 
 1. **Getting Started**
-	* [Get your guided experience trial system of SAP Data Warehouse Cloud (mandatory)](exercises/ex00/README.md) - READY FOR REVIEW
-	* [Sample Business Scenario & Data Model Overview (optional)](exercises/ex00/README.md#sample-business-scenario--data-model-overview) - READY FOR REVIEW
+	* [Get your guided experience trial system of SAP Data Warehouse Cloud (mandatory)](exercises/ex00/README.md) - DONE
+	* [Sample Business Scenario & Data Model Overview (optional)](exercises/ex00/README.md#sample-business-scenario--data-model-overview) - DONE
 
 2. **SAP Data Warehouse Cloud**
 	* [Exercise 01: First Log On (optional)](exercises/ex01/README.md) - DONE
