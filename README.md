@@ -46,7 +46,7 @@ Be aware that some of the exercises are based on each other, therefore flagged a
 4. **SAP Data Warehouse Cloud – Business Layer**
 	* [Exercises 09: Business Layer - Dimension](exercises/ex09/README.md) - DONE
 	* [Exercises 10: Business Layer – Analytical Dataset](exercises/ex10/README.md) - DONE
-	* [Exercises 11: Business Layer – Consumption Layer](exercises/ex11/README.md) - READY FOR REVIEW
+	* [Exercises 11: Business Layer – Consumption Layer](exercises/ex11/README.md) - DONE
 	
 5.  **SAP Analytics Cloud**
 	* [Exercise 12: Year over Year Comparison (requires Exercise 08 to be completed)](exercises/ex12/README.md) - READY FOR REVIEW
