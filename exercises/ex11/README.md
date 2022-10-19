@@ -61,10 +61,10 @@ Sources.
 24. Select the following 14 Attributes:<br><ul><li>Calendar Month</li><li>Calendar Quarter</li><li>Calendar Week</li><li>Country</li><li>Latitude</li><li>Longitude</li><li>Product Category Name</li><li>Product Name</li><li>Sales Manager Name</li><li>State Name</li><li>Store City</li><li>Store Location</li><li>Store Name</li><li>Transaction Date
 <br>
 
-25. Click Apply.
+25. The green notification bar between the search box and the columns indicates the number of selected columns. <br>If 14 are displayed you are good to go.
 <br>![](images/00_00_0160.png) 
 
-
+26. Click Apply.
 30. Navigate to the tab Perspectives.
 31. Click on the Data Preview option (top right corner).
 <br>![](images/00_00_0161.png) 
