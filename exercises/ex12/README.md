@@ -78,15 +78,15 @@ of our revenue information
 31. Your chart should look similar to the image shown below.
 <br>![](images/00_00_0214.png) 
 
-32. So instead of looking at two years of data, we want to look at the current year – 2021 – and see the variance
+32. So instead of looking at two years of data, we want to look at the current year – 2022 – and see the variance
 compared to the last year data.
 33. Click on the Filter icon for dimension Transaction Date.
 34. Select the option Filter by Member.
 <br>![](images/00_00_0215.png) 
 
-35. Open the list of members and select the year 2021.
+35. Open the list of members and select the year 2022.
 36. Click OK
-<br>![](images/00_00_0216.png) 
+<br>![](images/00_00_0216_2.png) 
 
 
 37. Now click on the hierarchy icon for dimension Transaction Date in the Builder Panel.
@@ -102,7 +102,7 @@ compared to the last year data.
 <br>![](images/00_00_0219.png) 
 
 43. In the File menu select the option "save" to save your story.
-44. Select the User folder that matches your assigned user number.
+44. Create a User folder that matches your Space name,  e.g. ***GE12345***.
 45. Enter a Name and Description like ***Year over Year comparison***.
 46. Click OK.
 
