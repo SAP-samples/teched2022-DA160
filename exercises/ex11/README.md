@@ -32,92 +32,73 @@ In this exercise, we will create the consumption layer for our analytical story.
 
 13. On the right-hand side you should now see the dimension Store being listed under the category Dimension
 Sources.
-14. Now select the object for dimension Product on the canvas.
-15. Use the “+” icon for the option Add Source Context.
 <br>![](images/00_00_0169.png) 
 
 ---
-> :memo: @Perla: we could also do the same repetivie action like with file upload, or associations here. What do you think?
+> :boom: ***Important*** :boom: <br> 
+> 14. You can now continue and repeat the steps 9-12 for the other associations:<br>- Product<br>- Sales Manager<br>- Time Dimension – Day (Business Layer)<br> 
+
 ---
-
-16. For the Source Alias option, enter Product.
-17. Click Create.
-<br>![](images/00_00_0170.png) 
-
-18. On the right-hand side you should now see dimension Product being listed under the category Dimension
-Sources.
-19. Now select the object for dimension Sales Manager on the canvas.
-20. Use the “+” icon for the option Add Source Context.
-21. For the Source Alias option, enter Sales Manager.
-22. Click Create.
-23. On the right-hand side you should now see the dimension Sales Manager being listed under the category
-Dimension Sources.
-24. Now select the object for dimension Time Dimension – Day (Business Layer) on the canvas.
-25. Use the “+” icon for the option Add Source Context.
-26. For the Source Alias option, enter Time Dimension – Day (Business Layer)
-27. Click Create
-28. On the right-hand side you should now see dimension Time Dimension – Day (Business Layer) being listed
-under the category Dimension Sources.
 <br>![](images/00_00_0171.png) 
 
-29. Navigate to the tab General.
-30. Enable the option Allow public data access.
-31. Click Save (top right).
+15. Navigate to the tab General.
+16. Enable the option Allow public data access.
+17. Click Save (top right).
 <br>![](images/00_00_0172.png) 
 
-32. Navigate to the tab Measures.
-33. Select the option Add Fact Source Measures.
+18. Navigate to the tab Measures.
+19. Select the option Add Fact Source Measures.
 <br>![](images/00_00_0157.png) 
 
-34. Select all measures.
-35. Click Apply.
+20. Select all measures.
+21. Click Apply.
 <br>![](images/00_00_0158.png) 
 
-36. Navigate to the tab Attributes.
-37. Select the option Add Source Attributes.
+22. Navigate to the tab Attributes.
+23. Select the option Add Source Attributes.
 <br>![](images/00_00_0159.png) 
 
-38. Select the following 14 Attributes:<br><ul><li>Calendar Month</li><li>Calendar Quarter</li><li>Calendar Week</li><li>Country</li><li>Latitude</li><li>Longitude</li><li>Product Category Name</li><li>Product Name</li><li>Sales Manager Name</li><li>State Name</li><li>Store City</li><li>Store Location</li><li>Store Name</li><li>Transaction Date
+24. Select the following 14 Attributes:<br><ul><li>Calendar Month</li><li>Calendar Quarter</li><li>Calendar Week</li><li>Country</li><li>Latitude</li><li>Longitude</li><li>Product Category Name</li><li>Product Name</li><li>Sales Manager Name</li><li>State Name</li><li>Store City</li><li>Store Location</li><li>Store Name</li><li>Transaction Date
 <br>
 
-39. Click Apply.
+25. Click Apply.
 <br>![](images/00_00_0160.png) 
 
 
-40. Navigate to the tab Perspectives.
-41. Click on the Data Preview option (top right corner).
+30. Navigate to the tab Perspectives.
+31. Click on the Data Preview option (top right corner).
 <br>![](images/00_00_0161.png) 
 
-42. Open the context menu for the Perspective Fields header.
-43. Select the option Remove All Fields.
+32. Open the context menu for the Perspective Fields header.
+33. Select the option Remove All Fields.
 <br>![](images/00_00_0162.png) 
 
 
-44. Drag and Drop the following Dimensions to the list of Perspective Fields:<br><ul><li>Product Name</li><li>Calendar Quarter</li><li>Product Category Name</li><li>Store City</li><li>Country</li><li>Sales Manager Name</li><li>Store Name</li><li>State Name
+34. Drag and Drop the following Dimensions to the list of Perspective Fields:<br><ul><li>Product Name</li><li>Calendar Quarter</li><li>Product Category Name</li><li>Store City</li><li>Country</li><li>Sales Manager Name</li><li>Store Name</li><li>State Name
 <br>![](images/00_00_0173.png) 
    
 <br>    
-45. Open the list of entries for Composite Attributes on the left hand side.
+35. Open the list of entries for Composite Attributes on the left hand side.
 <br>   
-46. Drag and drop dimension Transaction Date to the Perspective Fields.
+36. Drag and drop dimension Transaction Date to the Perspective Fields.
 <br>
-47. Navigate to the list of Measures on the left hand side.
+37. Navigate to the list of Measures on the left hand side.
 <br>
-48. Select measure Cost and open the More menu (…).
+38. Select measure Cost and open the More menu (…).
 <br>
-49. Select the option Add to Perspective.
+39. Select the option Add to Perspective.
    
 <br>![](images/00_00_0163.png) 
 <br> 
-50. Repeat the step for the measures Discount, Profit, and Revenue.
+40. Repeat the step for the measures Discount, Profit, and Revenue.
 <br> 
-51. Click Save New (top right corner).
+41. Click Save New (top right corner).
 <br> 
-52. Enter ***Revenue by Store and Product (Perspective)*** as Business Name.
+42. Enter ***Revenue by Store and Product (Perspective)*** as Business Name.
 <br> 
-53. Enter ***Revenue_by_Store_and_Product_Perspective*** as Technical Name
+43. Enter ***Revenue_by_Store_and_Product_Perspective*** as Technical Name
 <br> 
-54. Click Save.
+44. Click Save.
    
 <br>![](images/00_00_0165.png) 
 
@@ -125,14 +106,14 @@ under the category Dimension Sources.
 
 We created the first perspective and just need to deploy the perspective now and can then leverage the
 perspective in combination with SAP Analytics Cloud.
-<br>55. Click on the name of the Consumption Model in the top.
-<br>56. Click on Data Preview (top right) to close the Data Preview.
+<br>45. Click on the name of the Consumption Model in the top.
+<br>46. Click on Data Preview (top right) to close the Data Preview.
    
 <br>![](images/00_00_0167.png) 
 <br> 
 
-<br>57. Navigate to the tab Perspectives.
-<br>58. Use the icon on the far right for to deploy the Perspective.
+<br>47. Navigate to the tab Perspectives.
+<br>48. Use the icon on the far right for to deploy the Perspective.
    
 <br>![](images/00_00_0168.png) 
 <br> 
