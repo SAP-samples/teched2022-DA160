@@ -24,14 +24,17 @@ The exercises will walk you through the steps using SAP Data Warehouse Cloud and
 | Sales Manager       | Details on all Sales Manager          | Dimension           | 
 | Product             | Details on the products being sold    | Dimension           | 
 
-The data is provided in the ZIP-file: :arrow_right: [DA160_Resources.zip](../DA160_Resources.zip)
+The data is provided in CSV files in this ZIP-file: :arrow_right: [DA160_Resources.zip](../../DA160_Resources.zip)
 
 ## The Data Model
+
+These four tables consist of one fact table which includes the sales transactions details, and three dimension tables for more details about the product, the store and the sales manager.<br> 
+The ***Time Dimension*** will be created as part of the Exercise 02 and associated to the sales transaction table as shown in the Enitity-Relationship-Model.
 
 <br>![](images/00_01_0010.png)
 
 ## Summary
 
-Now that you have a guided experience trial system available and got a good understanding of the business scenario, we can start into the hands-on part.
+Now that you have a good understanding of the business scenario and the data model, you can start to get a guided experience trial system.
 
 Continue with [Get your Guided Experience Trial system](../ex00/README_GuidedTrial.md)
