@@ -1,6 +1,6 @@
 # Exercise 03 - Data Layer - Prepare Your Data
 
-> :memo: **Note:** This is an OPTIONAL Exercise
+> :memo: **Note:** This is an Optional Exercise
 
 ## :beginner: Detour: SAP Data Warehouse Cloud - Model Types
 Before we are going to start with the first exercise in creating a table and creating the first model, letm us have a look at the
