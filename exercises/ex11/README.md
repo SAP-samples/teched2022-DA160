@@ -65,40 +65,40 @@ Sources.
 <br>![](images/00_00_0160.png) 
 
 26. Click Apply.
-30. Navigate to the tab Perspectives.
-31. Click on the Data Preview option (top right corner).
+27. Navigate to the tab Perspectives.
+28. Click on the Data Preview option (top right corner).
 <br>![](images/00_00_0161.png) 
 
-32. Open the context menu for the Perspective Fields header.
-33. Select the option Remove All Fields.
+29. Open the context menu for the Perspective Fields header.
+30. Select the option Remove All Fields.
 <br>![](images/00_00_0162.png) 
 
 
-34. Drag and Drop the following Dimensions to the list of Perspective Fields:<br><ul><li>Product Name</li><li>Calendar Quarter</li><li>Product Category Name</li><li>Store City</li><li>Country</li><li>Sales Manager Name</li><li>Store Name</li><li>State Name
+31. Drag and Drop the following Dimensions to the list of Perspective Fields:<br><ul><li>Product Name</li><li>Calendar Quarter</li><li>Product Category Name</li><li>Store City</li><li>Country</li><li>Sales Manager Name</li><li>Store Name</li><li>State Name
 <br>![](images/00_00_0173.png) 
    
 <br>    
-35. Open the list of entries for Composite Attributes on the left hand side.
+32. Open the list of entries for Composite Attributes on the left hand side.
 <br>   
-36. Drag and drop dimension Transaction Date to the Perspective Fields.
+33. Drag and drop dimension Transaction Date to the Perspective Fields.
 <br>
-37. Navigate to the list of Measures on the left hand side.
+34. Navigate to the list of Measures on the left hand side.
 <br>
-38. Select measure Cost and open the More menu (…).
+35. Select measure Cost and open the More menu (…).
 <br>
-39. Select the option Add to Perspective.
+36. Select the option Add to Perspective.
    
 <br>![](images/00_00_0163.png) 
 <br> 
-40. Repeat the step for the measures Discount, Profit, and Revenue.
+37. Repeat the step for the measures Discount, Profit, and Revenue.
 <br> 
-41. Click Save New (top right corner).
+38. Click Save New (top right corner).
 <br> 
-42. Enter ***Revenue by Store and Product (Perspective)*** as Business Name.
+39. Enter ***Revenue by Store and Product (Perspective)*** as Business Name.
 <br> 
-43. Enter ***Revenue_by_Store_and_Product_Perspective*** as Technical Name
+40. Enter ***Revenue_by_Store_and_Product_Perspective*** as Technical Name
 <br> 
-44. Click Save.
+41. Click Save.
    
 <br>![](images/00_00_0165.png) 
 
@@ -106,14 +106,14 @@ Sources.
 
 We created the first perspective and just need to deploy the perspective now and can then leverage the
 perspective in combination with SAP Analytics Cloud.
-<br>45. Click on the name of the Consumption Model in the top.
-<br>46. Click on Data Preview (top right) to close the Data Preview.
+<br>42. Click on the name of the Consumption Model in the top.
+<br>43. Click on Data Preview (top right) to close the Data Preview.
    
 <br>![](images/00_00_0167.png) 
 <br> 
 
-<br>47. Navigate to the tab Perspectives.
-<br>48. Use the icon on the far right for to deploy the Perspective.
+<br>44. Navigate to the tab Perspectives.
+<br>45. Use the icon on the far right for to deploy the Perspective.
    
 <br>![](images/00_00_0168.png) 
 <br> 
