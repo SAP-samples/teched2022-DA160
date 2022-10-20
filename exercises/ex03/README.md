@@ -66,17 +66,17 @@ column
   
 13. After you entered the details for the first column, please enter additional columns. All columns of the table are listed as follows:
   
-| Business Name:      | Technical Name:                       | Data Type:          |
-|:--------------------|:--------------------------------------|:--------------------|
-| Transaction ID      | Transaction_ID                        | Integer64           |
-| Transaction Date    | Transaction_Date                      | Date                | 
-| Store ID            | Store_ID                              | String (6)          | 
-| Product ID          | Product_ID                            | String (4)          | 
-| Sales Manager ID    | Sales_Manager_ID                      | String (4)          | 
-| Profit              | Profit                                | Decimal(15,2)       | 
-| Discount            | Discount                              | Decimal(15,2)       | 
-| Revenue             | Revenue                               | Decimal(15,2)       | 
-| Cost                | Cost                                  | Decimal(15,2)       |   
+| Key: | Business Name:      | Technical Name:                       | Data Type:          |
+|:-----|:--------------------|:--------------------------------------|:--------------------|
+| X    | Transaction ID      | Transaction_ID                        | Integer64           |
+|      | Transaction Date    | Transaction_Date                      | Date                | 
+|      | Store ID            | Store_ID                              | String (6)          | 
+|      | Product ID          | Product_ID                            | String (4)          | 
+|      | Sales Manager ID    | Sales_Manager_ID                      | String (4)          | 
+|      | Profit              | Profit                                | Decimal(15,2)       | 
+|      | Discount            | Discount                              | Decimal(15,2)       | 
+|      | Revenue             | Revenue                               | Decimal(15,2)       | 
+|      | Cost                | Cost                                  | Decimal(15,2)       |   
   
 14. After you entered all columns for the table, ensure you enable the Key Column option for the column
 Transaction ID.
