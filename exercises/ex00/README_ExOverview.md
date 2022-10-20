@@ -1,6 +1,6 @@
 # Exercise Overview
 
-We structured the overvall exercise the following way:  
+We structured the overall exercise the following way:  
   * **Fast Track** for anyone eager to finish early and enjoy exploring the system on your own
   * **Optional Exercises** if you want to learn more about the solution especially how to create tables, ER Models, and Business Layer Models
 
