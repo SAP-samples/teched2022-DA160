@@ -1,5 +1,9 @@
 # Exercise 01: First Log On 
 
+> :memo: **Note:** This is an Optional Exercise
+
+---
+
 1. Open Google Chrome and log on to your SAP Data Warehouse Cloud system.
 <br>![](images/00_00_0015.png)
 
