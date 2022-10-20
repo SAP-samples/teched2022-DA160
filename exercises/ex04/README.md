@@ -1,6 +1,6 @@
 # Exercise 04 - Creating the Entity Relationship Model
 
->:memo: **Note:** This is an OPTIONAL Exercise
+>:memo: **Note:** This is an Optional Exercise
 
 ## :beginner: Detour: SAP Data Warehouse Cloud - Entity Relationship Model
 
@@ -92,4 +92,4 @@ joins manually
 
 You've now created the Entity Relationship Model and will make use of it in the next steps when we create the Views.
 
-Continue to - [Exercise 05: Importing Tables (mandatory)](../ex05/README.md)
+Continue to - [Exercise 05: Importing Tables (part of <strong>Fast Track</strong> and a mandatory exercise)](../ex05/README.md)
