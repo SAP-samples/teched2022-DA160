@@ -1,6 +1,6 @@
 # Exercise 09 - Business Layer - Dimension 
 
-> :memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+> :memo: **Note:** This is a <strong>Mandatory</strong>  Exercise
 
 ---
 
