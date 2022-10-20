@@ -48,6 +48,6 @@ https://www.sap.com/registration/trial.4d48ec23-eadf-4399-8595-ac3f9c66c64f.html
 
 ## Summary
 
-Now that you have a guided experience trial system available, we can start into the hands-on part.
+Now that you have a guided experience trial system available, let's give you an overview of the exercises. 
 
-Continue with [Exercise 01: First Log On (optional)](../ex01/README.md)
+Continue with [Exercise Overview](../ex00/README_ExOverview.md)

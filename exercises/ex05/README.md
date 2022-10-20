@@ -62,4 +62,4 @@ We will now import the table definitions in form of JSON file by importing a Ent
 
 As part of the deployment of the Entity Relationship Model, also the underlying tables are being imported and deployed. When you navigate to the Data Builder screen, you should now see a set of 4 tables (3 dimensions and 1 relational dataset) and 1 Entity Relationship Model.
 
-Continue to - [Exercise 06: Uploading Data (mandatory) ](../ex06/README.md)
+Continue to - [Exercise 06: Uploading Data (part of <strong>Fast Track</strong> and a mandatory exercise)](../ex06/README.md)

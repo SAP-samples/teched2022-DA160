@@ -1,6 +1,6 @@
 # Exercise 07 - Creating the Dimension 
 
->:memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+>:memo: **Note:** This is part of the <strong>Fast Track</strong> and a mandatory exercise.
 
 ---
 
@@ -97,5 +97,5 @@ Relationship model.</li><li> You can open the table in the editor.</li><li> You 
 
 You've now created your dimension view ***Dimension Store*** including the added geo-coordinates column ***Store location***, which is required to use visualizations on maps within SAP Analytics Cloud.
 
-Continue to - [Exercise 08: Creating the View (mandatory) ](../ex08/README.md)
+Continue to - [Exercise 08: Creating the View (part of <strong>Fast Track</strong> and a mandatory exercise)](../ex08/README.md)
 
