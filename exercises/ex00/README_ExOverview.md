@@ -6,7 +6,7 @@ We structured the overvall exercise in a way, that we created a
 
 <br>![](images/DA160.jpg)
 <br> <br> 
-### Let's give you a brief introduction on what can you expect in the different parts of the exercise.
+### Lets give you a brief introduction on what can you expect in the different parts of the exercise.
 <br> 
 
 ## 1. **Getting Started**
