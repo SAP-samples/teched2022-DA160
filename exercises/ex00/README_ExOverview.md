@@ -40,6 +40,6 @@ We structured the overvall exercise in a way, that we created a
 
 ## Summary
 
-Now that you have a good understanding of the exercises, you can start into the hands-on part.
+Now that you have a good understanding of the exercises, lets get started with the hands-on part.
 
 Continue with [Exercise 01: First Log On](../ex01/README.md)
