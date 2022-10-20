@@ -1,6 +1,6 @@
 # Exercise 11 - Business Layer - Consumption Layer
 
-> :memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+> :memo: **Note:** This is a <strong>Mandatory</strong>  Exercise
 
 ---
 
