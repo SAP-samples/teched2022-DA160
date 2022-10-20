@@ -53,4 +53,4 @@
 
 Now that you have learned how to set up your account lets move forward to get to know your space. 
 
-Continue to - [Exercise 02: Get to know your own Space (mandatory)](../ex02/README.md)
+Continue to - [Exercise 02: Get to know your own Space (part of Fast Track and a mandatory exercise)](../ex02/README.md)
