@@ -1,6 +1,6 @@
 # Exercise 10 - Business Layer – Analytical Dataset 
 
-> :memo: **Note:** This is a <strong>MANDATORY</strong>  Exercise
+> :memo: **Note:** This is a <strong>Mandatory</strong>  Exercise
 
 ---
 
