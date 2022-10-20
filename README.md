@@ -16,7 +16,7 @@ Find out how the SAP Data Warehouse Cloud solution helps the line-of-business us
 
 ## Pre-Requisites
 
-Google Chrome, access to this GitHub repository and access to a guided experience trial system of SAP Data Warehouse Cloud.
+Google Chrome, access to this GitHub repository and access to a guided experience trial system of SAP Data Warehouse Cloud, or another system at your disposal.
 You will also need a set of files for these exercises. 
 
 Download the ZIP-file from the GitHub site: :arrow_right: [DA160_Resources.zip](DA160_Resources.zip)
@@ -27,7 +27,10 @@ Download the ZIP-file from the GitHub site: :arrow_right: [DA160_Resources.zip](
 ## Exercises
 
 Be aware that some of the exercises are based on each other, and have to be done in the sequence given below.<br>
-The ***Fast Track*** is for anyone eager to finish early and enyjoy exploring the system on your own. <br>The others are ***Optional Exercises*** only relevant if you want to learn more about the solution especially how to crearte tables, ER models and the Business Layer. This gives you the flexibility to decide which exercises you would like to focus on.
+
+The ***Fast Track*** is for anyone eager to finish early and enyjoy exploring the system on your own. <br>
+
+The others are ***Optional Exercises*** only relevant if you want to learn more about the solution especially how to crearte tables, ER models and the Business Layer. This gives you the flexibility to decide which exercises you would like to focus on.
 
 1. **Getting Started**
 	* [Overview about the Business Scenario & the Data Model](exercises/ex00/README.md) 
