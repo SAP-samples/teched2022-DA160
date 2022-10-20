@@ -49,51 +49,51 @@ our best salesperson is.
 16. Select the option to add a new Chart to the canvas.
 <br>![](images/00_00_0207.png) 
   
-19. Navigate to the Builder Panel on the right hand side.
+17. Navigate to the Builder Panel on the right hand side.
 <br>![](images/00_00_0410.png)   
   
-20. Click the option Add Dimension as part of the Dimensions section.
+18. Click the option Add Dimension as part of the Dimensions section.
 <br>![](images/00_00_0209.png) 
 
-21. Select the option Create Dimension Input Control.
+19. Select the option Create Dimension Input Control.
 <br>![](images/00_00_0303.png) 
   
-22. Select the entries:<br><ul><li>Dimension Store</li><li>Product</li><li>Sales Manager
+20. Select the entries:<br><ul><li>Dimension Store</li><li>Product</li><li>Sales Manager
 <br>
   
-23. Click OK.
+21. Click OK.
 <br>![](images/00_00_0307.png) 
   
-24. On your canvas you will then be presented with a token for the newly created Dimension Input Control.
+22. On your canvas you will then be presented with a token for the newly created Dimension Input Control.
 <br>![](images/00_00_0412.png) 
 
-25. Select the token and resize the token so that you can see all entries.
+23. Select the token and resize the token so that you can see all entries.
 <br>![](images/00_00_0413.png) 
   
-26. Now use a double click on the header of the Dimension Input Control and enter: Please select a dimension.
-27. Select the empty chart.
-28. Navigate to the Business Builder Panel on the right hand side.
-29. Click the Add Measure option for the Measures section.
-30. Select measure Revenue.
+24. Now use a double click on the header of the Dimension Input Control and enter: Please select a dimension.
+25. Select the empty chart.
+26. Navigate to the Business Builder Panel on the right hand side.
+27. Click the Add Measure option for the Measures section.
+28. Select measure Revenue.
 <br>![](images/00_00_0210.png)  
   
-31. Now open the More Actions menu for the chart.  
-32. Select the menu Rank.  
-33. Select the option Top N Options.
+29. Now open the More Actions menu for the chart.  
+30. Select the menu Rank.  
+31. Select the option Top N Options.
 <br>![](images/00_00_0415.png) 
   
-34. Set the Value to 10.
-35. Click Apply. 
+32. Set the Value to 10.
+33. Click Apply. 
 <br>![](images/00_00_0416.png) 
   
-36. You should now have a chart showing the Top 10 entries based on the dimension selected with the input
+34. You should now have a chart showing the Top 10 entries based on the dimension selected with the input
 control and based on the Consumption Layer created in SAP Data Warehouse Cloud.
 <br>![](images/00_00_0417.png) 
   
-37. In the File menu select the option to save your story.
-38. Select the User folder that matches your assigned user number.
-39. Enter a Name and Description like ***Best Salesperson***.
-40. Click OK.  
+35. In the File menu select the option to save your story.
+36. Select the User folder that matches your assigned user number.
+37. Enter a Name and Description like ***Best Salesperson***.
+38. Click OK.  
 
 
 ## Summary
