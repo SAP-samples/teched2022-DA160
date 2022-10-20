@@ -48,7 +48,7 @@ The ***Fast Track*** is for anyone eager to finish early and enyjoy exploring th
 4. **SAP Data Warehouse Cloud – Business Layer**
 	* [Exercises 09: Business Layer - Dimension](exercises/ex09/README.md) - DONE
 	* [Exercises 10: Business Layer – Analytical Dataset](exercises/ex10/README.md) - DONE
-	* [Exercises 11: Business Layer – Consumption Layer](exercises/ex11/README.md) - DONE
+	* [Exercises 11: Business Layer – Consumption Model](exercises/ex11/README.md) - DONE
 	
 5.  **SAP Analytics Cloud**
 	* [Exercise 12: Year over Year Comparison (Fast Track - Requires Exercise 08 to be completed)](exercises/ex12/README.md) - DONE
