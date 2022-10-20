@@ -2,7 +2,7 @@
 
 We structured the overvall exercise in a way, that we created a 
   * **Fast Track** for anyone eager to finish early and enjoy exploring the system on your own.
-  * **Optional Exercises** if you want to learn more about the solution especially how to create tables, ER models and Business Layer models.
+  * **Optional Exercises** if you want to learn more about the solution especially how to create tables, ER Models, and Business Layer models.
 
 <br>![](images/DA160.jpg)
 <br> <br> 
