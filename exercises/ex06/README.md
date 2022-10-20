@@ -39,4 +39,4 @@ We will now upload the CSV files into the corresponding tables.
 
 Now you have imported all the data files and you can start to build the data model. 
 
-Continue to - [Exercise 07: Creating the Dimension (mandatory)](../ex07/README.md)
+Continue to - [Exercise 07: Creating the Dimension (part of <strong>Fast Track</strong> and a mandatory exercise)](../ex07/README.md)
