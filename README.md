@@ -31,7 +31,7 @@ The ***Fast Track*** is for anyone eager to finish early and enyjoy exploring th
 1. **Getting Started**
 	* [Overview about the Business Scenario & the Data Model](exercises/ex00/README.md) - DONE
 	* [Get your guided experience trial system](exercises/ex00/README_GuidedTrial.md) - DONE
-	* [Exercise Overview](exercises/ex00/README_ExOverview.md) - WORK IN PROGRESS
+	* [Exercise Overview](exercises/ex00/README_ExOverview.md) - DONE
 	
 2. **SAP Data Warehouse Cloud**
 	* [Exercise 01: First Log On](exercises/ex01/README.md) - DONE
