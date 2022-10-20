@@ -45,66 +45,66 @@ of our revenue information
 15. Click OK.
 <br>![](images/00_00_0208.png) 
 
-18. Select the option to add a Chart.
+16. Select the option to add a Chart.
 <br>![](images/00_00_0207.png) 
 
-19. Now select the newly created empty chart on the canvas.
-20. Navigate to the Builder Panel on the right hand side.
+17. Now select the newly created empty chart on the canvas.
+18. Navigate to the Builder Panel on the right hand side.
 <br>![](images/00_00_0203.png) 
 
 
-21. Click Add Dimension as part of the Dimensions section.
+19. Click Add Dimension as part of the Dimensions section.
 <br>![](images/00_00_0209.png) 
 
-22. Select Transaction Date.
+20. Select Transaction Date.
 <br>![](images/00_00_0202.png) 
 
-23. Click Add Measure as part of the Measures section.
-24. Select measure Revenue.
+21. Click Add Measure as part of the Measures section.
+22. Select measure Revenue.
 <br>![](images/00_00_0210.png) 
 
-25. Now click on the hierarchy icon for dimension Transaction Date in the Builder Panel.
-26. Select the option Set Hierarchy.
+23. Now click on the hierarchy icon for dimension Transaction Date in the Builder Panel.
+24. Select the option Set Hierarchy.
 <br>![](images/00_00_0212.png) 
 
-27. Select the entry Year, Quarter, Month, Day.
-28. Click Set.
+25. Select the entry Year, Quarter, Month, Day.
+26. Click Set.
 <br>![](images/00_00_0211.png) 
 
-29. Now click on the hierarchy icon for dimension Transaction Date in the Builder Panel a second time.
-30. Select the option Level 4 – which represents the Month level.
+27. Now click on the hierarchy icon for dimension Transaction Date in the Builder Panel a second time.
+28. Select the option Level 4 – which represents the Month level.
 <br>![](images/00_00_0213.png)
 
-31. Your chart should look similar to the image shown below.
+29. Your chart should look similar to the image shown below.
 <br>![](images/00_00_0214.png) 
 
-32. So instead of looking at two years of data, we want to look at the current year – 2022 – and see the variance
+30. So instead of looking at two years of data, we want to look at the current year – 2022 – and see the variance
 compared to the last year data.
-33. Click on the Filter icon for dimension Transaction Date.
-34. Select the option Filter by Member.
+31. Click on the Filter icon for dimension Transaction Date.
+32. Select the option Filter by Member.
 <br>![](images/00_00_0215.png) 
 
-35. Open the list of members and select the year 2022.
-36. Click OK
+33. Open the list of members and select the year 2022.
+34. Click OK
 <br>![](images/00_00_0216_2.png) 
 
 
-37. Now click on the hierarchy icon for dimension Transaction Date in the Builder Panel.
-38. Select the option Level 3 – which represents the Month level now as we selected a Year as entry point.
+35. Now click on the hierarchy icon for dimension Transaction Date in the Builder Panel.
+36. Select the option Level 3 – which represents the Month level now as we selected a Year as entry point.
 <br>![](images/00_00_0217.png) 
 
-39. Open the More menu for the chart (top right corner).
-40. Select the menu Compare to
-41. Select the option Previous Year.
+37. Open the More menu for the chart (top right corner).
+38. Select the menu Compare to
+39. Select the option Previous Year.
 <br>![](images/00_00_0218.png) 
 
-42. Your chart should look like this.
+40. Your chart should look like this.
 <br>![](images/00_00_0219.png) 
 
-43. In the File menu select the option "save" to save your story.
-44. Create a User folder that matches your Space name,  e.g. ***GE12345***.
-45. Enter a Name and Description like ***Year over Year comparison***.
-46. Click OK.
+41. In the File menu select the option "save" to save your story.
+42. Create a User folder that matches your Space name,  e.g. ***GE12345***.
+43. Enter a Name and Description like ***Year over Year comparison***.
+44. Click OK.
 
 ## Summary
 
