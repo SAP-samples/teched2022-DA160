@@ -29,31 +29,31 @@ Be aware that some of the exercises are based on each other, and have to be done
 The ***Fast Track*** is for anyone eager to finish early and enyjoy exploring the system on your own. <br>The others are ***Optional Exercises*** only relevant if you want to learn more about the solution especially how to crearte tables, ER models and the Business Layer. This gives you the flexibility to decide which exercises you would like to focus on.
 
 1. **Getting Started**
-	* [Overview about the Business Scenario & the Data Model](exercises/ex00/README.md) - DONE
-	* [Get your guided experience trial system](exercises/ex00/README_GuidedTrial.md) - DONE
-	* [Exercise Overview](exercises/ex00/README_ExOverview.md) - DONE
+	* [Overview about the Business Scenario & the Data Model](exercises/ex00/README.md) 
+	* [Get your guided experience trial system](exercises/ex00/README_GuidedTrial.md) 
+	* [Exercise Overview](exercises/ex00/README_ExOverview.md) 
 	
 2. **SAP Data Warehouse Cloud**
-	* [Exercise 01: First Log On](exercises/ex01/README.md) - DONE
-	* [Exercise 02: Get to know your own Space (Fast Track)](exercises/ex02/README.md) - DONE
+	* [Exercise 01: First Log On](exercises/ex01/README.md) 
+	* [Exercise 02: Get to know your own Space (Fast Track)](exercises/ex02/README.md) 
 
 3. **SAP Data Warehouse Cloud – Data Builder**
-	* [Exercise 03: Prepare Your Data](exercises/ex03/README.md) - DONE
-	* [Exercise 04: Creating the Entity Relationship Model](exercises/ex04/README.md) - DONE
-	* [Exercise 05: Importing Tables (Fast Track)](exercises/ex05/README.md) - DONE
-	* [Exercise 06: Uploading Data (Fast Track)](exercises/ex06/README.md) - DONE
-	* [Exercise 07: Creating the Dimension (Fast Track)](exercises/ex07/README.md) - DONE
-	* [Exercise 08: Creating the View (Fast Track)](exercises/ex08/README.md) - DONE
+	* [Exercise 03: Prepare Your Data](exercises/ex03/README.md) 
+	* [Exercise 04: Creating the Entity Relationship Model](exercises/ex04/README.md) 
+	* [Exercise 05: Importing Tables (Fast Track)](exercises/ex05/README.md) 
+	* [Exercise 06: Uploading Data (Fast Track)](exercises/ex06/README.md) 
+	* [Exercise 07: Creating the Dimension (Fast Track)](exercises/ex07/README.md) 
+	* [Exercise 08: Creating the View (Fast Track)](exercises/ex08/README.md) 
 	
 4. **SAP Data Warehouse Cloud – Business Layer**
-	* [Exercises 09: Business Layer - Dimension](exercises/ex09/README.md) - DONE
-	* [Exercises 10: Business Layer – Analytical Dataset](exercises/ex10/README.md) - DONE
-	* [Exercises 11: Business Layer – Consumption Model](exercises/ex11/README.md) - DONE
+	* [Exercises 09: Business Layer - Dimension](exercises/ex09/README.md) 
+	* [Exercises 10: Business Layer – Analytical Dataset](exercises/ex10/README.md) 
+	* [Exercises 11: Business Layer – Consumption Model](exercises/ex11/README.md) 
 	
 5.  **SAP Analytics Cloud**
-	* [Exercise 12: Year over Year Comparison (Fast Track - Requires Exercise 08 to be completed)](exercises/ex12/README.md) - DONE
-	* [Exercise 13: Revenue by Geography (Fast Track - Requires Exercise 08 to be completed)](exercises/ex13/README.md) - DONE
-	* [Exercise 14: Best Salesperson (Requires Exercise 11 to be completed)](exercises/ex14/README.md) - DONE
+	* [Exercise 12: Year over Year Comparison (Fast Track - Requires Exercise 08 to be completed)](exercises/ex12/README.md) 
+	* [Exercise 13: Revenue by Geography (Fast Track - Requires Exercise 08 to be completed)](exercises/ex13/README.md) 
+	* [Exercise 14: Best Salesperson (Requires Exercise 11 to be completed)](exercises/ex14/README.md) 
 
     
 Have fun :smiley:
