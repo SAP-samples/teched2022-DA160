@@ -42,4 +42,4 @@ We structured the overvall exercise in a way, that we created a
 
 Now that you have a good understanding of the exercises, you can start into the hands-on part.
 
-Continue with [Exercise 01: First Log On (optional)](../ex01/README.md)
+Continue with [Exercise 01: First Log On](../ex01/README.md)
