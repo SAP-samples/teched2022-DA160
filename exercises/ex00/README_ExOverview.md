@@ -1,40 +1,45 @@
-# Overview about the Business Scenario & the Data Model
+# Exercise Overview
 
-## The Business Screnario
+We structured the overvall exercise in way, that we created a 
+  * ***FAST TRACK*** for anyone eager to finish early and enyjoy exploring the system on your own and
+  * ***OPTIONAL EXERCISES*** if you want to learn more about the solution especially how to crearte tables, ER models and the Business Layer.
 
-The sample data set for the session represents retail transactions from a number of outlet stores located in the United States. The transaction details include the store, the sold product, and the sales manager. In addition, the information on revenue, cost, discount, and profit is available for each transaction. 
+<br>![](images/DA160.jpg)
 
-The sales department is looking for a few analytics they need:
+1. **Getting Started**
+	* [Overview about the Business Scenario & the Data Model](exercises/ex00/README.md) - DONE
+	* [Get your guided experience trial system](exercises/ex00/README_GuidedTrial.md) - DONE
+	* [Exercise Overview](exercises/ex00/README_ExOverview.md) - WORK IN PROGRESS
+	
+2. **SAP Data Warehouse Cloud**
+	* [Exercise 01: First Log On (optional)](exercises/ex01/README.md) - DONE
+	* [Exercise 02: Get to know your own Space (mandatory)](exercises/ex02/README.md)<br>
+	  Lorem ipsum explanation
 
-* **Year-over-Year Sales Comparison**<br>
-They want to compare the current years’ company sales with the previous year.  
+3. **SAP Data Warehouse Cloud – Data Builder**
+	* [Exercise 03: Prepare Your Data (optional)](exercises/ex03/README.md) - DONE
+	* [Exercise 04: Creating the Entity Relationship Model (optional)](exercises/ex04/README.md) - DONE
+	* [Exercise 05: Importing Tables (mandatory)](exercises/ex05/README.md) - DONE
+	* [Exercise 06: Uploading Data (mandatory)](exercises/ex06/README.md) - DONE
+	* [Exercise 07: Creating the Dimension (mandatory)](exercises/ex07/README.md) - DONE
+	* [Exercise 08: Creating the View (mandatory)](exercises/ex08/README.md) - DONE
+	
+4. **SAP Data Warehouse Cloud – Business Layer**
+	* [Exercises 09: Business Layer - Dimension](exercises/ex09/README.md) - DONE
+	* [Exercises 10: Business Layer – Analytical Dataset](exercises/ex10/README.md) - DONE
+	* [Exercises 11: Business Layer – Consumption Layer](exercises/ex11/README.md) - DONE
+	
+5.  **SAP Analytics Cloud**
+	* [Exercise 12: Year over Year Comparison (requires Exercise 08 to be completed)](exercises/ex12/README.md) - DONE
+	* [Exercise 13: Revenue by Geography (requires Exercise 08 to be completed)](exercises/ex13/README.md) - DONE
+	* [Exercise 14: Best Salesperson (requires Exercise 11 to be completed)](exercises/ex14/README.md) - DONE
 
-* **Sales Per Region**<br>
-Due to an increase in the number of sales, the customer wants to understand how the different regions are  performing. Based on this visualization, the marketing team would identify the regions which are doing good as  well as the regions which need attention or better marketing campaigns  
-
-* **Best Sales Representative**<br>
-It is time for the company to reward the best Sales Representative for all the hard-work that has resulted in the  sales report. For this purpose, the company needs to have a visualization that shows revenue per sales  representative.  
-
-The exercises will walk you through the steps using SAP Data Warehouse Cloud and SAP Analytics Cloud to answer those open questions, where the following tables are being used:  
-
-| Table Name          | Description                           | Model Type          |
-|:--------------------|:--------------------------------------|:--------------------|
-| Sales Transactions  | Daily retail transactions per store   | Relational Dataset  |
-| Store	              | Details per Store Outlet              | Dimension           | 
-| Sales Manager       | Details on all Sales Manager          | Dimension           | 
-| Product             | Details on the products being sold    | Dimension           | 
-
-The data is provided in CSV files in this ZIP-file: :arrow_right: [DA160_Resources.zip](../../DA160_Resources.zip)
-
-## The Data Model
 
 These four tables consist of one fact table which includes the sales transactions details, and three dimension tables for more details about the product, the store and the sales manager.<br> 
 The ***Time Dimension*** will be created as part of the Exercise 02 and associated to the sales transaction table as shown in the Enitity-Relationship-Model.
 
-<br>![](images/00_01_0010.png)
-
 ## Summary
 
-Now that you have a good understanding of the business scenario and the data model, you can start to get a guided experience trial system.
+Now that you have a good understanding of the exercises, you can start into the hands-on part.
 
-Continue with [Get your Guided Experience Trial system](../ex00/README_GuidedTrial.md)
+Continue with [Exercise 01: First Log On (optional)](../ex01/README.md)
