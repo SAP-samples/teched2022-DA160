@@ -1,6 +1,6 @@
 # Exercise 02: Get to know your own Space
 
-> :memo: **Note:** This is an MANDATORY Exercise
+> :memo: **Note:** This is part of the <strong>Fast Track</strong> and a mandatory exercise.
 
 ---
 
