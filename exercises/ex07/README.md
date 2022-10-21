@@ -52,46 +52,41 @@ In this exercise, we will create the new Dimension View based on our previously 
 Relationship model.</li><li> You can open the table in the editor.</li><li> You can preview the data.
 <br>
 
-18. Now click on the output view that was added, in our example View 1.
-19. Ensure the option Details (top right corner) is enabled.
-
- 
-20. Now select the node for table Store on the canvas.
+18. Use the option to add a new calculated column. This option also includes the ability to configure the geographic enrichment.
 <br>![](images/00_00_0077.png) 
-
-21. Use the option to add a new calculated column. This option also includes the ability to configure the geographic enrichment.
-22. Now click on the new entry “fx” on the canvas.
+ 
+19. Now click on the new entry “fx” on the canvas.
 <br>![](images/00_00_0078.png) 
 
-23. Navigate to the properties on the right hand side.
-24. Click on the ***“+”*** sign and select the option Geo-Coordinates Column.
+20. Navigate to the properties on the right hand side.
+21. Click on the ***“+”*** sign and select the option Geo-Coordinates Column.
 <br>![](images/00_00_0079.png) 
  
-25. You are presented with the properties for the new column
+22. You are presented with the properties for the new column
 <br>![](images/00_00_0772.png) 
 
-26. Configure the following details:<br><ul><li> Business Name: Store Location</li><li> Technical Name: Store_Location</li><li> Latitude: Latitude</li><li> Longitude: Longitude
+23. Configure the following details:<br><ul><li> Business Name: Store Location</li><li> Technical Name: Store_Location</li><li> Latitude: Latitude</li><li> Longitude: Longitude
 <br>
 
-27. After you configured the details, click on the the “<Columns” option in the properties window to go back.
+24. After you configured the details, click on the the “<Columns” option in the properties window to go back.
 <br>![](images/00_00_0773.png) 
 
-28. Select the final output node for the Dimension View.
-29. Navigate to the properties on the right hand side.
-30. Navigate to the Attributes area. 
-31. Use the pencil icon (top right area) to open the details for the Attributes.
+25. Select the final output node for the Dimension View.
+26. Navigate to the properties on the right hand side.
+
+27. Navigate to the Attributes area. 
+28. Use the pencil icon (top right area) to open the details for the Attributes.
 <br>![](images/00_00_0774.png)
 
-32. Ensure the Semantic Type for the line item Store Name is set to Text.
-33. Set the Label Column for the line item Store ID to be the Store Name.
-34. Click ***Close***.
+29. Ensure the Semantic Type for the line item Store Name is set to Text.
+30. Set the Label Column for the line item Store ID to be the Store Name.
+31. Click ***Close***.
 <br>![](images/00_00_0775.png) 
  
-35. In the toolbar in the General menu, use the option to Save your changes.
-36. After saving your dimension View, ensure you deploy the view.
+32. In the toolbar in the General menu, use the option to Save your changes.
+33. After saving your dimension View, ensure you deploy the view.
 <br>![](images/00_00_0776.png) 
-37. In the menu on the left hand side, click on the Home icon.
-
+34. In the menu on the left hand side, click on the Home icon.
 
 ## Summary
 
