@@ -49,7 +49,7 @@ dimension Store
 
 ---
 > :boom: ***Important*** :boom: <br> 
-> 23. You can now continue and repeat the steps 6-22 for the other associations:<br>- Product<br>- Sales Manager<br>- Time Dimension – Day (Business Layer)<br> 
+> 23. You can now continue and repeat the steps 6-22 for the other associations:<br>- Product<br>- Sales Manager<br>- Time Dimension – Day (View)<br> 
 
 ---
 
