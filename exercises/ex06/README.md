@@ -32,7 +32,8 @@ We will now upload the CSV files into the corresponding tables.
 
 15. There is no need to save / deploy the table after you imported the data.
 
-> :boom: ***Important*** :boom: <br> You can now continue and repeat the steps 4 - 14 for the other tables. Each table does have a corresponding CSV file as part of the download. Please upload the data for the following tables:<br>- Product (Dimension Product.csv)<br>- Store (Dimension Store.csv) <br>- Sales Manager (Dimension Sales Manager.csv)<br>
+> :boom: ***Important*** :boom: <br> 
+> 16. You can now continue and repeat the steps 4 - 14 for the other tables. Each table does have a corresponding CSV file as part of the download. Please upload the data for the following tables:<br>- Product (Dimension Product.csv)<br>- Store (Dimension Store.csv) <br>- Sales Manager (Dimension Sales Manager.csv)<br>
 
 
 ## Summary
