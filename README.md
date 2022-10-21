@@ -55,9 +55,9 @@ The others are ***Optional Exercises*** only relevant if you want to learn more 
 	* [Exercises 11: Business Layer – Consumption Model](exercises/ex11/README.md) 
 	
 5.  **SAP Analytics Cloud**
-	* [Exercise 12: Year over Year Comparison (Fast Track - Requires Exercise 08 to be completed)](exercises/ex12/README.md) 
-	* [Exercise 13: Revenue by Geography (Fast Track - Requires Exercise 08 to be completed)](exercises/ex13/README.md) 
-	* [Exercise 14: Best Salesperson (Requires Exercise 11 to be completed)](exercises/ex14/README.md) 
+	* [Exercise 12: Year over Year Comparison <br>(Fast Track - Requires Exercise 08 to be completed)](exercises/ex12/README.md) 
+	* [Exercise 13: Revenue by Geography <br>(Fast Track - Requires Exercise 08 to be completed)](exercises/ex13/README.md) 
+	* [Exercise 14: Best Salesperson <br>(Requires Exercise 11 to be completed)](exercises/ex14/README.md) 
 
     
 Have fun :smiley:
