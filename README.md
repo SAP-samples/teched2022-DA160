@@ -24,6 +24,10 @@ Download the ZIP-file from the GitHub site: :arrow_right: [DA160_Resources.zip](
 > :warning: **Once downloaded to your local machine, please unzip the file into a separate folder.** <br>
 > :warning: **You will need it for the exercises. So, please remember the file location of the unzipped files!**
 
+System Access <br>
+SAP Data Warehouse Cloud: https://academy-t-dwc.us10.hcs.cloud.sap/ <br>
+SAP Analytics Cloud: https://academy-t-sac.us10.hcs.cloud.sap/
+
 ## Exercises
 
 Be aware that some of the exercises are based on each other, and have to be done in the sequence given below.<br>
