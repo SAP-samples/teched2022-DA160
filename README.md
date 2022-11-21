@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-DA160)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-DA160)
+
 # DA160 - Explore SAP Data Warehouse Cloud from A to Z
 
 ## Description
